@@ -1,0 +1,4639 @@
+{
+  "adjectives": [
+    {
+      "word": "able",
+      "word_type": "adjective",
+      "definitions": [
+        "capable"
+      ]
+    },
+    {
+      "word": "abnormal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "absent",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "absolute",
+      "word_type": "adjective",
+      "definitions": [
+        "perfect or complete"
+      ]
+    },
+    {
+      "word": "abstract",
+      "word_type": "adjective",
+      "definitions": [
+        "existing only in the mind"
+      ]
+    },
+    {
+      "word": "abundant",
+      "word_type": "adjective",
+      "definitions": [
+        "plentiful"
+      ]
+    },
+    {
+      "word": "academic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "acceptable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "accessible",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "accurate",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "active",
+      "word_type": "adjective",
+      "definitions": [
+        "vigorous"
+      ]
+    },
+    {
+      "word": "acute",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "addicted",
+      "word_type": "adjective",
+      "definitions": [
+        "hooked"
+      ]
+    },
+    {
+      "word": "adequate",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "aesthetic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "afraid",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "aggressive",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "agile",
+      "word_type": "adjective",
+      "definitions": [
+        "nimble",
+        " spry",
+        " quick"
+      ]
+    },
+    {
+      "word": "agricultural",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "alert",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "alive",
+      "word_type": "adjective",
+      "definitions": [
+        "live"
+      ]
+    },
+    {
+      "word": "aloof",
+      "word_type": "adjective",
+      "definitions": [
+        "distant"
+      ]
+    },
+    {
+      "word": "amber",
+      "word_type": "adjective",
+      "definitions": [
+        "yellowish"
+      ]
+    },
+    {
+      "word": "ambiguous",
+      "word_type": "adjective",
+      "definitions": [
+        "equivocal"
+      ]
+    },
+    {
+      "word": "ambitious",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "ample",
+      "word_type": "adjective",
+      "definitions": [
+        "sizable",
+        " capacious"
+      ]
+    },
+    {
+      "word": "angry",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "annual",
+      "word_type": "adjective",
+      "definitions": [
+        "yearly"
+      ]
+    },
+    {
+      "word": "anonymous",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "applied",
+      "word_type": "adjective",
+      "definitions": [
+        "concerned with concrete problems or data"
+      ]
+    },
+    {
+      "word": "appropriate",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "arbitrary",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "archaeological",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "arrogant",
+      "word_type": "adjective",
+      "definitions": [
+        "self-important"
+      ]
+    },
+    {
+      "word": "artificial",
+      "word_type": "adjective",
+      "definitions": [
+        "unreal",
+        " unnatural"
+      ]
+    },
+    {
+      "word": "artistic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "ashamed",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "asleep",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "assertive",
+      "word_type": "adjective",
+      "definitions": [
+        "self-assured"
+      ]
+    },
+    {
+      "word": "astonishing",
+      "word_type": "adjective",
+      "definitions": [
+        "astounding",
+        " staggering"
+      ]
+    },
+    {
+      "word": "attractive",
+      "word_type": "adjective",
+      "definitions": [
+        "pleasing to the eye or mind"
+      ]
+    },
+    {
+      "word": "automatic",
+      "word_type": "adjective",
+      "definitions": [
+        "operating with minimal human intervention"
+      ]
+    },
+    {
+      "word": "available",
+      "word_type": "adjective",
+      "definitions": [
+        "obtainable"
+      ]
+    },
+    {
+      "word": "awake",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "aware",
+      "word_type": "adjective",
+      "definitions": [
+        "mindful"
+      ]
+    },
+    {
+      "word": "awful",
+      "word_type": "adjective",
+      "definitions": [
+        "dreadful",
+        " terrible"
+      ]
+    },
+    {
+      "word": "awkward",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "bad",
+      "word_type": "adjective",
+      "definitions": [
+        "immoral",
+        " evil"
+      ]
+    },
+    {
+      "word": "bad",
+      "word_type": "adjective",
+      "definitions": [
+        "below average in quality or performance",
+        " defective"
+      ]
+    },
+    {
+      "word": "bad",
+      "word_type": "adjective",
+      "definitions": [
+        "spoiled",
+        " spoilt",
+        " capable of harming"
+      ]
+    },
+    {
+      "word": "balanced",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "bald",
+      "word_type": "adjective",
+      "definitions": [
+        "lacking hair"
+      ]
+    },
+    {
+      "word": "bare",
+      "word_type": "adjective",
+      "definitions": [
+        "lacking its natural or customary covering"
+      ]
+    },
+    {
+      "word": "basic",
+      "word_type": "adjective",
+      "definitions": [
+        "pertaining to a base or basis"
+      ]
+    },
+    {
+      "word": "beautiful",
+      "word_type": "adjective",
+      "definitions": [
+        "possessing beauty"
+      ]
+    },
+    {
+      "word": "bitter",
+      "word_type": "adjective",
+      "definitions": [
+        "acrimonious",
+        " resentful"
+      ]
+    },
+    {
+      "word": "bitter",
+      "word_type": "adjective",
+      "definitions": [
+        "bitter-tasting"
+      ]
+    },
+    {
+      "word": "black",
+      "word_type": "adjective",
+      "definitions": [
+        "achromatic"
+      ]
+    },
+    {
+      "word": "black",
+      "word_type": "adjective",
+      "definitions": [
+        "without cream or sugar"
+      ]
+    },
+    {
+      "word": "bland",
+      "word_type": "adjective",
+      "definitions": [
+        "tasteless",
+        " insipid",
+        " flavorless"
+      ]
+    },
+    {
+      "word": "blank",
+      "word_type": "adjective",
+      "definitions": [
+        "empty",
+        " not filled in"
+      ]
+    },
+    {
+      "word": "blind",
+      "word_type": "adjective",
+      "definitions": [
+        "unsighted"
+      ]
+    },
+    {
+      "word": "blonde",
+      "word_type": "adjective",
+      "definitions": [
+        "light-haired"
+      ]
+    },
+    {
+      "word": "bloody",
+      "word_type": "adjective",
+      "definitions": [
+        "covered with blood"
+      ]
+    },
+    {
+      "word": "bold",
+      "word_type": "adjective",
+      "definitions": [
+        "fearless and daring"
+      ]
+    },
+    {
+      "word": "brave",
+      "word_type": "adjective",
+      "definitions": [
+        "courageous",
+        " fearless"
+      ]
+    },
+    {
+      "word": "broken",
+      "word_type": "adjective",
+      "definitions": [
+        "physically separated into pieces"
+      ]
+    },
+    {
+      "word": "brown",
+      "word_type": "adjective",
+      "definitions": [
+        "having a brown color"
+      ]
+    },
+    {
+      "word": "bureaucratic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "busy",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "capable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "careful",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "cautious",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "central",
+      "word_type": "adjective",
+      "definitions": [
+        "in or near a center"
+      ]
+    },
+    {
+      "word": "certain",
+      "word_type": "adjective",
+      "definitions": [
+        "sure"
+      ]
+    },
+    {
+      "word": "characteristic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "charismatic",
+      "word_type": "adjective",
+      "definitions": [
+        "possessing a magnetic personality"
+      ]
+    },
+    {
+      "word": "cheap",
+      "word_type": "adjective",
+      "definitions": [
+        "inexpensive"
+      ]
+    },
+    {
+      "word": "cheerful",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "childish",
+      "word_type": "adjective",
+      "definitions": [
+        "infantile"
+      ]
+    },
+    {
+      "word": "chronic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "civic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "civilian",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "classical",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "clean",
+      "word_type": "adjective",
+      "definitions": [
+        "free from dirt"
+      ]
+    },
+    {
+      "word": "clear",
+      "word_type": "adjective",
+      "definitions": [
+        "free from clouds or mist or haze"
+      ]
+    },
+    {
+      "word": "clear",
+      "word_type": "adjective",
+      "definitions": [
+        "well-defined"
+      ]
+    },
+    {
+      "word": "close",
+      "word_type": "adjective",
+      "definitions": [
+        "close in relevance or relationship"
+      ]
+    },
+    {
+      "word": "close",
+      "word_type": "adjective",
+      "definitions": [
+        "near"
+      ]
+    },
+    {
+      "word": "closed",
+      "word_type": "adjective",
+      "definitions": [
+        "shut",
+        " unopen"
+      ]
+    },
+    {
+      "word": "cold",
+      "word_type": "adjective",
+      "definitions": [
+        "physically cold"
+      ]
+    },
+    {
+      "word": "cold",
+      "word_type": "adjective",
+      "definitions": [
+        "without human warmth or emotion"
+      ]
+    },
+    {
+      "word": "color-blind",
+      "word_type": "adjective",
+      "definitions": [
+        "unable to distinguish colors"
+      ]
+    },
+    {
+      "word": "colourful",
+      "word_type": "adjective",
+      "definitions": [
+        "vivid in color"
+      ]
+    },
+    {
+      "word": "comfortable",
+      "word_type": "adjective",
+      "definitions": [
+        "comfy"
+      ]
+    },
+    {
+      "word": "commercial",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "common",
+      "word_type": "adjective",
+      "definitions": [
+        "average or ordinary or usual"
+      ]
+    },
+    {
+      "word": "common",
+      "word_type": "adjective",
+      "definitions": [
+        "belonging to a community"
+      ]
+    },
+    {
+      "word": "common",
+      "word_type": "adjective",
+      "definitions": [
+        "mutual"
+      ]
+    },
+    {
+      "word": "comparable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "compatible",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "competent",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "competitive",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "complete",
+      "word_type": "adjective",
+      "definitions": [
+        "having every necessary part"
+      ]
+    },
+    {
+      "word": "complex",
+      "word_type": "adjective",
+      "definitions": [
+        "complicated"
+      ]
+    },
+    {
+      "word": "comprehensive",
+      "word_type": "adjective",
+      "definitions": [
+        "all-including"
+      ]
+    },
+    {
+      "word": "concrete",
+      "word_type": "adjective",
+      "definitions": [
+        "material"
+      ]
+    },
+    {
+      "word": "confident",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "conscious",
+      "word_type": "adjective",
+      "definitions": [
+        "aware"
+      ]
+    },
+    {
+      "word": "conservative",
+      "word_type": "adjective",
+      "definitions": [
+        "resistant to change"
+      ]
+    },
+    {
+      "word": "considerable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "consistent",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "constant",
+      "word_type": "adjective",
+      "definitions": [
+        "steadfast",
+        " unwavering"
+      ]
+    },
+    {
+      "word": "constant",
+      "word_type": "adjective",
+      "definitions": [
+        "unending",
+        " incessant"
+      ]
+    },
+    {
+      "word": "constitutional",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to a\/the constitution"
+      ]
+    },
+    {
+      "word": "constructive",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "content",
+      "word_type": "adjective",
+      "definitions": [
+        "contented"
+      ]
+    },
+    {
+      "word": "continental",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to a continent"
+      ]
+    },
+    {
+      "word": "continuous",
+      "word_type": "adjective",
+      "definitions": [
+        "uninterrupted"
+      ]
+    },
+    {
+      "word": "controversial",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "convenient",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "conventional",
+      "word_type": "adjective",
+      "definitions": [
+        "following accepted customs"
+      ]
+    },
+    {
+      "word": "cool",
+      "word_type": "adjective",
+      "definitions": [
+        "neither warm or very cold in temperature"
+      ]
+    },
+    {
+      "word": "cool",
+      "word_type": "adjective",
+      "definitions": [
+        "unenthusiastic",
+        " unfriendly",
+        " unresponsive"
+      ]
+    },
+    {
+      "word": "cooperative",
+      "word_type": "adjective",
+      "definitions": [
+        "co-operative"
+      ]
+    },
+    {
+      "word": "corporate",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "critical",
+      "word_type": "adjective",
+      "definitions": [
+        "tending to find errors and flaws"
+      ]
+    },
+    {
+      "word": "critical",
+      "word_type": "adjective",
+      "definitions": [
+        "being in a state of crisis or emergency"
+      ]
+    },
+    {
+      "word": "critical",
+      "word_type": "adjective",
+      "definitions": [
+        "vital urgently needed"
+      ]
+    },
+    {
+      "word": "crude",
+      "word_type": "adjective",
+      "definitions": [
+        "unrefined",
+        " unprocessed"
+      ]
+    },
+    {
+      "word": "crude",
+      "word_type": "adjective",
+      "definitions": [
+        "primitive"
+      ]
+    },
+    {
+      "word": "cruel",
+      "word_type": "adjective",
+      "definitions": [
+        "brutal",
+        " barbarous"
+      ]
+    },
+    {
+      "word": "cultural",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to arts"
+      ]
+    },
+    {
+      "word": "curious",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "current",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "cute",
+      "word_type": "adjective",
+      "definitions": [
+        "attractive"
+      ]
+    },
+    {
+      "word": "daily",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "dangerous",
+      "word_type": "adjective",
+      "definitions": [
+        "unsafe"
+      ]
+    },
+    {
+      "word": "dark",
+      "word_type": "adjective",
+      "definitions": [
+        "devoid of light"
+      ]
+    },
+    {
+      "word": "dead",
+      "word_type": "adjective",
+      "definitions": [
+        "inanimate"
+      ]
+    },
+    {
+      "word": "deadly",
+      "word_type": "adjective",
+      "definitions": [
+        "lethal"
+      ]
+    },
+    {
+      "word": "deaf",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "decisive",
+      "word_type": "adjective",
+      "definitions": [
+        "determining"
+      ]
+    },
+    {
+      "word": "decorative",
+      "word_type": "adjective",
+      "definitions": [
+        "cosmetic",
+        " ornamental"
+      ]
+    },
+    {
+      "word": "deep",
+      "word_type": "adjective",
+      "definitions": [
+        "having great spatial extension downward"
+      ]
+    },
+    {
+      "word": "definite",
+      "word_type": "adjective",
+      "definitions": [
+        "precise",
+        " explicit"
+      ]
+    },
+    {
+      "word": "delicate",
+      "word_type": "adjective",
+      "definitions": [
+        "exquisitely fine and subtle"
+      ]
+    },
+    {
+      "word": "delicate",
+      "word_type": "adjective",
+      "definitions": [
+        "fragile",
+        " frail",
+        " easily broken",
+        " sensitive"
+      ]
+    },
+    {
+      "word": "democratic",
+      "word_type": "adjective",
+      "definitions": [
+        "based upon the principles of democracy"
+      ]
+    },
+    {
+      "word": "dependent",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "desirable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "different",
+      "word_type": "adjective",
+      "definitions": [
+        "unlike",
+        " dissimilar"
+      ]
+    },
+    {
+      "word": "difficult",
+      "word_type": "adjective",
+      "definitions": [
+        "hard"
+      ]
+    },
+    {
+      "word": "digital",
+      "word_type": "adjective",
+      "definitions": [
+        "discrete"
+      ]
+    },
+    {
+      "word": "diplomatic",
+      "word_type": "adjective",
+      "definitions": [
+        "diplomatical",
+        " suave"
+      ]
+    },
+    {
+      "word": "direct",
+      "word_type": "adjective",
+      "definitions": [
+        "without deviation or interruption"
+      ]
+    },
+    {
+      "word": "dirty",
+      "word_type": "adjective",
+      "definitions": [
+        "soiled",
+        " unclean"
+      ]
+    },
+    {
+      "word": "dirty",
+      "word_type": "adjective",
+      "definitions": [
+        "obscene",
+        " indecent"
+      ]
+    },
+    {
+      "word": "discreet",
+      "word_type": "adjective",
+      "definitions": [
+        "keeping private",
+        " prudent",
+        " restrained"
+      ]
+    },
+    {
+      "word": "distant",
+      "word_type": "adjective",
+      "definitions": [
+        "separated in space or time"
+      ]
+    },
+    {
+      "word": "distinct",
+      "word_type": "adjective",
+      "definitions": [
+        "easy to perceive"
+      ]
+    },
+    {
+      "word": "domestic",
+      "word_type": "adjective",
+      "definitions": [
+        "concerning the internal affairs of a nation"
+      ]
+    },
+    {
+      "word": "domestic",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to the home"
+      ]
+    },
+    {
+      "word": "dominant",
+      "word_type": "adjective",
+      "definitions": [
+        "exercising influence or control"
+      ]
+    },
+    {
+      "word": "dramatic",
+      "word_type": "adjective",
+      "definitions": [
+        "pertaining to theater"
+      ]
+    },
+    {
+      "word": "dry",
+      "word_type": "adjective",
+      "definitions": [
+        "free from liquid or moisture"
+      ]
+    },
+    {
+      "word": "due",
+      "word_type": "adjective",
+      "definitions": [
+        "owed"
+      ]
+    },
+    {
+      "word": "dull",
+      "word_type": "adjective",
+      "definitions": [
+        "not having a sharp edge or point"
+      ]
+    },
+    {
+      "word": "dull",
+      "word_type": "adjective",
+      "definitions": [
+        "boring",
+        " lacking in liveliness or animation"
+      ]
+    },
+    {
+      "word": "dynamic",
+      "word_type": "adjective",
+      "definitions": [
+        "dynamical",
+        " characterized by action"
+      ]
+    },
+    {
+      "word": "eager",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "early",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "easy",
+      "word_type": "adjective",
+      "definitions": [
+        "posing no difficulty"
+      ]
+    },
+    {
+      "word": "economic",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to economics"
+      ]
+    },
+    {
+      "word": "educational",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "effective",
+      "word_type": "adjective",
+      "definitions": [
+        "effectual",
+        " efficacious"
+      ]
+    },
+    {
+      "word": "efficient",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "electronic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "elegant",
+      "word_type": "adjective",
+      "definitions": [
+        "refined",
+        " tasteful"
+      ]
+    },
+    {
+      "word": "eligible",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "eloquent",
+      "word_type": "adjective",
+      "definitions": [
+        "eloquent",
+        " well-spoken"
+      ]
+    },
+    {
+      "word": "emotional",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "empirical",
+      "word_type": "adjective",
+      "definitions": [
+        "empiric",
+        " derived from experiment and observation"
+      ]
+    },
+    {
+      "word": "empty",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "encouraging",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "enjoyable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "enthusiastic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "environmental",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to the external surroundings"
+      ]
+    },
+    {
+      "word": "equal",
+      "word_type": "adjective",
+      "definitions": [
+        "like",
+        " equivalent",
+        " same"
+      ]
+    },
+    {
+      "word": "essential",
+      "word_type": "adjective",
+      "definitions": [
+        "basic and fundamental"
+      ]
+    },
+    {
+      "word": "established",
+      "word_type": "adjective",
+      "definitions": [
+        "set up or accepted"
+      ]
+    },
+    {
+      "word": "eternal",
+      "word_type": "adjective",
+      "definitions": [
+        "everlasting",
+        " perpetual",
+        " unending"
+      ]
+    },
+    {
+      "word": "ethical",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "ethnic",
+      "word_type": "adjective",
+      "definitions": [
+        "cultural"
+      ]
+    },
+    {
+      "word": "even",
+      "word_type": "adjective",
+      "definitions": [
+        "level",
+        " flush"
+      ]
+    },
+    {
+      "word": "even",
+      "word_type": "adjective",
+      "definitions": [
+        "divisible by two"
+      ]
+    },
+    {
+      "word": "exact",
+      "word_type": "adjective",
+      "definitions": [
+        "precise"
+      ]
+    },
+    {
+      "word": "excited",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "exciting",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "exclusive",
+      "word_type": "adjective",
+      "definitions": [
+        "excluding much or all"
+      ]
+    },
+    {
+      "word": "exotic",
+      "word_type": "adjective",
+      "definitions": [
+        "foreign",
+        " alien"
+      ]
+    },
+    {
+      "word": "exotic",
+      "word_type": "adjective",
+      "definitions": [
+        "unusual",
+        " strikingly strange"
+      ]
+    },
+    {
+      "word": "expected",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "expensive",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "experienced",
+      "word_type": "adjective",
+      "definitions": [
+        "knowledgeable"
+      ]
+    },
+    {
+      "word": "experimental",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "explicit",
+      "word_type": "adjective",
+      "definitions": [
+        "expressed"
+      ]
+    },
+    {
+      "word": "express",
+      "word_type": "adjective",
+      "definitions": [
+        "without unnecessary stops"
+      ]
+    },
+    {
+      "word": "external",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "extinct",
+      "word_type": "adjective",
+      "definitions": [
+        "non-existent",
+        " not surviving"
+      ]
+    },
+    {
+      "word": "extraordinary",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "fair",
+      "word_type": "adjective",
+      "definitions": [
+        "impartial"
+      ]
+    },
+    {
+      "word": "faithful",
+      "word_type": "adjective",
+      "definitions": [
+        "sexually trustworthy"
+      ]
+    },
+    {
+      "word": "false",
+      "word_type": "adjective",
+      "definitions": [
+        "not in accordance with fact or reality"
+      ]
+    },
+    {
+      "word": "familiar",
+      "word_type": "adjective",
+      "definitions": [
+        "well known"
+      ]
+    },
+    {
+      "word": "far",
+      "word_type": "adjective",
+      "definitions": [
+        "at a long distance"
+      ]
+    },
+    {
+      "word": "fashionable",
+      "word_type": "adjective",
+      "definitions": [
+        "stylish"
+      ]
+    },
+    {
+      "word": "fast",
+      "word_type": "adjective",
+      "definitions": [
+        "at a rapid tempo"
+      ]
+    },
+    {
+      "word": "fastidious",
+      "word_type": "adjective",
+      "definitions": [
+        "finicky"
+      ]
+    },
+    {
+      "word": "fat",
+      "word_type": "adjective",
+      "definitions": [
+        "having much flesh",
+        " especially fat"
+      ]
+    },
+    {
+      "word": "favorable",
+      "word_type": "adjective",
+      "definitions": [
+        "encouraging",
+        " approving"
+      ]
+    },
+    {
+      "word": "federal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "feminine",
+      "word_type": "adjective",
+      "definitions": [
+        "womanly"
+      ]
+    },
+    {
+      "word": "financial",
+      "word_type": "adjective",
+      "definitions": [
+        "fiscal"
+      ]
+    },
+    {
+      "word": "fine",
+      "word_type": "adjective",
+      "definitions": [
+        "small-grained or smooth"
+      ]
+    },
+    {
+      "word": "finished",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "finished",
+      "word_type": "adjective",
+      "definitions": [
+        "ruined"
+      ]
+    },
+    {
+      "word": "first",
+      "word_type": "adjective",
+      "definitions": [
+        "initial"
+      ]
+    },
+    {
+      "word": "firsthand",
+      "word_type": "adjective",
+      "definitions": [
+        "direct"
+      ]
+    },
+    {
+      "word": "flat",
+      "word_type": "adjective",
+      "definitions": [
+        "horizontally level"
+      ]
+    },
+    {
+      "word": "flawed",
+      "word_type": "adjective",
+      "definitions": [
+        "imperfect",
+        " blemished",
+        " faulty"
+      ]
+    },
+    {
+      "word": "flexible",
+      "word_type": "adjective",
+      "definitions": [
+        "bendable"
+      ]
+    },
+    {
+      "word": "foolish",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "formal",
+      "word_type": "adjective",
+      "definitions": [
+        "adhering to traditional standards"
+      ]
+    },
+    {
+      "word": "forward",
+      "word_type": "adjective",
+      "definitions": [
+        "at",
+        " near or directed toward the front"
+      ]
+    },
+    {
+      "word": "fragrant",
+      "word_type": "adjective",
+      "definitions": [
+        "pleasant-smelling"
+      ]
+    },
+    {
+      "word": "frank",
+      "word_type": "adjective",
+      "definitions": [
+        "candid",
+        " blunt",
+        " forthright"
+      ]
+    },
+    {
+      "word": "free",
+      "word_type": "adjective",
+      "definitions": [
+        "able to act at will"
+      ]
+    },
+    {
+      "word": "free",
+      "word_type": "adjective",
+      "definitions": [
+        "complimentary",
+        " costless",
+        " gratis"
+      ]
+    },
+    {
+      "word": "free",
+      "word_type": "adjective",
+      "definitions": [
+        "not occupied"
+      ]
+    },
+    {
+      "word": "frequent",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "fresh",
+      "word_type": "adjective",
+      "definitions": [
+        "recently made",
+        " produced",
+        " or harvested"
+      ]
+    },
+    {
+      "word": "fresh",
+      "word_type": "adjective",
+      "definitions": [
+        "insolent",
+        " impertinent",
+        " impudent",
+        " sassy"
+      ]
+    },
+    {
+      "word": "friendly",
+      "word_type": "adjective",
+      "definitions": [
+        "befitting a friend"
+      ]
+    },
+    {
+      "word": "frozen",
+      "word_type": "adjective",
+      "definitions": [
+        "unthawed"
+      ]
+    },
+    {
+      "word": "full",
+      "word_type": "adjective",
+      "definitions": [
+        "containing as much as is possible"
+      ]
+    },
+    {
+      "word": "full",
+      "word_type": "adjective",
+      "definitions": [
+        "replete",
+        " filled to satisfaction with food"
+      ]
+    },
+    {
+      "word": "full-time",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "functional",
+      "word_type": "adjective",
+      "definitions": [
+        "designed for or capable of a particular function"
+      ]
+    },
+    {
+      "word": "funny",
+      "word_type": "adjective",
+      "definitions": [
+        "amusing",
+        " laughable"
+      ]
+    },
+    {
+      "word": "general",
+      "word_type": "adjective",
+      "definitions": [
+        "applying to most members of a category"
+      ]
+    },
+    {
+      "word": "generous",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "genetic",
+      "word_type": "adjective",
+      "definitions": [
+        "genetical"
+      ]
+    },
+    {
+      "word": "genuine",
+      "word_type": "adjective",
+      "definitions": [
+        "not fake or counterfeit"
+      ]
+    },
+    {
+      "word": "geological",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "glad",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "glorious",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "good",
+      "word_type": "adjective",
+      "definitions": [
+        "beneficial",
+        " salutary"
+      ]
+    },
+    {
+      "word": "good",
+      "word_type": "adjective",
+      "definitions": [
+        "just",
+        " upright",
+        " virtuous"
+      ]
+    },
+    {
+      "word": "gradual",
+      "word_type": "adjective",
+      "definitions": [
+        "proceeding in small stages"
+      ]
+    },
+    {
+      "word": "grand",
+      "word_type": "adjective",
+      "definitions": [
+        "luxurious",
+        " opulent",
+        " sumptuous"
+      ]
+    },
+    {
+      "word": "graphic",
+      "word_type": "adjective",
+      "definitions": [
+        "explicit",
+        " descriptive"
+      ]
+    },
+    {
+      "word": "graphic",
+      "word_type": "adjective",
+      "definitions": [
+        "pictorial",
+        " lifelike",
+        " vivid"
+      ]
+    },
+    {
+      "word": "grateful",
+      "word_type": "adjective",
+      "definitions": [
+        "thankful"
+      ]
+    },
+    {
+      "word": "great",
+      "word_type": "adjective",
+      "definitions": [
+        "outstanding",
+        " very valuable"
+      ]
+    },
+    {
+      "word": "great",
+      "word_type": "adjective",
+      "definitions": [
+        "large in size",
+        " number or extent"
+      ]
+    },
+    {
+      "word": "green",
+      "word_type": "adjective",
+      "definitions": [
+        "unripe",
+        " unripened"
+      ]
+    },
+    {
+      "word": "gregarious",
+      "word_type": "adjective",
+      "definitions": [
+        "sociable"
+      ]
+    },
+    {
+      "word": "handy",
+      "word_type": "adjective",
+      "definitions": [
+        "easy to use"
+      ]
+    },
+    {
+      "word": "happy",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "hard",
+      "word_type": "adjective",
+      "definitions": [
+        "not yielding to pressure"
+      ]
+    },
+    {
+      "word": "harmful",
+      "word_type": "adjective",
+      "definitions": [
+        "noxious"
+      ]
+    },
+    {
+      "word": "harsh",
+      "word_type": "adjective",
+      "definitions": [
+        "coarse",
+        " large-grained or rough to the touch"
+      ]
+    },
+    {
+      "word": "healthy",
+      "word_type": "adjective",
+      "definitions": [
+        "fit"
+      ]
+    },
+    {
+      "word": "heavy",
+      "word_type": "adjective",
+      "definitions": [
+        "of great physical weight"
+      ]
+    },
+    {
+      "word": "helpful",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "helpless",
+      "word_type": "adjective",
+      "definitions": [
+        "incapacitated"
+      ]
+    },
+    {
+      "word": "high",
+      "word_type": "adjective",
+      "definitions": [
+        "greater than normal in degree or intensity or amount"
+      ]
+    },
+    {
+      "word": "hilarious",
+      "word_type": "adjective",
+      "definitions": [
+        "uproarious"
+      ]
+    },
+    {
+      "word": "historical",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "holy",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "homosexual",
+      "word_type": "adjective",
+      "definitions": [
+        "gay"
+      ]
+    },
+    {
+      "word": "honest",
+      "word_type": "adjective",
+      "definitions": [
+        "sincere"
+      ]
+    },
+    {
+      "word": "honorable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "horizontal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "hostile",
+      "word_type": "adjective",
+      "definitions": [
+        "characterized by enmity or ill will"
+      ]
+    },
+    {
+      "word": "hot",
+      "word_type": "adjective",
+      "definitions": [
+        "being of high temperature"
+      ]
+    },
+    {
+      "word": "hot",
+      "word_type": "adjective",
+      "definitions": [
+        "marked by intensity",
+        " vehemence",
+        " passion"
+      ]
+    },
+    {
+      "word": "huge",
+      "word_type": "adjective",
+      "definitions": [
+        "immense",
+        " vast"
+      ]
+    },
+    {
+      "word": "human",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "hungry",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "ignorant",
+      "word_type": "adjective",
+      "definitions": [
+        "lacking basic knowledge",
+        " naive",
+        " unsophisticated"
+      ]
+    },
+    {
+      "word": "illegal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "immune",
+      "word_type": "adjective",
+      "definitions": [
+        "resistant"
+      ]
+    },
+    {
+      "word": "imperial",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to an empire"
+      ]
+    },
+    {
+      "word": "implicit",
+      "word_type": "adjective",
+      "definitions": [
+        "inexplicit"
+      ]
+    },
+    {
+      "word": "important",
+      "word_type": "adjective",
+      "definitions": [
+        "significant"
+      ]
+    },
+    {
+      "word": "impossible",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "impressive",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "inadequate",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "inappropriate",
+      "word_type": "adjective",
+      "definitions": [
+        "not suitable"
+      ]
+    },
+    {
+      "word": "incapable",
+      "word_type": "adjective",
+      "definitions": [
+        "incompetent"
+      ]
+    },
+    {
+      "word": "incongruous",
+      "word_type": "adjective",
+      "definitions": [
+        "discrepant"
+      ]
+    },
+    {
+      "word": "incredible",
+      "word_type": "adjective",
+      "definitions": [
+        "unbelievable"
+      ]
+    },
+    {
+      "word": "independent",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "indigenous",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "indirect",
+      "word_type": "adjective",
+      "definitions": [
+        "not direct in manner or language"
+      ]
+    },
+    {
+      "word": "indoor",
+      "word_type": "adjective",
+      "definitions": [
+        "inside"
+      ]
+    },
+    {
+      "word": "industrial",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "inevitable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "infinite",
+      "word_type": "adjective",
+      "definitions": [
+        "having no limits or boundaries in time or space"
+      ]
+    },
+    {
+      "word": "influential",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "informal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "inner",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "innocent",
+      "word_type": "adjective",
+      "definitions": [
+        "guiltless",
+        " clean-handed"
+      ]
+    },
+    {
+      "word": "insufficient",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "integrated",
+      "word_type": "adjective",
+      "definitions": [
+        "not segregated"
+      ]
+    },
+    {
+      "word": "intellectual",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "intense",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "interactive",
+      "word_type": "adjective",
+      "definitions": [
+        "synergistic"
+      ]
+    },
+    {
+      "word": "interesting",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "intermediate",
+      "word_type": "adjective",
+      "definitions": [
+        "lying between two extremes"
+      ]
+    },
+    {
+      "word": "internal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "international",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "invisible",
+      "word_type": "adjective",
+      "definitions": [
+        "unseeable"
+      ]
+    },
+    {
+      "word": "irrelevant",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "jealous",
+      "word_type": "adjective",
+      "definitions": [
+        "covetous",
+        " envious"
+      ]
+    },
+    {
+      "word": "joint",
+      "word_type": "adjective",
+      "definitions": [
+        "united or combined"
+      ]
+    },
+    {
+      "word": "judicial",
+      "word_type": "adjective",
+      "definitions": [
+        "juridical",
+        " juridic"
+      ]
+    },
+    {
+      "word": "junior",
+      "word_type": "adjective",
+      "definitions": [
+        "younger or lower in rank"
+      ]
+    },
+    {
+      "word": "just",
+      "word_type": "adjective",
+      "definitions": [
+        "equitable"
+      ]
+    },
+    {
+      "word": "kind",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "large",
+      "word_type": "adjective",
+      "definitions": [
+        "big"
+      ]
+    },
+    {
+      "word": "last",
+      "word_type": "adjective",
+      "definitions": [
+        "concluding",
+        " final",
+        " terminal"
+      ]
+    },
+    {
+      "word": "late",
+      "word_type": "adjective",
+      "definitions": [
+        "belated",
+        " tardy"
+      ]
+    },
+    {
+      "word": "latest",
+      "word_type": "adjective",
+      "definitions": [
+        "newest",
+        " up-to-date"
+      ]
+    },
+    {
+      "word": "lazy",
+      "word_type": "adjective",
+      "definitions": [
+        "indolent",
+        " otiose",
+        " slothful",
+        " work-shy"
+      ]
+    },
+    {
+      "word": "left",
+      "word_type": "adjective",
+      "definitions": [
+        "belonging to the political or intellectual left"
+      ]
+    },
+    {
+      "word": "legal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "legislative",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "liberal",
+      "word_type": "adjective",
+      "definitions": [
+        "tolerant of change"
+      ]
+    },
+    {
+      "word": "light",
+      "word_type": "adjective",
+      "definitions": [
+        "of little weight"
+      ]
+    },
+    {
+      "word": "light",
+      "word_type": "adjective",
+      "definitions": [
+        "light-colored"
+      ]
+    },
+    {
+      "word": "light",
+      "word_type": "adjective",
+      "definitions": [
+        "bright",
+        " emitting light"
+      ]
+    },
+    {
+      "word": "likely",
+      "word_type": "adjective",
+      "definitions": [
+        "probable",
+        " plausible"
+      ]
+    },
+    {
+      "word": "limited",
+      "word_type": "adjective",
+      "definitions": [
+        "small in range or scope"
+      ]
+    },
+    {
+      "word": "linear",
+      "word_type": "adjective",
+      "definitions": [
+        "one-dimensional"
+      ]
+    },
+    {
+      "word": "liquid",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "literary",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "live",
+      "word_type": "adjective",
+      "definitions": [
+        "unrecorded"
+      ]
+    },
+    {
+      "word": "lively",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "logical",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "lonely",
+      "word_type": "adjective",
+      "definitions": [
+        "alone",
+        " lone",
+        " solitary"
+      ]
+    },
+    {
+      "word": "long",
+      "word_type": "adjective",
+      "definitions": [
+        "of great spatial extension"
+      ]
+    },
+    {
+      "word": "long",
+      "word_type": "adjective",
+      "definitions": [
+        "of relatively great duration"
+      ]
+    },
+    {
+      "word": "loose",
+      "word_type": "adjective",
+      "definitions": [
+        "not tight",
+        " constrained or constricted"
+      ]
+    },
+    {
+      "word": "lost",
+      "word_type": "adjective",
+      "definitions": [
+        "no longer in your possession or control"
+      ]
+    },
+    {
+      "word": "lost",
+      "word_type": "adjective",
+      "definitions": [
+        "spiritually or physically doomed or destroyed"
+      ]
+    },
+    {
+      "word": "loud",
+      "word_type": "adjective",
+      "definitions": [
+        "characterized by sound of great volume"
+      ]
+    },
+    {
+      "word": "low",
+      "word_type": "adjective",
+      "definitions": [
+        "being at small elevation"
+      ]
+    },
+    {
+      "word": "low",
+      "word_type": "adjective",
+      "definitions": [
+        "blue"
+      ]
+    },
+    {
+      "word": "loyal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "lucky",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "magnetic",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to magnetism"
+      ]
+    },
+    {
+      "word": "main",
+      "word_type": "adjective",
+      "definitions": [
+        "chief",
+        " primary",
+        " principal"
+      ]
+    },
+    {
+      "word": "major",
+      "word_type": "adjective",
+      "definitions": [
+        "greater in scope or effect"
+      ]
+    },
+    {
+      "word": "major",
+      "word_type": "adjective",
+      "definitions": [
+        "of full legal age"
+      ]
+    },
+    {
+      "word": "manual",
+      "word_type": "adjective",
+      "definitions": [
+        "requiring human effort"
+      ]
+    },
+    {
+      "word": "marine",
+      "word_type": "adjective",
+      "definitions": [
+        "nautical",
+        " maritime",
+        " relating to the sea"
+      ]
+    },
+    {
+      "word": "married",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "mathematical",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "mature",
+      "word_type": "adjective",
+      "definitions": [
+        "having reached full natural growth or development"
+      ]
+    },
+    {
+      "word": "mature",
+      "word_type": "adjective",
+      "definitions": [
+        "ripe",
+        " fully developed and ready to be eaten"
+      ]
+    },
+    {
+      "word": "maximum",
+      "word_type": "adjective",
+      "definitions": [
+        "maximal"
+      ]
+    },
+    {
+      "word": "meaningful",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "mechanical",
+      "word_type": "adjective",
+      "definitions": [
+        "using a mechanism"
+      ]
+    },
+    {
+      "word": "medieval",
+      "word_type": "adjective",
+      "definitions": [
+        "from the Middle Ages"
+      ]
+    },
+    {
+      "word": "memorable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "mental",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "middle-class",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "mild",
+      "word_type": "adjective",
+      "definitions": [
+        "moderate"
+      ]
+    },
+    {
+      "word": "military",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "minimum",
+      "word_type": "adjective",
+      "definitions": [
+        "minimal"
+      ]
+    },
+    {
+      "word": "minor",
+      "word_type": "adjective",
+      "definitions": [
+        "lesser in scope or effect"
+      ]
+    },
+    {
+      "word": "miserable",
+      "word_type": "adjective",
+      "definitions": [
+        "abject",
+        " scummy",
+        " contemptible"
+      ]
+    },
+    {
+      "word": "mobile",
+      "word_type": "adjective",
+      "definitions": [
+        "moving or capable of moving readily"
+      ]
+    },
+    {
+      "word": "modern",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "modest",
+      "word_type": "adjective",
+      "definitions": [
+        "not offensive to sexual mores"
+      ]
+    },
+    {
+      "word": "molecular",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "monstrous",
+      "word_type": "adjective",
+      "definitions": [
+        "atrocious",
+        " heinous"
+      ]
+    },
+    {
+      "word": "monstrous",
+      "word_type": "adjective",
+      "definitions": [
+        "grotesque"
+      ]
+    },
+    {
+      "word": "monthly",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "moral",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to principles of right and wrong"
+      ]
+    },
+    {
+      "word": "moving",
+      "word_type": "adjective",
+      "definitions": [
+        "arousing deep emotion"
+      ]
+    },
+    {
+      "word": "multiple",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "municipal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "musical",
+      "word_type": "adjective",
+      "definitions": [
+        "talented in or devoted to music"
+      ]
+    },
+    {
+      "word": "mutual",
+      "word_type": "adjective",
+      "definitions": [
+        "reciprocal"
+      ]
+    },
+    {
+      "word": "narrow",
+      "word_type": "adjective",
+      "definitions": [
+        "not wide spatially"
+      ]
+    },
+    {
+      "word": "narrow",
+      "word_type": "adjective",
+      "definitions": [
+        "narrow-minded"
+      ]
+    },
+    {
+      "word": "national",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to a nation or country"
+      ]
+    },
+    {
+      "word": "native",
+      "word_type": "adjective",
+      "definitions": [
+        "belonging to one by birth"
+      ]
+    },
+    {
+      "word": "necessary",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "negative",
+      "word_type": "adjective",
+      "definitions": [
+        "disconfirming"
+      ]
+    },
+    {
+      "word": "negative",
+      "word_type": "adjective",
+      "definitions": [
+        "reckoned in a direction opposite to positive"
+      ]
+    },
+    {
+      "word": "nervous",
+      "word_type": "adjective",
+      "definitions": [
+        "neural"
+      ]
+    },
+    {
+      "word": "nervous",
+      "word_type": "adjective",
+      "definitions": [
+        "skittish"
+      ]
+    },
+    {
+      "word": "neutral",
+      "word_type": "adjective",
+      "definitions": [
+        "of no distinctive quality"
+      ]
+    },
+    {
+      "word": "new",
+      "word_type": "adjective",
+      "definitions": [
+        "recently created",
+        " unused or little used"
+      ]
+    },
+    {
+      "word": "new",
+      "word_type": "adjective",
+      "definitions": [
+        "unfamiliar"
+      ]
+    },
+    {
+      "word": "nice",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "noble",
+      "word_type": "adjective",
+      "definitions": [
+        "having elevated character"
+      ]
+    },
+    {
+      "word": "noble",
+      "word_type": "adjective",
+      "definitions": [
+        "belonging to hereditary aristocracy"
+      ]
+    },
+    {
+      "word": "noisy",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "normal",
+      "word_type": "adjective",
+      "definitions": [
+        "conforming with a norm or standard"
+      ]
+    },
+    {
+      "word": "notorious",
+      "word_type": "adjective",
+      "definitions": [
+        "ill-famed",
+        " infamous"
+      ]
+    },
+    {
+      "word": "nuclear",
+      "word_type": "adjective",
+      "definitions": [
+        "atomic"
+      ]
+    },
+    {
+      "word": "obese",
+      "word_type": "adjective",
+      "definitions": [
+        "overweight"
+      ]
+    },
+    {
+      "word": "objective",
+      "word_type": "adjective",
+      "definitions": [
+        "nonsubjective"
+      ]
+    },
+    {
+      "word": "obscure",
+      "word_type": "adjective",
+      "definitions": [
+        "unknown"
+      ]
+    },
+    {
+      "word": "obvious",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "occupational",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "odd",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "offensive",
+      "word_type": "adjective",
+      "definitions": [
+        "unpleasant or disgusting"
+      ]
+    },
+    {
+      "word": "offensive",
+      "word_type": "adjective",
+      "definitions": [
+        "for the purpose of attack"
+      ]
+    },
+    {
+      "word": "official",
+      "word_type": "adjective",
+      "definitions": [
+        "having official authority"
+      ]
+    },
+    {
+      "word": "old",
+      "word_type": "adjective",
+      "definitions": [
+        "elderly",
+        " having lived for a relatively long time"
+      ]
+    },
+    {
+      "word": "open",
+      "word_type": "adjective",
+      "definitions": [
+        "affording free passage"
+      ]
+    },
+    {
+      "word": "open",
+      "word_type": "adjective",
+      "definitions": [
+        "overt"
+      ]
+    },
+    {
+      "word": "operational",
+      "word_type": "adjective",
+      "definitions": [
+        "pertaining to a process"
+      ]
+    },
+    {
+      "word": "opposed",
+      "word_type": "adjective",
+      "definitions": [
+        "being in opposition"
+      ]
+    },
+    {
+      "word": "optimistic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "optional",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "oral",
+      "word_type": "adjective",
+      "definitions": [
+        "of or involving the mouth"
+      ]
+    },
+    {
+      "word": "ordinary",
+      "word_type": "adjective",
+      "definitions": [
+        "not exceptional"
+      ]
+    },
+    {
+      "word": "organic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "original",
+      "word_type": "adjective",
+      "definitions": [
+        "fresh",
+        " unusual",
+        " first"
+      ]
+    },
+    {
+      "word": "orthodox",
+      "word_type": "adjective",
+      "definitions": [
+        "adhering to what is commonly accepted"
+      ]
+    },
+    {
+      "word": "other",
+      "word_type": "adjective",
+      "definitions": [
+        "not the same"
+      ]
+    },
+    {
+      "word": "outer",
+      "word_type": "adjective",
+      "definitions": [
+        "being on the outside"
+      ]
+    },
+    {
+      "word": "outside",
+      "word_type": "adjective",
+      "definitions": [
+        "outdoor",
+        " out-of-door"
+      ]
+    },
+    {
+      "word": "painful",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "parallel",
+      "word_type": "adjective",
+      "definitions": [
+        "equidistant and not intersecting"
+      ]
+    },
+    {
+      "word": "paralyzed",
+      "word_type": "adjective",
+      "definitions": [
+        "paralytic",
+        " unable to move"
+      ]
+    },
+    {
+      "word": "parental",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "particular",
+      "word_type": "adjective",
+      "definitions": [
+        "finicky",
+        " fussy"
+      ]
+    },
+    {
+      "word": "particular",
+      "word_type": "adjective",
+      "definitions": [
+        "peculiar",
+        " special"
+      ]
+    },
+    {
+      "word": "part-time",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "passionate",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "passive",
+      "word_type": "adjective",
+      "definitions": [
+        "inactive"
+      ]
+    },
+    {
+      "word": "past",
+      "word_type": "adjective",
+      "definitions": [
+        "earlier than the present time"
+      ]
+    },
+    {
+      "word": "patient",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "peaceful",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "perfect",
+      "word_type": "adjective",
+      "definitions": [
+        "complete",
+        " without defect"
+      ]
+    },
+    {
+      "word": "permanent",
+      "word_type": "adjective",
+      "definitions": [
+        "lasting"
+      ]
+    },
+    {
+      "word": "persistent",
+      "word_type": "adjective",
+      "definitions": [
+        "lasting"
+      ]
+    },
+    {
+      "word": "personal",
+      "word_type": "adjective",
+      "definitions": [
+        "concerning a particular person"
+      ]
+    },
+    {
+      "word": "petty",
+      "word_type": "adjective",
+      "definitions": [
+        "small-minded"
+      ]
+    },
+    {
+      "word": "philosophical",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "physical",
+      "word_type": "adjective",
+      "definitions": [
+        "involving the body"
+      ]
+    },
+    {
+      "word": "plain",
+      "word_type": "adjective",
+      "definitions": [
+        "simple"
+      ]
+    },
+    {
+      "word": "pleasant",
+      "word_type": "adjective",
+      "definitions": [
+        "delightful"
+      ]
+    },
+    {
+      "word": "polite",
+      "word_type": "adjective",
+      "definitions": [
+        "courteous"
+      ]
+    },
+    {
+      "word": "political",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "poor",
+      "word_type": "adjective",
+      "definitions": [
+        "characterized by poverty"
+      ]
+    },
+    {
+      "word": "popular",
+      "word_type": "adjective",
+      "definitions": [
+        "regarded with great favor",
+        " approval",
+        " or affection"
+      ]
+    },
+    {
+      "word": "portable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "positive",
+      "word_type": "adjective",
+      "definitions": [
+        "accepting",
+        " confirming"
+      ]
+    },
+    {
+      "word": "possible",
+      "word_type": "adjective",
+      "definitions": [
+        "potential"
+      ]
+    },
+    {
+      "word": "powerful",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "practical",
+      "word_type": "adjective",
+      "definitions": [
+        "concerned with actual use or practice"
+      ]
+    },
+    {
+      "word": "practical",
+      "word_type": "adjective",
+      "definitions": [
+        "efficient"
+      ]
+    },
+    {
+      "word": "precise",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "predictable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "pregnant",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "premature",
+      "word_type": "adjective",
+      "definitions": [
+        "untimely"
+      ]
+    },
+    {
+      "word": "present",
+      "word_type": "adjective",
+      "definitions": [
+        "intermediate between past and future"
+      ]
+    },
+    {
+      "word": "present",
+      "word_type": "adjective",
+      "definitions": [
+        "being here"
+      ]
+    },
+    {
+      "word": "presidential",
+      "word_type": "adjective",
+      "definitions": [
+        "relating to a president or presidency"
+      ]
+    },
+    {
+      "word": "primary",
+      "word_type": "adjective",
+      "definitions": [
+        "of first rank or importance or value"
+      ]
+    },
+    {
+      "word": "private",
+      "word_type": "adjective",
+      "definitions": [
+        "concerning things personal"
+      ]
+    },
+    {
+      "word": "privileged",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "productive",
+      "word_type": "adjective",
+      "definitions": [
+        "generative"
+      ]
+    },
+    {
+      "word": "professional",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "profound",
+      "word_type": "adjective",
+      "definitions": [
+        "deep"
+      ]
+    },
+    {
+      "word": "progressive",
+      "word_type": "adjective",
+      "definitions": [
+        "favoring or promoting progress"
+      ]
+    },
+    {
+      "word": "prolonged",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "proper",
+      "word_type": "adjective",
+      "definitions": [
+        "suitable"
+      ]
+    },
+    {
+      "word": "proportional",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "proud",
+      "word_type": "adjective",
+      "definitions": [
+        "feeling self-respect"
+      ]
+    },
+    {
+      "word": "provincial",
+      "word_type": "adjective",
+      "definitions": [
+        "characteristic of the provinces"
+      ]
+    },
+    {
+      "word": "public",
+      "word_type": "adjective",
+      "definitions": [
+        "not private"
+      ]
+    },
+    {
+      "word": "pure",
+      "word_type": "adjective",
+      "definitions": [
+        "having no faults",
+        " sinless"
+      ]
+    },
+    {
+      "word": "pure",
+      "word_type": "adjective",
+      "definitions": [
+        "free of extraneous elements of any kind"
+      ]
+    },
+    {
+      "word": "qualified",
+      "word_type": "adjective",
+      "definitions": [
+        "meeting the standards and requirements"
+      ]
+    },
+    {
+      "word": "quantitative",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "quiet",
+      "word_type": "adjective",
+      "definitions": [
+        "silent"
+      ]
+    },
+    {
+      "word": "quiet",
+      "word_type": "adjective",
+      "definitions": [
+        "quiescent"
+      ]
+    },
+    {
+      "word": "racial",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "random",
+      "word_type": "adjective",
+      "definitions": [
+        "arbitrary"
+      ]
+    },
+    {
+      "word": "rare",
+      "word_type": "adjective",
+      "definitions": [
+        "infrequent",
+        " uncommon"
+      ]
+    },
+    {
+      "word": "rational",
+      "word_type": "adjective",
+      "definitions": [
+        "based on reasoning"
+      ]
+    },
+    {
+      "word": "raw",
+      "word_type": "adjective",
+      "definitions": [
+        "not treated with heat"
+      ]
+    },
+    {
+      "word": "ready",
+      "word_type": "adjective",
+      "definitions": [
+        "prepared"
+      ]
+    },
+    {
+      "word": "real",
+      "word_type": "adjective",
+      "definitions": [
+        "actual",
+        " existent",
+        " being or occurring in fact or actuality"
+      ]
+    },
+    {
+      "word": "real",
+      "word_type": "adjective",
+      "definitions": [
+        "actual",
+        " genuine"
+      ]
+    },
+    {
+      "word": "realistic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "reasonable",
+      "word_type": "adjective",
+      "definitions": [
+        "sensible"
+      ]
+    },
+    {
+      "word": "reckless",
+      "word_type": "adjective",
+      "definitions": [
+        "foolhardy"
+      ]
+    },
+    {
+      "word": "regional",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "regular",
+      "word_type": "adjective",
+      "definitions": [
+        "in accordance with fixed order or procedure"
+      ]
+    },
+    {
+      "word": "related",
+      "word_type": "adjective",
+      "definitions": [
+        "connected by kinship"
+      ]
+    },
+    {
+      "word": "related",
+      "word_type": "adjective",
+      "definitions": [
+        "connected logically or causally"
+      ]
+    },
+    {
+      "word": "relative",
+      "word_type": "adjective",
+      "definitions": [
+        "not absolute"
+      ]
+    },
+    {
+      "word": "relevant",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "reliable",
+      "word_type": "adjective",
+      "definitions": [
+        "dependable"
+      ]
+    },
+    {
+      "word": "religious",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "representative",
+      "word_type": "adjective",
+      "definitions": [
+        "standing for something else"
+      ]
+    },
+    {
+      "word": "resident",
+      "word_type": "adjective",
+      "definitions": [
+        "living in a particular place"
+      ]
+    },
+    {
+      "word": "residential",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "respectable",
+      "word_type": "adjective",
+      "definitions": [
+        "worthy of respect"
+      ]
+    },
+    {
+      "word": "responsible",
+      "word_type": "adjective",
+      "definitions": [
+        "held accountable",
+        " worthy of trust"
+      ]
+    },
+    {
+      "word": "restless",
+      "word_type": "adjective",
+      "definitions": [
+        "antsy",
+        " itchy",
+        " fidgety"
+      ]
+    },
+    {
+      "word": "restricted",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "retired",
+      "word_type": "adjective",
+      "definitions": [
+        "no longer active in your work"
+      ]
+    },
+    {
+      "word": "revolutionary",
+      "word_type": "adjective",
+      "definitions": [
+        "advocating or engaged in revolution"
+      ]
+    },
+    {
+      "word": "rich",
+      "word_type": "adjective",
+      "definitions": [
+        "possessing material wealth"
+      ]
+    },
+    {
+      "word": "right",
+      "word_type": "adjective",
+      "definitions": [
+        "correct"
+      ]
+    },
+    {
+      "word": "romantic",
+      "word_type": "adjective",
+      "definitions": [
+        "amatory",
+        " amorous"
+      ]
+    },
+    {
+      "word": "rotten",
+      "word_type": "adjective",
+      "definitions": [
+        "decayed",
+        " rotted"
+      ]
+    },
+    {
+      "word": "rotten",
+      "word_type": "adjective",
+      "definitions": [
+        "crappy",
+        " lousy",
+        " shitty",
+        " stinking",
+        " stinky"
+      ]
+    },
+    {
+      "word": "rough",
+      "word_type": "adjective",
+      "definitions": [
+        "unsmooth"
+      ]
+    },
+    {
+      "word": "round",
+      "word_type": "adjective",
+      "definitions": [
+        "circular"
+      ]
+    },
+    {
+      "word": "rural",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "sacred",
+      "word_type": "adjective",
+      "definitions": [
+        "concerned with religion or religious purposes"
+      ]
+    },
+    {
+      "word": "sad",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "safe",
+      "word_type": "adjective",
+      "definitions": [
+        "free from danger"
+      ]
+    },
+    {
+      "word": "satisfactory",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "satisfied",
+      "word_type": "adjective",
+      "definitions": [
+        "quenched",
+        " slaked"
+      ]
+    },
+    {
+      "word": "scientific",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "seasonal",
+      "word_type": "adjective",
+      "definitions": [
+        "occurring at a particular season"
+      ]
+    },
+    {
+      "word": "seasonal",
+      "word_type": "adjective",
+      "definitions": [
+        "occurring at or dependent on a particular season"
+      ]
+    },
+    {
+      "word": "secondary",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "secular",
+      "word_type": "adjective",
+      "definitions": [
+        "laic",
+        " lay"
+      ]
+    },
+    {
+      "word": "secure",
+      "word_type": "adjective",
+      "definitions": [
+        "protected"
+      ]
+    },
+    {
+      "word": "senior",
+      "word_type": "adjective",
+      "definitions": [
+        "older or higher in rank"
+      ]
+    },
+    {
+      "word": "sensitive",
+      "word_type": "adjective",
+      "definitions": [
+        "having acute mental or emotional sensibility"
+      ]
+    },
+    {
+      "word": "separate",
+      "word_type": "adjective",
+      "definitions": [
+        "independent"
+      ]
+    },
+    {
+      "word": "serious",
+      "word_type": "adjective",
+      "definitions": [
+        "sober"
+      ]
+    },
+    {
+      "word": "sexual",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "shallow",
+      "word_type": "adjective",
+      "definitions": [
+        "lacking physical depth"
+      ]
+    },
+    {
+      "word": "shallow",
+      "word_type": "adjective",
+      "definitions": [
+        "lacking depth of intellect or knowledge or feeling"
+      ]
+    },
+    {
+      "word": "sharp",
+      "word_type": "adjective",
+      "definitions": [
+        "having a thin edge or sharp point"
+      ]
+    },
+    {
+      "word": "short",
+      "word_type": "adjective",
+      "definitions": [
+        "having little length"
+      ]
+    },
+    {
+      "word": "short",
+      "word_type": "adjective",
+      "definitions": [
+        "of limited duration"
+      ]
+    },
+    {
+      "word": "shy",
+      "word_type": "adjective",
+      "definitions": [
+        "timid",
+        " diffident"
+      ]
+    },
+    {
+      "word": "sick",
+      "word_type": "adjective",
+      "definitions": [
+        "ill"
+      ]
+    },
+    {
+      "word": "similar",
+      "word_type": "adjective",
+      "definitions": [
+        "alike",
+        " like"
+      ]
+    },
+    {
+      "word": "single",
+      "word_type": "adjective",
+      "definitions": [
+        "unmarried"
+      ]
+    },
+    {
+      "word": "single",
+      "word_type": "adjective",
+      "definitions": [
+        "individual",
+        " separate"
+      ]
+    },
+    {
+      "word": "skilled",
+      "word_type": "adjective",
+      "definitions": [
+        "skillful"
+      ]
+    },
+    {
+      "word": "slippery",
+      "word_type": "adjective",
+      "definitions": [
+        "slippy"
+      ]
+    },
+    {
+      "word": "slow",
+      "word_type": "adjective",
+      "definitions": [
+        "not moving quickly"
+      ]
+    },
+    {
+      "word": "small",
+      "word_type": "adjective",
+      "definitions": [
+        "little"
+      ]
+    },
+    {
+      "word": "smart",
+      "word_type": "adjective",
+      "definitions": [
+        "clever",
+        " bright"
+      ]
+    },
+    {
+      "word": "smooth",
+      "word_type": "adjective",
+      "definitions": [
+        "having a surface free from roughness"
+      ]
+    },
+    {
+      "word": "social",
+      "word_type": "adjective",
+      "definitions": [
+        "living together or enjoying life in communities"
+      ]
+    },
+    {
+      "word": "socialist",
+      "word_type": "adjective",
+      "definitions": [
+        "socialistic"
+      ]
+    },
+    {
+      "word": "soft",
+      "word_type": "adjective",
+      "definitions": [
+        "lacking in hardness"
+      ]
+    },
+    {
+      "word": "soft",
+      "word_type": "adjective",
+      "definitions": [
+        "relatively low in volume"
+      ]
+    },
+    {
+      "word": "soft",
+      "word_type": "adjective",
+      "definitions": [
+        "nonalcoholic"
+      ]
+    },
+    {
+      "word": "solar",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "solid",
+      "word_type": "adjective",
+      "definitions": [
+        "neither liquid nor gaseous"
+      ]
+    },
+    {
+      "word": "solid",
+      "word_type": "adjective",
+      "definitions": [
+        "entirely of one substance with no holes inside"
+      ]
+    },
+    {
+      "word": "sophisticated",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "sound",
+      "word_type": "adjective",
+      "definitions": [
+        "in good condition"
+      ]
+    },
+    {
+      "word": "sour",
+      "word_type": "adjective",
+      "definitions": [
+        "having a sharp biting taste"
+      ]
+    },
+    {
+      "word": "spatial",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "specified",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "spontaneous",
+      "word_type": "adjective",
+      "definitions": [
+        "self-generated"
+      ]
+    },
+    {
+      "word": "square",
+      "word_type": "adjective",
+      "definitions": [
+        "having four equal sides and four right angles"
+      ]
+    },
+    {
+      "word": "stable",
+      "word_type": "adjective",
+      "definitions": [
+        "resistant to change"
+      ]
+    },
+    {
+      "word": "standard",
+      "word_type": "adjective",
+      "definitions": [
+        "conforming to a standard of measurement"
+      ]
+    },
+    {
+      "word": "statistical",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "steady",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "steep",
+      "word_type": "adjective",
+      "definitions": [
+        "having a sharp inclination"
+      ]
+    },
+    {
+      "word": "sticky",
+      "word_type": "adjective",
+      "definitions": [
+        "gluey",
+        " glutinous",
+        " gummy"
+      ]
+    },
+    {
+      "word": "sticky",
+      "word_type": "adjective",
+      "definitions": [
+        "sticky",
+        " steamy"
+      ]
+    },
+    {
+      "word": "still",
+      "word_type": "adjective",
+      "definitions": [
+        "inactive",
+        " motionless",
+        " static"
+      ]
+    },
+    {
+      "word": "straight",
+      "word_type": "adjective",
+      "definitions": [
+        "square",
+        " honest",
+        " fair",
+        " decent"
+      ]
+    },
+    {
+      "word": "straight",
+      "word_type": "adjective",
+      "definitions": [
+        "free from curves or angles"
+      ]
+    },
+    {
+      "word": "strange",
+      "word_type": "adjective",
+      "definitions": [
+        "unusual"
+      ]
+    },
+    {
+      "word": "strategic",
+      "word_type": "adjective",
+      "definitions": [
+        "strategical"
+      ]
+    },
+    {
+      "word": "strict",
+      "word_type": "adjective",
+      "definitions": [
+        "severe",
+        " nonindulgent"
+      ]
+    },
+    {
+      "word": "strong",
+      "word_type": "adjective",
+      "definitions": [
+        "potent"
+      ]
+    },
+    {
+      "word": "strong",
+      "word_type": "adjective",
+      "definitions": [
+        "hard",
+        " having a high alcoholic content"
+      ]
+    },
+    {
+      "word": "strong",
+      "word_type": "adjective",
+      "definitions": [
+        "firm"
+      ]
+    },
+    {
+      "word": "strong",
+      "word_type": "adjective",
+      "definitions": [
+        "secure",
+        " unattackable"
+      ]
+    },
+    {
+      "word": "structural",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "stubborn",
+      "word_type": "adjective",
+      "definitions": [
+        "obstinate"
+      ]
+    },
+    {
+      "word": "stunning",
+      "word_type": "adjective",
+      "definitions": [
+        "strikingly beautiful or attractive"
+      ]
+    },
+    {
+      "word": "stupid",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "subjective",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "subsequent",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "successful",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "sudden",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "sufficient",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "superior",
+      "word_type": "adjective",
+      "definitions": [
+        "of high or superior quality"
+      ]
+    },
+    {
+      "word": "supplementary",
+      "word_type": "adjective",
+      "definitions": [
+        "auxiliary",
+        " subsidiary"
+      ]
+    },
+    {
+      "word": "surprised",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "surprising",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "sweet",
+      "word_type": "adjective",
+      "definitions": [
+        "sweet-tasting"
+      ]
+    },
+    {
+      "word": "sympathetic",
+      "word_type": "adjective",
+      "definitions": [
+        "appealing",
+        " likeable"
+      ]
+    },
+    {
+      "word": "systematic",
+      "word_type": "adjective",
+      "definitions": [
+        "characterized by order and planning"
+      ]
+    },
+    {
+      "word": "talented",
+      "word_type": "adjective",
+      "definitions": [
+        "gifted"
+      ]
+    },
+    {
+      "word": "talkative",
+      "word_type": "adjective",
+      "definitions": [
+        "chatty",
+        " gabby",
+        " garrulous"
+      ]
+    },
+    {
+      "word": "tall",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "tasty",
+      "word_type": "adjective",
+      "definitions": [
+        "delicious"
+      ]
+    },
+    {
+      "word": "technical",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "temporary",
+      "word_type": "adjective",
+      "definitions": [
+        "impermanent"
+      ]
+    },
+    {
+      "word": "tender",
+      "word_type": "adjective",
+      "definitions": [
+        "easy to cut or chew"
+      ]
+    },
+    {
+      "word": "tender",
+      "word_type": "adjective",
+      "definitions": [
+        "gentle",
+        " sympathetic",
+        " feeling"
+      ]
+    },
+    {
+      "word": "tense",
+      "word_type": "adjective",
+      "definitions": [
+        "taut",
+        " rigid",
+        " stretched tight"
+      ]
+    },
+    {
+      "word": "tense",
+      "word_type": "adjective",
+      "definitions": [
+        "in a state of physical or nervous tension"
+      ]
+    },
+    {
+      "word": "terminal",
+      "word_type": "adjective",
+      "definitions": [
+        "endmost"
+      ]
+    },
+    {
+      "word": "thick",
+      "word_type": "adjective",
+      "definitions": [
+        "of a specific thickness"
+      ]
+    },
+    {
+      "word": "thick",
+      "word_type": "adjective",
+      "definitions": [
+        "dense in consistency"
+      ]
+    },
+    {
+      "word": "thin",
+      "word_type": "adjective",
+      "definitions": [
+        "lean"
+      ]
+    },
+    {
+      "word": "thirsty",
+      "word_type": "adjective",
+      "definitions": [
+        "needing or desiring to drink"
+      ]
+    },
+    {
+      "word": "thoughtful",
+      "word_type": "adjective",
+      "definitions": [
+        "considerate",
+        " showing concern"
+      ]
+    },
+    {
+      "word": "tidy",
+      "word_type": "adjective",
+      "definitions": [
+        "neat",
+        " orderly",
+        " clean"
+      ]
+    },
+    {
+      "word": "tight",
+      "word_type": "adjective",
+      "definitions": [
+        "constrained",
+        " constricted",
+        " constricting"
+      ]
+    },
+    {
+      "word": "tired",
+      "word_type": "adjective",
+      "definitions": [
+        "fatigued"
+      ]
+    },
+    {
+      "word": "tolerant",
+      "word_type": "adjective",
+      "definitions": [
+        "respecting others"
+      ]
+    },
+    {
+      "word": "tough",
+      "word_type": "adjective",
+      "definitions": [
+        "tough",
+        " hard",
+        " rough"
+      ]
+    },
+    {
+      "word": "tough",
+      "word_type": "adjective",
+      "definitions": [
+        "not given to gentleness or sentimentality"
+      ]
+    },
+    {
+      "word": "toxic",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "traditional",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "transparent",
+      "word_type": "adjective",
+      "definitions": [
+        "see-through",
+        " sheer"
+      ]
+    },
+    {
+      "word": "trivial",
+      "word_type": "adjective",
+      "definitions": [
+        "banal",
+        " commonplace"
+      ]
+    },
+    {
+      "word": "tropical",
+      "word_type": "adjective",
+      "definitions": [
+        "typical of the tropics"
+      ]
+    },
+    {
+      "word": "true",
+      "word_type": "adjective",
+      "definitions": [
+        "consistent with fact or reality"
+      ]
+    },
+    {
+      "word": "typical",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "ugly",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "ultimate",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "unanimous",
+      "word_type": "adjective",
+      "definitions": [
+        "in complete agreement"
+      ]
+    },
+    {
+      "word": "unaware",
+      "word_type": "adjective",
+      "definitions": [
+        "unwitting"
+      ]
+    },
+    {
+      "word": "uncomfortable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "uneasy",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "unemployed",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "unexpected",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "unfair",
+      "word_type": "adjective",
+      "definitions": [
+        "partial",
+        " biased"
+      ]
+    },
+    {
+      "word": "unfortunate",
+      "word_type": "adjective",
+      "definitions": [
+        "not favored by fortune"
+      ]
+    },
+    {
+      "word": "uniform",
+      "word_type": "adjective",
+      "definitions": [
+        "unvarying"
+      ]
+    },
+    {
+      "word": "unique",
+      "word_type": "adjective",
+      "definitions": [
+        "unequaled",
+        " unparalleled"
+      ]
+    },
+    {
+      "word": "universal",
+      "word_type": "adjective",
+      "definitions": [
+        "universal",
+        " worldwide"
+      ]
+    },
+    {
+      "word": "unlawful",
+      "word_type": "adjective",
+      "definitions": [
+        "illegitimate",
+        " illicit"
+      ]
+    },
+    {
+      "word": "unlike",
+      "word_type": "adjective",
+      "definitions": [
+        "unequal"
+      ]
+    },
+    {
+      "word": "unlikely",
+      "word_type": "adjective",
+      "definitions": [
+        "improbable"
+      ]
+    },
+    {
+      "word": "unpleasant",
+      "word_type": "adjective",
+      "definitions": [
+        "disagreeable"
+      ]
+    },
+    {
+      "word": "urban",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "useful",
+      "word_type": "adjective",
+      "definitions": [
+        "utile"
+      ]
+    },
+    {
+      "word": "useless",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "usual",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "vacant",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "vague",
+      "word_type": "adjective",
+      "definitions": [
+        "undefined"
+      ]
+    },
+    {
+      "word": "vain",
+      "word_type": "adjective",
+      "definitions": [
+        "self-conceited",
+        " swollen-headed"
+      ]
+    },
+    {
+      "word": "valid",
+      "word_type": "adjective",
+      "definitions": [
+        "well grounded in logic or truth"
+      ]
+    },
+    {
+      "word": "valuable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "varied",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "verbal",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "vertical",
+      "word_type": "adjective",
+      "definitions": [
+        "perpendicular"
+      ]
+    },
+    {
+      "word": "viable",
+      "word_type": "adjective",
+      "definitions": [
+        "feasible",
+        " practicable",
+        " workable"
+      ]
+    },
+    {
+      "word": "vicious",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "vigorous",
+      "word_type": "adjective",
+      "definitions": [
+        "strong physically or mentally"
+      ]
+    },
+    {
+      "word": "violent",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "visible",
+      "word_type": "adjective",
+      "definitions": [
+        "seeable"
+      ]
+    },
+    {
+      "word": "visual",
+      "word_type": "adjective",
+      "definitions": [
+        "ocular",
+        " optic",
+        " optical"
+      ]
+    },
+    {
+      "word": "vocational",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "voluntary",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "vulnerable",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "warm",
+      "word_type": "adjective",
+      "definitions": [
+        "producing a comfortable degree of heat"
+      ]
+    },
+    {
+      "word": "warm",
+      "word_type": "adjective",
+      "definitions": [
+        "friendly and responsive"
+      ]
+    },
+    {
+      "word": "weak",
+      "word_type": "adjective",
+      "definitions": [
+        "having little physical or spiritual strength"
+      ]
+    },
+    {
+      "word": "weekly",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "welcome",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "well",
+      "word_type": "adjective",
+      "definitions": [
+        "in good health"
+      ]
+    },
+    {
+      "word": "wet",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "white",
+      "word_type": "adjective",
+      "definitions": [
+        "achromatic"
+      ]
+    },
+    {
+      "word": "white",
+      "word_type": "adjective",
+      "definitions": [
+        "caucasian"
+      ]
+    },
+    {
+      "word": "whole",
+      "word_type": "adjective",
+      "definitions": [
+        "including all components"
+      ]
+    },
+    {
+      "word": "wild",
+      "word_type": "adjective",
+      "definitions": [
+        "untamed"
+      ]
+    },
+    {
+      "word": "wild",
+      "word_type": "adjective",
+      "definitions": [
+        "marked by lack of restraint or control"
+      ]
+    },
+    {
+      "word": "wise",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "written",
+      "word_type": "adjective",
+      "definitions": []
+    },
+    {
+      "word": "wrong",
+      "word_type": "adjective",
+      "definitions": [
+        "contrary to conscience or morality or law"
+      ]
+    },
+    {
+      "word": "wrong",
+      "word_type": "adjective",
+      "definitions": [
+        "based on error"
+      ]
+    },
+    {
+      "word": "young",
+      "word_type": "adjective",
+      "definitions": [
+        "youthful"
+      ]
+    }
+  ]
+}

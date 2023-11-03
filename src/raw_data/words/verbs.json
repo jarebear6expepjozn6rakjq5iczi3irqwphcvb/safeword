@@ -1,0 +1,7706 @@
+{
+  "verbs": [
+    {
+      "word": "abandon",
+      "word_type": "verb",
+      "definitions": [
+        "forsake",
+        " desert"
+      ]
+    },
+    {
+      "word": "abolish",
+      "word_type": "verb",
+      "definitions": [
+        "get rid of"
+      ]
+    },
+    {
+      "word": "abridge",
+      "word_type": "verb",
+      "definitions": [
+        "shorten",
+        " cut"
+      ]
+    },
+    {
+      "word": "absorb",
+      "word_type": "verb",
+      "definitions": [
+        "take in",
+        " suck up"
+      ]
+    },
+    {
+      "word": "accept",
+      "word_type": "verb",
+      "definitions": [
+        "live with",
+        " put up with"
+      ]
+    },
+    {
+      "word": "accompany",
+      "word_type": "verb",
+      "definitions": [
+        "go or come with"
+      ]
+    },
+    {
+      "word": "activate",
+      "word_type": "verb",
+      "definitions": [
+        "make active"
+      ]
+    },
+    {
+      "word": "add",
+      "word_type": "verb",
+      "definitions": [
+        "total"
+      ]
+    },
+    {
+      "word": "adjust",
+      "word_type": "verb",
+      "definitions": [
+        "conform",
+        " adapt"
+      ]
+    },
+    {
+      "word": "admire",
+      "word_type": "verb",
+      "definitions": [
+        "look up to"
+      ]
+    },
+    {
+      "word": "admit",
+      "word_type": "verb",
+      "definitions": [
+        "acknowledge"
+      ]
+    },
+    {
+      "word": "admit",
+      "word_type": "verb",
+      "definitions": [
+        "allow in",
+        " let in",
+        " allow to enter"
+      ]
+    },
+    {
+      "word": "adopt",
+      "word_type": "verb",
+      "definitions": [
+        "take in as a child"
+      ]
+    },
+    {
+      "word": "adopt",
+      "word_type": "verb",
+      "definitions": [
+        "borrow",
+        " take over",
+        " take up"
+      ]
+    },
+    {
+      "word": "advance",
+      "word_type": "verb",
+      "definitions": [
+        "progress",
+        " pass on",
+        " move on",
+        " march on",
+        " go on"
+      ]
+    },
+    {
+      "word": "affect",
+      "word_type": "verb",
+      "definitions": [
+        "impact",
+        " bear upon"
+      ]
+    },
+    {
+      "word": "affect",
+      "word_type": "verb",
+      "definitions": [
+        "sham",
+        " pretend",
+        " dissemble",
+        " simulate"
+      ]
+    },
+    {
+      "word": "afford",
+      "word_type": "verb",
+      "definitions": [
+        "have the financial means"
+      ]
+    },
+    {
+      "word": "age",
+      "word_type": "verb",
+      "definitions": [
+        "get older"
+      ]
+    },
+    {
+      "word": "agree",
+      "word_type": "verb",
+      "definitions": [
+        "consent",
+        " assent"
+      ]
+    },
+    {
+      "word": "agree",
+      "word_type": "verb",
+      "definitions": [
+        "fit",
+        " correspond",
+        " check",
+        " agree"
+      ]
+    },
+    {
+      "word": "allow",
+      "word_type": "verb",
+      "definitions": [
+        "permit",
+        " let"
+      ]
+    },
+    {
+      "word": "amputate",
+      "word_type": "verb",
+      "definitions": [
+        "cut off",
+        " remove surgically"
+      ]
+    },
+    {
+      "word": "amuse",
+      "word_type": "verb",
+      "definitions": [
+        "make laugh"
+      ]
+    },
+    {
+      "word": "answer",
+      "word_type": "verb",
+      "definitions": [
+        "reply",
+        " respond"
+      ]
+    },
+    {
+      "word": "apologise",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "appeal",
+      "word_type": "verb",
+      "definitions": [
+        "challenge a decision"
+      ]
+    },
+    {
+      "word": "appear",
+      "word_type": "verb",
+      "definitions": [
+        "come into view"
+      ]
+    },
+    {
+      "word": "applaud",
+      "word_type": "verb",
+      "definitions": [
+        "clap one's hands"
+      ]
+    },
+    {
+      "word": "appoint",
+      "word_type": "verb",
+      "definitions": [
+        "name",
+        " nominate"
+      ]
+    },
+    {
+      "word": "appreciate",
+      "word_type": "verb",
+      "definitions": [
+        "recognize with gratitude"
+      ]
+    },
+    {
+      "word": "approach",
+      "word_type": "verb",
+      "definitions": [
+        "near",
+        " draw near",
+        " draw close",
+        " come near"
+      ]
+    },
+    {
+      "word": "approve",
+      "word_type": "verb",
+      "definitions": [
+        "O.K.",
+        " okay",
+        " sanction"
+      ]
+    },
+    {
+      "word": "arrange",
+      "word_type": "verb",
+      "definitions": [
+        "set up",
+        " order"
+      ]
+    },
+    {
+      "word": "arrange",
+      "word_type": "verb",
+      "definitions": [
+        "set up",
+        " put in systematic order"
+      ]
+    },
+    {
+      "word": "arrest",
+      "word_type": "verb",
+      "definitions": [
+        "apprehend",
+        " pick up",
+        " take into custody"
+      ]
+    },
+    {
+      "word": "articulate",
+      "word_type": "verb",
+      "definitions": [
+        "enunciate"
+      ]
+    },
+    {
+      "word": "ascertain",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "ask",
+      "word_type": "verb",
+      "definitions": [
+        "inquire"
+      ]
+    },
+    {
+      "word": "ask",
+      "word_type": "verb",
+      "definitions": [
+        "require",
+        " ask"
+      ]
+    },
+    {
+      "word": "assume",
+      "word_type": "verb",
+      "definitions": [
+        "presume",
+        " take for granted",
+        " take to be the case"
+      ]
+    },
+    {
+      "word": "attach",
+      "word_type": "verb",
+      "definitions": [
+        "confiscate",
+        " seize"
+      ]
+    },
+    {
+      "word": "attack",
+      "word_type": "verb",
+      "definitions": [
+        "assail",
+        " assault",
+        " attack physically or emotionally"
+      ]
+    },
+    {
+      "word": "attract",
+      "word_type": "verb",
+      "definitions": [
+        "appeal",
+        " be attractive to"
+      ]
+    },
+    {
+      "word": "authorise",
+      "word_type": "verb",
+      "definitions": [
+        "empower"
+      ]
+    },
+    {
+      "word": "avoid",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "back",
+      "word_type": "verb",
+      "definitions": [
+        "second",
+        " back",
+        " support"
+      ]
+    },
+    {
+      "word": "bake",
+      "word_type": "verb",
+      "definitions": [
+        "prepare with dry heat"
+      ]
+    },
+    {
+      "word": "balance",
+      "word_type": "verb",
+      "definitions": [
+        "equilibrate",
+        " bring into balance or equilibrium"
+      ]
+    },
+    {
+      "word": "ban",
+      "word_type": "verb",
+      "definitions": [
+        "shun",
+        " blackball",
+        " expel from a community"
+      ]
+    },
+    {
+      "word": "bar",
+      "word_type": "verb",
+      "definitions": [
+        "bar",
+        " relegate",
+        " expel"
+      ]
+    },
+    {
+      "word": "bargain",
+      "word_type": "verb",
+      "definitions": [
+        "negotiate",
+        " dicker"
+      ]
+    },
+    {
+      "word": "bark",
+      "word_type": "verb",
+      "definitions": [
+        "make barking sounds"
+      ]
+    },
+    {
+      "word": "bear",
+      "word_type": "verb",
+      "definitions": [
+        "bear"
+      ]
+    },
+    {
+      "word": "beat",
+      "word_type": "verb",
+      "definitions": [
+        "vanquish",
+        " come out better in a competition or race"
+      ]
+    },
+    {
+      "word": "beat",
+      "word_type": "verb",
+      "definitions": [
+        "hit repeatedly"
+      ]
+    },
+    {
+      "word": "beat",
+      "word_type": "verb",
+      "definitions": [
+        "beat",
+        " stir vigorously"
+      ]
+    },
+    {
+      "word": "beat",
+      "word_type": "verb",
+      "definitions": [
+        "pound",
+        " thump",
+        " move rhythmically"
+      ]
+    },
+    {
+      "word": "beat",
+      "word_type": "verb",
+      "definitions": [
+        "be superior to"
+      ]
+    },
+    {
+      "word": "become",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "beg",
+      "word_type": "verb",
+      "definitions": [
+        "ask for money or goods"
+      ]
+    },
+    {
+      "word": "begin",
+      "word_type": "verb",
+      "definitions": [
+        "start",
+        " commence",
+        " cause to start"
+      ]
+    },
+    {
+      "word": "behave",
+      "word_type": "verb",
+      "definitions": [
+        "comport",
+        " act in a certain manner"
+      ]
+    },
+    {
+      "word": "behead",
+      "word_type": "verb",
+      "definitions": [
+        "decapitate",
+        " cut the head off"
+      ]
+    },
+    {
+      "word": "belong",
+      "word_type": "verb",
+      "definitions": [
+        "be owned by"
+      ]
+    },
+    {
+      "word": "bend",
+      "word_type": "verb",
+      "definitions": [
+        "bend"
+      ]
+    },
+    {
+      "word": "bend",
+      "word_type": "verb",
+      "definitions": [
+        "crouch",
+        " stoop",
+        " bow"
+      ]
+    },
+    {
+      "word": "bet",
+      "word_type": "verb",
+      "definitions": [
+        "wager"
+      ]
+    },
+    {
+      "word": "betray",
+      "word_type": "verb",
+      "definitions": [
+        "deceive"
+      ]
+    },
+    {
+      "word": "bind",
+      "word_type": "verb",
+      "definitions": [
+        "tie or secure with a rope or cable"
+      ]
+    },
+    {
+      "word": "bind",
+      "word_type": "verb",
+      "definitions": [
+        "create social or emotional ties"
+      ]
+    },
+    {
+      "word": "bite",
+      "word_type": "verb",
+      "definitions": [
+        "seize with teeth"
+      ]
+    },
+    {
+      "word": "blame",
+      "word_type": "verb",
+      "definitions": [
+        "fault put the blame on"
+      ]
+    },
+    {
+      "word": "blame",
+      "word_type": "verb",
+      "definitions": [
+        "find fault",
+        " pick on"
+      ]
+    },
+    {
+      "word": "blast",
+      "word_type": "verb",
+      "definitions": [
+        "blare"
+      ]
+    },
+    {
+      "word": "bleed",
+      "word_type": "verb",
+      "definitions": [
+        "shed blood"
+      ]
+    },
+    {
+      "word": "bless",
+      "word_type": "verb",
+      "definitions": [
+        "give a benediction to"
+      ]
+    },
+    {
+      "word": "block",
+      "word_type": "verb",
+      "definitions": [
+        "obstruct",
+        " hinder",
+        " stymie"
+      ]
+    },
+    {
+      "word": "blow",
+      "word_type": "verb",
+      "definitions": [
+        "squander",
+        " blow",
+        " throw away",
+        " spend thoughtlessly"
+      ]
+    },
+    {
+      "word": "board",
+      "word_type": "verb",
+      "definitions": [
+        "get on"
+      ]
+    },
+    {
+      "word": "boil",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "bomb",
+      "word_type": "verb",
+      "definitions": [
+        "bombard"
+      ]
+    },
+    {
+      "word": "borrow",
+      "word_type": "verb",
+      "definitions": [
+        "obtain temporarily"
+      ]
+    },
+    {
+      "word": "bother",
+      "word_type": "verb",
+      "definitions": [
+        "annoy",
+        " irritate"
+      ]
+    },
+    {
+      "word": "bounce",
+      "word_type": "verb",
+      "definitions": [
+        "move up and down repeatedly"
+      ]
+    },
+    {
+      "word": "bow",
+      "word_type": "verb",
+      "definitions": [
+        "bend the head or the upper body in respect or greeting"
+      ]
+    },
+    {
+      "word": "brag",
+      "word_type": "verb",
+      "definitions": [
+        "show off",
+        " boast"
+      ]
+    },
+    {
+      "word": "break",
+      "word_type": "verb",
+      "definitions": [
+        "destroy"
+      ]
+    },
+    {
+      "word": "break",
+      "word_type": "verb",
+      "definitions": [
+        "bring out",
+        " reveal",
+        " expose",
+        " divulge"
+      ]
+    },
+    {
+      "word": "break",
+      "word_type": "verb",
+      "definitions": [
+        "pause",
+        " take a break"
+      ]
+    },
+    {
+      "word": "break",
+      "word_type": "verb",
+      "definitions": [
+        "bust",
+        " fall apart",
+        " break"
+      ]
+    },
+    {
+      "word": "break",
+      "word_type": "verb",
+      "definitions": [
+        "enter illegally"
+      ]
+    },
+    {
+      "word": "breathe",
+      "word_type": "verb",
+      "definitions": [
+        "take a breath",
+        " respire"
+      ]
+    },
+    {
+      "word": "breed",
+      "word_type": "verb",
+      "definitions": [
+        "raise",
+        " cause to reproduce"
+      ]
+    },
+    {
+      "word": "bring",
+      "word_type": "verb",
+      "definitions": [
+        "bring along"
+      ]
+    },
+    {
+      "word": "bring",
+      "word_type": "verb",
+      "definitions": [
+        "fetch",
+        " bring in",
+        " be sold for a certain price"
+      ]
+    },
+    {
+      "word": "brush",
+      "word_type": "verb",
+      "definitions": [
+        "rub with a brush"
+      ]
+    },
+    {
+      "word": "bump",
+      "word_type": "verb",
+      "definitions": [
+        "bump"
+      ]
+    },
+    {
+      "word": "burn",
+      "word_type": "verb",
+      "definitions": [
+        "bite",
+        " sting",
+        " cause a sharp or stinging pain"
+      ]
+    },
+    {
+      "word": "burn",
+      "word_type": "verb",
+      "definitions": [
+        "combust",
+        " cause to burn"
+      ]
+    },
+    {
+      "word": "burst",
+      "word_type": "verb",
+      "definitions": [
+        "bust",
+        " break open"
+      ]
+    },
+    {
+      "word": "bury",
+      "word_type": "verb",
+      "definitions": [
+        "place in the ground as for hiding"
+      ]
+    },
+    {
+      "word": "buy",
+      "word_type": "verb",
+      "definitions": [
+        "purchase",
+        " acquire"
+      ]
+    },
+    {
+      "word": "call",
+      "word_type": "verb",
+      "definitions": [
+        "telephone",
+        " call up",
+        " phone",
+        " ring"
+      ]
+    },
+    {
+      "word": "call",
+      "word_type": "verb",
+      "definitions": [
+        "name"
+      ]
+    },
+    {
+      "word": "call",
+      "word_type": "verb",
+      "definitions": [
+        "send for"
+      ]
+    },
+    {
+      "word": "call",
+      "word_type": "verb",
+      "definitions": [
+        "shout",
+        " shout out",
+        " cry",
+        " yell",
+        " holler"
+      ]
+    },
+    {
+      "word": "call",
+      "word_type": "verb",
+      "definitions": [
+        "call",
+        " foretell",
+        " prognosticate",
+        " forebode"
+      ]
+    },
+    {
+      "word": "calm",
+      "word_type": "verb",
+      "definitions": [
+        "calm down",
+        " quiet",
+        " tranquilize",
+        " quieten"
+      ]
+    },
+    {
+      "word": "cancel",
+      "word_type": "verb",
+      "definitions": [
+        "call off"
+      ]
+    },
+    {
+      "word": "captivate",
+      "word_type": "verb",
+      "definitions": [
+        "beguile",
+        " charm",
+        " bewitch",
+        " entrance",
+        " enchant"
+      ]
+    },
+    {
+      "word": "capture",
+      "word_type": "verb",
+      "definitions": [
+        "take possession of by force",
+        " seize",
+        " conquer"
+      ]
+    },
+    {
+      "word": "care",
+      "word_type": "verb",
+      "definitions": [
+        "feel concern or interest"
+      ]
+    },
+    {
+      "word": "carry",
+      "word_type": "verb",
+      "definitions": [
+        "transport"
+      ]
+    },
+    {
+      "word": "carve",
+      "word_type": "verb",
+      "definitions": [
+        "cut up",
+        " cut to pieces"
+      ]
+    },
+    {
+      "word": "cast",
+      "word_type": "verb",
+      "definitions": [
+        "cast",
+        " hurtle",
+        " throw forcefully"
+      ]
+    },
+    {
+      "word": "cast",
+      "word_type": "verb",
+      "definitions": [
+        "select for a play or movie"
+      ]
+    },
+    {
+      "word": "catch",
+      "word_type": "verb",
+      "definitions": [
+        "grab",
+        " take hold of"
+      ]
+    },
+    {
+      "word": "catch",
+      "word_type": "verb",
+      "definitions": [
+        "catch"
+      ]
+    },
+    {
+      "word": "cater",
+      "word_type": "verb",
+      "definitions": [
+        "supply food ready to eat"
+      ]
+    },
+    {
+      "word": "challenge",
+      "word_type": "verb",
+      "definitions": [
+        "dispute",
+        " call into question"
+      ]
+    },
+    {
+      "word": "change",
+      "word_type": "verb",
+      "definitions": [
+        "alter",
+        " make or become different"
+      ]
+    },
+    {
+      "word": "change",
+      "word_type": "verb",
+      "definitions": [
+        "change",
+        " shift",
+        " change one thing for another"
+      ]
+    },
+    {
+      "word": "charge",
+      "word_type": "verb",
+      "definitions": [
+        "energize a battery"
+      ]
+    },
+    {
+      "word": "charge",
+      "word_type": "verb",
+      "definitions": [
+        "accuse"
+      ]
+    },
+    {
+      "word": "charge",
+      "word_type": "verb",
+      "definitions": [
+        "pay with a credit card"
+      ]
+    },
+    {
+      "word": "charge",
+      "word_type": "verb",
+      "definitions": [
+        "demand payment"
+      ]
+    },
+    {
+      "word": "chase",
+      "word_type": "verb",
+      "definitions": [
+        "chase after",
+        " give chase"
+      ]
+    },
+    {
+      "word": "check",
+      "word_type": "verb",
+      "definitions": [
+        "check off",
+        " mark",
+        " mark off",
+        " tick off",
+        " tick"
+      ]
+    },
+    {
+      "word": "check",
+      "word_type": "verb",
+      "definitions": [
+        "check out",
+        " verify"
+      ]
+    },
+    {
+      "word": "chew",
+      "word_type": "verb",
+      "definitions": [
+        "masticate"
+      ]
+    },
+    {
+      "word": "choke",
+      "word_type": "verb",
+      "definitions": [
+        "gag",
+        " suffocate"
+      ]
+    },
+    {
+      "word": "choke",
+      "word_type": "verb",
+      "definitions": [
+        "strangle"
+      ]
+    },
+    {
+      "word": "choose",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "chop",
+      "word_type": "verb",
+      "definitions": [
+        "chop up"
+      ]
+    },
+    {
+      "word": "claim",
+      "word_type": "verb",
+      "definitions": [
+        "assert",
+        " affirm"
+      ]
+    },
+    {
+      "word": "clarify",
+      "word_type": "verb",
+      "definitions": [
+        "clear up",
+        " elucidate",
+        " make comprehensible"
+      ]
+    },
+    {
+      "word": "classify",
+      "word_type": "verb",
+      "definitions": [
+        "declare unavailable"
+      ]
+    },
+    {
+      "word": "clear",
+      "word_type": "verb",
+      "definitions": [
+        "empty",
+        " remove the occupants of"
+      ]
+    },
+    {
+      "word": "clear",
+      "word_type": "verb",
+      "definitions": [
+        "clear",
+        " pronounce not guilty"
+      ]
+    },
+    {
+      "word": "climb",
+      "word_type": "verb",
+      "definitions": [
+        "climb up",
+        " mount",
+        " go up"
+      ]
+    },
+    {
+      "word": "close",
+      "word_type": "verb",
+      "definitions": [
+        "shut"
+      ]
+    },
+    {
+      "word": "close",
+      "word_type": "verb",
+      "definitions": [
+        "finish",
+        " terminate",
+        " conclude",
+        " end"
+      ]
+    },
+    {
+      "word": "coincide",
+      "word_type": "verb",
+      "definitions": [
+        "concur",
+        " happen simultaneously"
+      ]
+    },
+    {
+      "word": "collapse",
+      "word_type": "verb",
+      "definitions": [
+        "crumble",
+        " crumple",
+        " tumble"
+      ]
+    },
+    {
+      "word": "collect",
+      "word_type": "verb",
+      "definitions": [
+        "pick up"
+      ]
+    },
+    {
+      "word": "combine",
+      "word_type": "verb",
+      "definitions": [
+        "blend",
+        " mix",
+        " conflate",
+        " commingle",
+        " fuse",
+        " merge"
+      ]
+    },
+    {
+      "word": "comfort",
+      "word_type": "verb",
+      "definitions": [
+        "soothe",
+        " console"
+      ]
+    },
+    {
+      "word": "compare",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "compensate",
+      "word_type": "verb",
+      "definitions": [
+        "compensate"
+      ]
+    },
+    {
+      "word": "compete",
+      "word_type": "verb",
+      "definitions": [
+        "vie",
+        " contend"
+      ]
+    },
+    {
+      "word": "complain",
+      "word_type": "verb",
+      "definitions": [
+        "express discontent"
+      ]
+    },
+    {
+      "word": "compromise",
+      "word_type": "verb",
+      "definitions": [
+        "make a compromise"
+      ]
+    },
+    {
+      "word": "concede",
+      "word_type": "verb",
+      "definitions": [
+        "acknowledge defeat"
+      ]
+    },
+    {
+      "word": "conceive",
+      "word_type": "verb",
+      "definitions": [
+        "become pregnant"
+      ]
+    },
+    {
+      "word": "concentrate",
+      "word_type": "verb",
+      "definitions": [
+        "focus",
+        " focus one's attention"
+      ]
+    },
+    {
+      "word": "confine",
+      "word_type": "verb",
+      "definitions": [
+        "detain"
+      ]
+    },
+    {
+      "word": "confront",
+      "word_type": "verb",
+      "definitions": [
+        "come face to face with"
+      ]
+    },
+    {
+      "word": "congratulate",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "consider",
+      "word_type": "verb",
+      "definitions": [
+        "debate",
+        " think about"
+      ]
+    },
+    {
+      "word": "consolidate",
+      "word_type": "verb",
+      "definitions": [
+        "unite into one"
+      ]
+    },
+    {
+      "word": "construct",
+      "word_type": "verb",
+      "definitions": [
+        "manufacture",
+        " fabricate"
+      ]
+    },
+    {
+      "word": "contain",
+      "word_type": "verb",
+      "definitions": [
+        "incorporate",
+        " comprise"
+      ]
+    },
+    {
+      "word": "control",
+      "word_type": "verb",
+      "definitions": [
+        "operate",
+        " handle"
+      ]
+    },
+    {
+      "word": "control",
+      "word_type": "verb",
+      "definitions": [
+        "control"
+      ]
+    },
+    {
+      "word": "convert",
+      "word_type": "verb",
+      "definitions": [
+        "change religious beliefs"
+      ]
+    },
+    {
+      "word": "convict",
+      "word_type": "verb",
+      "definitions": [
+        "find guilty"
+      ]
+    },
+    {
+      "word": "convince",
+      "word_type": "verb",
+      "definitions": [
+        "convert",
+        " win over"
+      ]
+    },
+    {
+      "word": "cook",
+      "word_type": "verb",
+      "definitions": [
+        "manipulate",
+        " fake",
+        " fudge",
+        " cook",
+        " misrepresent"
+      ]
+    },
+    {
+      "word": "cooperate",
+      "word_type": "verb",
+      "definitions": [
+        "collaborate",
+        " join forces"
+      ]
+    },
+    {
+      "word": "cope",
+      "word_type": "verb",
+      "definitions": [
+        "get by",
+        " make do",
+        " manage"
+      ]
+    },
+    {
+      "word": "copy",
+      "word_type": "verb",
+      "definitions": [
+        "imitate",
+        " simulate"
+      ]
+    },
+    {
+      "word": "copy",
+      "word_type": "verb",
+      "definitions": [
+        "re-create",
+        " replicate"
+      ]
+    },
+    {
+      "word": "correspond",
+      "word_type": "verb",
+      "definitions": [
+        "exchange messages"
+      ]
+    },
+    {
+      "word": "cough",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "count",
+      "word_type": "verb",
+      "definitions": [
+        "number",
+        " enumerate"
+      ]
+    },
+    {
+      "word": "cover",
+      "word_type": "verb",
+      "definitions": [
+        "handle",
+        " deal with",
+        " address",
+        " cover"
+      ]
+    },
+    {
+      "word": "cover",
+      "word_type": "verb",
+      "definitions": [
+        "provide with a covering"
+      ]
+    },
+    {
+      "word": "crash",
+      "word_type": "verb",
+      "definitions": [
+        "cease operating abruptly"
+      ]
+    },
+    {
+      "word": "crash",
+      "word_type": "verb",
+      "definitions": [
+        "break apart"
+      ]
+    },
+    {
+      "word": "crash",
+      "word_type": "verb",
+      "definitions": [
+        "smash",
+        " hurl or thrust violently"
+      ]
+    },
+    {
+      "word": "crash",
+      "word_type": "verb",
+      "definitions": [
+        "fall or come down violently"
+      ]
+    },
+    {
+      "word": "create",
+      "word_type": "verb",
+      "definitions": [
+        "bring into existence"
+      ]
+    },
+    {
+      "word": "creep",
+      "word_type": "verb",
+      "definitions": [
+        "crawl"
+      ]
+    },
+    {
+      "word": "creep",
+      "word_type": "verb",
+      "definitions": [
+        "fawn",
+        " cringe",
+        " grovel",
+        " show submission or fear"
+      ]
+    },
+    {
+      "word": "crop",
+      "word_type": "verb",
+      "definitions": [
+        "cut short"
+      ]
+    },
+    {
+      "word": "crop",
+      "word_type": "verb",
+      "definitions": [
+        "pasture"
+      ]
+    },
+    {
+      "word": "cross",
+      "word_type": "verb",
+      "definitions": [
+        "traverse"
+      ]
+    },
+    {
+      "word": "crouch",
+      "word_type": "verb",
+      "definitions": [
+        "squat"
+      ]
+    },
+    {
+      "word": "cry",
+      "word_type": "verb",
+      "definitions": [
+        "weep"
+      ]
+    },
+    {
+      "word": "cultivate",
+      "word_type": "verb",
+      "definitions": [
+        "domesticate",
+        " naturalize",
+        " naturalise",
+        " tame"
+      ]
+    },
+    {
+      "word": "curl",
+      "word_type": "verb",
+      "definitions": [
+        "coil",
+        " loop"
+      ]
+    },
+    {
+      "word": "cut",
+      "word_type": "verb",
+      "definitions": [
+        "cut down",
+        " cut back",
+        " trim"
+      ]
+    },
+    {
+      "word": "cut",
+      "word_type": "verb",
+      "definitions": [
+        "cleave"
+      ]
+    },
+    {
+      "word": "damn",
+      "word_type": "verb",
+      "definitions": [
+        "curse"
+      ]
+    },
+    {
+      "word": "dance",
+      "word_type": "verb",
+      "definitions": [
+        "move in a pattern to music"
+      ]
+    },
+    {
+      "word": "dare",
+      "word_type": "verb",
+      "definitions": [
+        "be courageous enough to try or do something"
+      ]
+    },
+    {
+      "word": "debate",
+      "word_type": "verb",
+      "definitions": [
+        "deliberate"
+      ]
+    },
+    {
+      "word": "debut",
+      "word_type": "verb",
+      "definitions": [
+        "appear in public for the first time"
+      ]
+    },
+    {
+      "word": "decide",
+      "word_type": "verb",
+      "definitions": [
+        "make up one's mind"
+      ]
+    },
+    {
+      "word": "decide",
+      "word_type": "verb",
+      "definitions": [
+        "influence"
+      ]
+    },
+    {
+      "word": "decline",
+      "word_type": "verb",
+      "definitions": [
+        "worsen"
+      ]
+    },
+    {
+      "word": "decrease",
+      "word_type": "verb",
+      "definitions": [
+        "lessen",
+        " make smaller or less"
+      ]
+    },
+    {
+      "word": "dedicate",
+      "word_type": "verb",
+      "definitions": [
+        "inscribe or address by way of compliment"
+      ]
+    },
+    {
+      "word": "defend",
+      "word_type": "verb",
+      "definitions": [
+        "represent in a court of law"
+      ]
+    },
+    {
+      "word": "define",
+      "word_type": "verb",
+      "definitions": [
+        "give a definition for"
+      ]
+    },
+    {
+      "word": "delay",
+      "word_type": "verb",
+      "definitions": [
+        "detain",
+        " hold up"
+      ]
+    },
+    {
+      "word": "delay",
+      "word_type": "verb",
+      "definitions": [
+        "act later than planned"
+      ]
+    },
+    {
+      "word": "delete",
+      "word_type": "verb",
+      "definitions": [
+        "erase",
+        " wipe out information"
+      ]
+    },
+    {
+      "word": "deliver",
+      "word_type": "verb",
+      "definitions": [
+        "make a delivery",
+        " bring"
+      ]
+    },
+    {
+      "word": "deliver",
+      "word_type": "verb",
+      "definitions": [
+        "extradite",
+        " hand over to the authorities of another country"
+      ]
+    },
+    {
+      "word": "deliver",
+      "word_type": "verb",
+      "definitions": [
+        "deliver",
+        " free from harm"
+      ]
+    },
+    {
+      "word": "demand",
+      "word_type": "verb",
+      "definitions": [
+        "request urgently and forcefully"
+      ]
+    },
+    {
+      "word": "demolish",
+      "word_type": "verb",
+      "definitions": [
+        "destroy"
+      ]
+    },
+    {
+      "word": "demonstrate",
+      "word_type": "verb",
+      "definitions": [
+        "march",
+        " march in protest"
+      ]
+    },
+    {
+      "word": "denounce",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "deny",
+      "word_type": "verb",
+      "definitions": [
+        "contradict",
+        " declare untrue"
+      ]
+    },
+    {
+      "word": "deny",
+      "word_type": "verb",
+      "definitions": [
+        "refuse to grant"
+      ]
+    },
+    {
+      "word": "depart",
+      "word_type": "verb",
+      "definitions": [
+        "sidetrack"
+      ]
+    },
+    {
+      "word": "depend",
+      "word_type": "verb",
+      "definitions": [
+        "be contingent upon"
+      ]
+    },
+    {
+      "word": "deprive",
+      "word_type": "verb",
+      "definitions": [
+        "keep from having or obtaining"
+      ]
+    },
+    {
+      "word": "describe",
+      "word_type": "verb",
+      "definitions": [
+        "depict"
+      ]
+    },
+    {
+      "word": "desert",
+      "word_type": "verb",
+      "definitions": [
+        "defect"
+      ]
+    },
+    {
+      "word": "deserve",
+      "word_type": "verb",
+      "definitions": [
+        "merit",
+        " be worthy or deserving"
+      ]
+    },
+    {
+      "word": "despise",
+      "word_type": "verb",
+      "definitions": [
+        "scorn",
+        " disdain"
+      ]
+    },
+    {
+      "word": "deter",
+      "word_type": "verb",
+      "definitions": [
+        "dissuade"
+      ]
+    },
+    {
+      "word": "deteriorate",
+      "word_type": "verb",
+      "definitions": [
+        "become worse",
+        " disintegrate"
+      ]
+    },
+    {
+      "word": "develop",
+      "word_type": "verb",
+      "definitions": [
+        "develop"
+      ]
+    },
+    {
+      "word": "develop",
+      "word_type": "verb",
+      "definitions": [
+        "prepare",
+        " educate"
+      ]
+    },
+    {
+      "word": "develop",
+      "word_type": "verb",
+      "definitions": [
+        "make something new",
+        " invent"
+      ]
+    },
+    {
+      "word": "develop",
+      "word_type": "verb",
+      "definitions": [
+        "originate",
+        " develop",
+        " come into existence"
+      ]
+    },
+    {
+      "word": "devote",
+      "word_type": "verb",
+      "definitions": [
+        "dedicate",
+        " commit to a specific cause or function"
+      ]
+    },
+    {
+      "word": "dictate",
+      "word_type": "verb",
+      "definitions": [
+        "say out loud for the purpose of recording"
+      ]
+    },
+    {
+      "word": "die",
+      "word_type": "verb",
+      "definitions": [
+        "die",
+        " conk out"
+      ]
+    },
+    {
+      "word": "die",
+      "word_type": "verb",
+      "definitions": [
+        "suffer death"
+      ]
+    },
+    {
+      "word": "differ",
+      "word_type": "verb",
+      "definitions": [
+        "differ",
+        " take issue"
+      ]
+    },
+    {
+      "word": "differ",
+      "word_type": "verb",
+      "definitions": [
+        "be different"
+      ]
+    },
+    {
+      "word": "dig",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "dig",
+      "word_type": "verb",
+      "definitions": [
+        "hollow",
+        " hollow out"
+      ]
+    },
+    {
+      "word": "dilute",
+      "word_type": "verb",
+      "definitions": [
+        "thin",
+        " reduce",
+        " cut"
+      ]
+    },
+    {
+      "word": "dine",
+      "word_type": "verb",
+      "definitions": [
+        "have supper"
+      ]
+    },
+    {
+      "word": "dip",
+      "word_type": "verb",
+      "definitions": [
+        "slope downwards"
+      ]
+    },
+    {
+      "word": "direct",
+      "word_type": "verb",
+      "definitions": [
+        "point somebody into a certain direction"
+      ]
+    },
+    {
+      "word": "direct",
+      "word_type": "verb",
+      "definitions": [
+        "guide actors"
+      ]
+    },
+    {
+      "word": "disappear",
+      "word_type": "verb",
+      "definitions": [
+        "vanish"
+      ]
+    },
+    {
+      "word": "disappoint",
+      "word_type": "verb",
+      "definitions": [
+        "let down"
+      ]
+    },
+    {
+      "word": "discourage",
+      "word_type": "verb",
+      "definitions": [
+        "deter"
+      ]
+    },
+    {
+      "word": "discover",
+      "word_type": "verb",
+      "definitions": [
+        "come upon",
+        " chance upon",
+        " come across"
+      ]
+    },
+    {
+      "word": "discuss",
+      "word_type": "verb",
+      "definitions": [
+        "talk over"
+      ]
+    },
+    {
+      "word": "disguise",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "dislike",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "dismiss",
+      "word_type": "verb",
+      "definitions": [
+        "fire",
+        " give notice",
+        " give the axe",
+        " sack"
+      ]
+    },
+    {
+      "word": "display",
+      "word_type": "verb",
+      "definitions": [
+        "expose",
+        " exhibit"
+      ]
+    },
+    {
+      "word": "dispute",
+      "word_type": "verb",
+      "definitions": [
+        "dispute",
+        " argue"
+      ]
+    },
+    {
+      "word": "dissolve",
+      "word_type": "verb",
+      "definitions": [
+        "unfreeze",
+        " unthaw",
+        " dethaw",
+        " melt"
+      ]
+    },
+    {
+      "word": "distort",
+      "word_type": "verb",
+      "definitions": [
+        "falsify"
+      ]
+    },
+    {
+      "word": "distribute",
+      "word_type": "verb",
+      "definitions": [
+        "give out",
+        " hand out"
+      ]
+    },
+    {
+      "word": "dive",
+      "word_type": "verb",
+      "definitions": [
+        "plunge into water"
+      ]
+    },
+    {
+      "word": "divide",
+      "word_type": "verb",
+      "definitions": [
+        "split",
+        " split up",
+        " separate"
+      ]
+    },
+    {
+      "word": "divorce",
+      "word_type": "verb",
+      "definitions": [
+        "split up"
+      ]
+    },
+    {
+      "word": "document",
+      "word_type": "verb",
+      "definitions": [
+        "record in detail"
+      ]
+    },
+    {
+      "word": "dominate",
+      "word_type": "verb",
+      "definitions": [
+        "be in control"
+      ]
+    },
+    {
+      "word": "donate",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "double",
+      "word_type": "verb",
+      "definitions": [
+        "increase twofold",
+        " duplicate"
+      ]
+    },
+    {
+      "word": "doubt",
+      "word_type": "verb",
+      "definitions": [
+        "consider unlikely"
+      ]
+    },
+    {
+      "word": "drag",
+      "word_type": "verb",
+      "definitions": [
+        "pull against a resistance"
+      ]
+    },
+    {
+      "word": "drag",
+      "word_type": "verb",
+      "definitions": [
+        "be behind",
+        " hang back",
+        " drop behind"
+      ]
+    },
+    {
+      "word": "drain",
+      "word_type": "verb",
+      "definitions": [
+        "empty of liquid"
+      ]
+    },
+    {
+      "word": "draw",
+      "word_type": "verb",
+      "definitions": [
+        "tie",
+        " finish a game with an equal number of points"
+      ]
+    },
+    {
+      "word": "draw",
+      "word_type": "verb",
+      "definitions": [
+        "draw"
+      ]
+    },
+    {
+      "word": "draw",
+      "word_type": "verb",
+      "definitions": [
+        "attract",
+        " pull",
+        " pull in",
+        " draw in"
+      ]
+    },
+    {
+      "word": "draw",
+      "word_type": "verb",
+      "definitions": [
+        "represent by making a drawing of"
+      ]
+    },
+    {
+      "word": "draw",
+      "word_type": "verb",
+      "definitions": [
+        "take out",
+        " draw off"
+      ]
+    },
+    {
+      "word": "dress",
+      "word_type": "verb",
+      "definitions": [
+        "clothe"
+      ]
+    },
+    {
+      "word": "drink",
+      "word_type": "verb",
+      "definitions": [
+        "imbibe",
+        " take in liquids"
+      ]
+    },
+    {
+      "word": "drive",
+      "word_type": "verb",
+      "definitions": [
+        "travel by vehicle"
+      ]
+    },
+    {
+      "word": "drop",
+      "word_type": "verb",
+      "definitions": [
+        "degenerate",
+        " grow worse"
+      ]
+    },
+    {
+      "word": "drop",
+      "word_type": "verb",
+      "definitions": [
+        "drip"
+      ]
+    },
+    {
+      "word": "drop",
+      "word_type": "verb",
+      "definitions": [
+        "let fall"
+      ]
+    },
+    {
+      "word": "drown",
+      "word_type": "verb",
+      "definitions": [
+        "die in water"
+      ]
+    },
+    {
+      "word": "drug",
+      "word_type": "verb",
+      "definitions": [
+        "dose",
+        " medicate"
+      ]
+    },
+    {
+      "word": "dump",
+      "word_type": "verb",
+      "definitions": [
+        "discard",
+        " dispose",
+        " toss out"
+      ]
+    },
+    {
+      "word": "dump",
+      "word_type": "verb",
+      "definitions": [
+        "dump",
+        " unceremoniously sever all ties with"
+      ]
+    },
+    {
+      "word": "eat",
+      "word_type": "verb",
+      "definitions": [
+        "take in solid food"
+      ]
+    },
+    {
+      "word": "eavesdrop",
+      "word_type": "verb",
+      "definitions": [
+        "listen in"
+      ]
+    },
+    {
+      "word": "elect",
+      "word_type": "verb",
+      "definitions": [
+        "elect to do"
+      ]
+    },
+    {
+      "word": "elect",
+      "word_type": "verb",
+      "definitions": [
+        "select by in an election"
+      ]
+    },
+    {
+      "word": "eliminate",
+      "word_type": "verb",
+      "definitions": [
+        "get rid of",
+        " do away with"
+      ]
+    },
+    {
+      "word": "embark",
+      "word_type": "verb",
+      "definitions": [
+        "venture"
+      ]
+    },
+    {
+      "word": "employ",
+      "word_type": "verb",
+      "definitions": [
+        "hire",
+        " engage"
+      ]
+    },
+    {
+      "word": "encourage",
+      "word_type": "verb",
+      "definitions": [
+        "spur on"
+      ]
+    },
+    {
+      "word": "endure",
+      "word_type": "verb",
+      "definitions": [
+        "weather",
+        " brave"
+      ]
+    },
+    {
+      "word": "enhance",
+      "word_type": "verb",
+      "definitions": [
+        "make better or more attractive"
+      ]
+    },
+    {
+      "word": "enlarge",
+      "word_type": "verb",
+      "definitions": [
+        "magnify",
+        " blow up"
+      ]
+    },
+    {
+      "word": "ensure",
+      "word_type": "verb",
+      "definitions": [
+        "guarantee",
+        " insure",
+        " assure",
+        " secure"
+      ]
+    },
+    {
+      "word": "enter",
+      "word_type": "verb",
+      "definitions": [
+        "come in",
+        " get into",
+        " get in",
+        " go into",
+        " go in"
+      ]
+    },
+    {
+      "word": "enter",
+      "word_type": "verb",
+      "definitions": [
+        "enroll",
+        " inscribe"
+      ]
+    },
+    {
+      "word": "entertain",
+      "word_type": "verb",
+      "definitions": [
+        "provide entertainment"
+      ]
+    },
+    {
+      "word": "escape",
+      "word_type": "verb",
+      "definitions": [
+        "get away",
+        " break loose",
+        " run away from confinement"
+      ]
+    },
+    {
+      "word": "establish",
+      "word_type": "verb",
+      "definitions": [
+        "install",
+        " set up"
+      ]
+    },
+    {
+      "word": "exaggerate",
+      "word_type": "verb",
+      "definitions": [
+        "overstate"
+      ]
+    },
+    {
+      "word": "exceed",
+      "word_type": "verb",
+      "definitions": [
+        "surpass",
+        " outstrip",
+        " outmatch",
+        " outdo"
+      ]
+    },
+    {
+      "word": "exclude",
+      "word_type": "verb",
+      "definitions": [
+        "except",
+        " leave out",
+        " leave off",
+        " omit"
+      ]
+    },
+    {
+      "word": "exclude",
+      "word_type": "verb",
+      "definitions": [
+        "expel",
+        " throw out",
+        " kick out"
+      ]
+    },
+    {
+      "word": "excuse",
+      "word_type": "verb",
+      "definitions": [
+        "forgive",
+        " pardon"
+      ]
+    },
+    {
+      "word": "execute",
+      "word_type": "verb",
+      "definitions": [
+        "put to death"
+      ]
+    },
+    {
+      "word": "exhibit",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "expand",
+      "word_type": "verb",
+      "definitions": [
+        "boom",
+        " thrive",
+        " flourish"
+      ]
+    },
+    {
+      "word": "expand",
+      "word_type": "verb",
+      "definitions": [
+        "expand",
+        " expatiate",
+        " enlarge",
+        " flesh out"
+      ]
+    },
+    {
+      "word": "expand",
+      "word_type": "verb",
+      "definitions": [
+        "spread out",
+        " extend in one or more directions",
+        " spread"
+      ]
+    },
+    {
+      "word": "expect",
+      "word_type": "verb",
+      "definitions": [
+        "anticipate"
+      ]
+    },
+    {
+      "word": "experiment",
+      "word_type": "verb",
+      "definitions": [
+        "conduct a test or investigation"
+      ]
+    },
+    {
+      "word": "explain",
+      "word_type": "verb",
+      "definitions": [
+        "explicate"
+      ]
+    },
+    {
+      "word": "explode",
+      "word_type": "verb",
+      "definitions": [
+        "detonate",
+        " blow up"
+      ]
+    },
+    {
+      "word": "explode",
+      "word_type": "verb",
+      "definitions": [
+        "show a violent emotional reaction"
+      ]
+    },
+    {
+      "word": "exploit",
+      "word_type": "verb",
+      "definitions": [
+        "manipulate to one's advantage"
+      ]
+    },
+    {
+      "word": "export",
+      "word_type": "verb",
+      "definitions": [
+        "sell abroad"
+      ]
+    },
+    {
+      "word": "expose",
+      "word_type": "verb",
+      "definitions": [
+        "debunk"
+      ]
+    },
+    {
+      "word": "extend",
+      "word_type": "verb",
+      "definitions": [
+        "widen",
+        " broaden in scope or range or area"
+      ]
+    },
+    {
+      "word": "face",
+      "word_type": "verb",
+      "definitions": [
+        "face",
+        " face up to"
+      ]
+    },
+    {
+      "word": "fade",
+      "word_type": "verb",
+      "definitions": [
+        "wither"
+      ]
+    },
+    {
+      "word": "fail",
+      "word_type": "verb",
+      "definitions": [
+        "go wrong"
+      ]
+    },
+    {
+      "word": "faint",
+      "word_type": "verb",
+      "definitions": [
+        "pass out"
+      ]
+    },
+    {
+      "word": "fall",
+      "word_type": "verb",
+      "definitions": [
+        "diminish",
+        " fall"
+      ]
+    },
+    {
+      "word": "fall",
+      "word_type": "verb",
+      "definitions": [
+        "descend in free fall"
+      ]
+    },
+    {
+      "word": "fan",
+      "word_type": "verb",
+      "definitions": [
+        "agitate the air"
+      ]
+    },
+    {
+      "word": "fascinate",
+      "word_type": "verb",
+      "definitions": [
+        "intrigue"
+      ]
+    },
+    {
+      "word": "fast",
+      "word_type": "verb",
+      "definitions": [
+        "abstain from food"
+      ]
+    },
+    {
+      "word": "fear",
+      "word_type": "verb",
+      "definitions": [
+        "dread",
+        " be afraid of"
+      ]
+    },
+    {
+      "word": "feel",
+      "word_type": "verb",
+      "definitions": [
+        "experience",
+        " undergo an emotional sensation"
+      ]
+    },
+    {
+      "word": "fight",
+      "word_type": "verb",
+      "definitions": [
+        "struggle"
+      ]
+    },
+    {
+      "word": "fill",
+      "word_type": "verb",
+      "definitions": [
+        "fill up",
+        " make full"
+      ]
+    },
+    {
+      "word": "film",
+      "word_type": "verb",
+      "definitions": [
+        "record on film"
+      ]
+    },
+    {
+      "word": "find",
+      "word_type": "verb",
+      "definitions": [
+        "discover"
+      ]
+    },
+    {
+      "word": "find",
+      "word_type": "verb",
+      "definitions": [
+        "recover",
+        " retrieve",
+        " regain"
+      ]
+    },
+    {
+      "word": "finish",
+      "word_type": "verb",
+      "definitions": [
+        "complete"
+      ]
+    },
+    {
+      "word": "fire",
+      "word_type": "verb",
+      "definitions": [
+        "discharge a weapon"
+      ]
+    },
+    {
+      "word": "fit",
+      "word_type": "verb",
+      "definitions": [
+        "fit out",
+        " outfit"
+      ]
+    },
+    {
+      "word": "fit",
+      "word_type": "verb",
+      "definitions": [
+        "conform to shape or size"
+      ]
+    },
+    {
+      "word": "fix",
+      "word_type": "verb",
+      "definitions": [
+        "repair",
+        " mend"
+      ]
+    },
+    {
+      "word": "flash",
+      "word_type": "verb",
+      "definitions": [
+        "blink",
+        " wink",
+        " twinkle"
+      ]
+    },
+    {
+      "word": "fling",
+      "word_type": "verb",
+      "definitions": [
+        "throw with force or recklessness"
+      ]
+    },
+    {
+      "word": "fling",
+      "word_type": "verb",
+      "definitions": [
+        "indulge oneself"
+      ]
+    },
+    {
+      "word": "flood",
+      "word_type": "verb",
+      "definitions": [
+        "inundate",
+        " fill quickly beyond capacity"
+      ]
+    },
+    {
+      "word": "flourish",
+      "word_type": "verb",
+      "definitions": [
+        "thrive",
+        " prosper"
+      ]
+    },
+    {
+      "word": "flush",
+      "word_type": "verb",
+      "definitions": [
+        "blush",
+        " redden"
+      ]
+    },
+    {
+      "word": "flush",
+      "word_type": "verb",
+      "definitions": [
+        "cause to flow or flood"
+      ]
+    },
+    {
+      "word": "fly",
+      "word_type": "verb",
+      "definitions": [
+        "travel through the air",
+        " be airborne"
+      ]
+    },
+    {
+      "word": "fold",
+      "word_type": "verb",
+      "definitions": [
+        "fold up",
+        " bend or lay so that one part covers the other"
+      ]
+    },
+    {
+      "word": "follow",
+      "word_type": "verb",
+      "definitions": [
+        "go behind"
+      ]
+    },
+    {
+      "word": "follow",
+      "word_type": "verb",
+      "definitions": [
+        "comply"
+      ]
+    },
+    {
+      "word": "follow",
+      "word_type": "verb",
+      "definitions": [
+        "succeed",
+        " come after"
+      ]
+    },
+    {
+      "word": "fool",
+      "word_type": "verb",
+      "definitions": [
+        "horse around",
+        " fool"
+      ]
+    },
+    {
+      "word": "forbid",
+      "word_type": "verb",
+      "definitions": [
+        "prohibit",
+        " interdict"
+      ]
+    },
+    {
+      "word": "force",
+      "word_type": "verb",
+      "definitions": [
+        "move something forcibly"
+      ]
+    },
+    {
+      "word": "force",
+      "word_type": "verb",
+      "definitions": [
+        "pressure",
+        " force",
+        " compel"
+      ]
+    },
+    {
+      "word": "forge",
+      "word_type": "verb",
+      "definitions": [
+        "fake",
+        " counterfeit"
+      ]
+    },
+    {
+      "word": "forget",
+      "word_type": "verb",
+      "definitions": [
+        "block",
+        " blank out",
+        " draw a blank",
+        " fail to remember"
+      ]
+    },
+    {
+      "word": "form",
+      "word_type": "verb",
+      "definitions": [
+        "shape",
+        " give shape to"
+      ]
+    },
+    {
+      "word": "form",
+      "word_type": "verb",
+      "definitions": [
+        "form"
+      ]
+    },
+    {
+      "word": "formulate",
+      "word_type": "verb",
+      "definitions": [
+        "word",
+        " phrase",
+        " articulate"
+      ]
+    },
+    {
+      "word": "foster",
+      "word_type": "verb",
+      "definitions": [
+        "nurture"
+      ]
+    },
+    {
+      "word": "frame",
+      "word_type": "verb",
+      "definitions": [
+        "ensnare",
+        " entrap",
+        " set up"
+      ]
+    },
+    {
+      "word": "frame",
+      "word_type": "verb",
+      "definitions": [
+        "enclose in a frame"
+      ]
+    },
+    {
+      "word": "free",
+      "word_type": "verb",
+      "definitions": [
+        "free",
+        " grant an exemption"
+      ]
+    },
+    {
+      "word": "freeze",
+      "word_type": "verb",
+      "definitions": [
+        "feel or be cold"
+      ]
+    },
+    {
+      "word": "freeze",
+      "word_type": "verb",
+      "definitions": [
+        "change to ice"
+      ]
+    },
+    {
+      "word": "frighten",
+      "word_type": "verb",
+      "definitions": [
+        "scare",
+        " cause fear in"
+      ]
+    },
+    {
+      "word": "fund",
+      "word_type": "verb",
+      "definitions": [
+        "finance",
+        " underwrite"
+      ]
+    },
+    {
+      "word": "gain",
+      "word_type": "verb",
+      "definitions": [
+        "profit",
+        " benefit"
+      ]
+    },
+    {
+      "word": "gasp",
+      "word_type": "verb",
+      "definitions": [
+        "pant",
+        " puff",
+        " heave"
+      ]
+    },
+    {
+      "word": "gaze",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "generate",
+      "word_type": "verb",
+      "definitions": [
+        "bring forth",
+        " produce"
+      ]
+    },
+    {
+      "word": "get",
+      "word_type": "verb",
+      "definitions": [
+        "acquire"
+      ]
+    },
+    {
+      "word": "give",
+      "word_type": "verb",
+      "definitions": [
+        "provide with food"
+      ]
+    },
+    {
+      "word": "give",
+      "word_type": "verb",
+      "definitions": [
+        "yield",
+        " be flexible"
+      ]
+    },
+    {
+      "word": "give",
+      "word_type": "verb",
+      "definitions": [
+        "render",
+        " yield",
+        " return",
+        " generate"
+      ]
+    },
+    {
+      "word": "give",
+      "word_type": "verb",
+      "definitions": [
+        "collapse",
+        " fall in",
+        " cave in",
+        " give way"
+      ]
+    },
+    {
+      "word": "give",
+      "word_type": "verb",
+      "definitions": [
+        "present",
+        " give as a gift"
+      ]
+    },
+    {
+      "word": "give",
+      "word_type": "verb",
+      "definitions": [
+        "pass",
+        " hand",
+        " reach"
+      ]
+    },
+    {
+      "word": "glance",
+      "word_type": "verb",
+      "definitions": [
+        "peek"
+      ]
+    },
+    {
+      "word": "glare",
+      "word_type": "verb",
+      "definitions": [
+        "glower"
+      ]
+    },
+    {
+      "word": "glide",
+      "word_type": "verb",
+      "definitions": [
+        "move smoothly and effortlessly"
+      ]
+    },
+    {
+      "word": "glow",
+      "word_type": "verb",
+      "definitions": [
+        "emit light"
+      ]
+    },
+    {
+      "word": "go",
+      "word_type": "verb",
+      "definitions": [
+        "perish"
+      ]
+    },
+    {
+      "word": "go",
+      "word_type": "verb",
+      "definitions": [
+        "move"
+      ]
+    },
+    {
+      "word": "graduate",
+      "word_type": "verb",
+      "definitions": [
+        "receive an academic degree"
+      ]
+    },
+    {
+      "word": "greet",
+      "word_type": "verb",
+      "definitions": [
+        "send greetings"
+      ]
+    },
+    {
+      "word": "grin",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "grind",
+      "word_type": "verb",
+      "definitions": [
+        "mash",
+        " crunch"
+      ]
+    },
+    {
+      "word": "groan",
+      "word_type": "verb",
+      "definitions": [
+        "moan"
+      ]
+    },
+    {
+      "word": "grow",
+      "word_type": "verb",
+      "definitions": [
+        "mature",
+        " maturate"
+      ]
+    },
+    {
+      "word": "guard",
+      "word_type": "verb",
+      "definitions": [
+        "ward",
+        " watch over",
+        " shield from danger or harm"
+      ]
+    },
+    {
+      "word": "guess",
+      "word_type": "verb",
+      "definitions": [
+        "make a guess"
+      ]
+    },
+    {
+      "word": "handicap",
+      "word_type": "verb",
+      "definitions": [
+        "hinder",
+        " hamper"
+      ]
+    },
+    {
+      "word": "hang",
+      "word_type": "verb",
+      "definitions": [
+        "hang up",
+        " suspend"
+      ]
+    },
+    {
+      "word": "happen",
+      "word_type": "verb",
+      "definitions": [
+        "go on",
+        " occur"
+      ]
+    },
+    {
+      "word": "harm",
+      "word_type": "verb",
+      "definitions": [
+        "do harm to"
+      ]
+    },
+    {
+      "word": "hate",
+      "word_type": "verb",
+      "definitions": [
+        "detest",
+        " loathe"
+      ]
+    },
+    {
+      "word": "haul",
+      "word_type": "verb",
+      "definitions": [
+        "transport"
+      ]
+    },
+    {
+      "word": "haunt",
+      "word_type": "verb",
+      "definitions": [
+        "stalk"
+      ]
+    },
+    {
+      "word": "have",
+      "word_type": "verb",
+      "definitions": [
+        "have got"
+      ]
+    },
+    {
+      "word": "heal",
+      "word_type": "verb",
+      "definitions": [
+        "cure"
+      ]
+    },
+    {
+      "word": "hear",
+      "word_type": "verb",
+      "definitions": [
+        "perceive sound"
+      ]
+    },
+    {
+      "word": "help",
+      "word_type": "verb",
+      "definitions": [
+        "assist",
+        " aid"
+      ]
+    },
+    {
+      "word": "hesitate",
+      "word_type": "verb",
+      "definitions": [
+        "pause or hold back in uncertainty or unwillingness"
+      ]
+    },
+    {
+      "word": "hiccup",
+      "word_type": "verb",
+      "definitions": [
+        "breathe spasmodically"
+      ]
+    },
+    {
+      "word": "hide",
+      "word_type": "verb",
+      "definitions": [
+        "conceal"
+      ]
+    },
+    {
+      "word": "hide",
+      "word_type": "verb",
+      "definitions": [
+        "hide out",
+        " be or go into hiding"
+      ]
+    },
+    {
+      "word": "hike",
+      "word_type": "verb",
+      "definitions": [
+        "walk for pleasure",
+        " take a hike"
+      ]
+    },
+    {
+      "word": "hit",
+      "word_type": "verb",
+      "definitions": [
+        "strike"
+      ]
+    },
+    {
+      "word": "hit",
+      "word_type": "verb",
+      "definitions": [
+        "strike",
+        " run into",
+        " collide with"
+      ]
+    },
+    {
+      "word": "hold",
+      "word_type": "verb",
+      "definitions": [
+        "guard",
+        " protect"
+      ]
+    },
+    {
+      "word": "hold",
+      "word_type": "verb",
+      "definitions": [
+        "hold",
+        " sustain",
+        " hold up"
+      ]
+    },
+    {
+      "word": "hold",
+      "word_type": "verb",
+      "definitions": [
+        "reserve",
+        " book"
+      ]
+    },
+    {
+      "word": "hold",
+      "word_type": "verb",
+      "definitions": [
+        "bear",
+        " carry",
+        " contain"
+      ]
+    },
+    {
+      "word": "hook",
+      "word_type": "verb",
+      "definitions": [
+        "fasten with a hook"
+      ]
+    },
+    {
+      "word": "host",
+      "word_type": "verb",
+      "definitions": [
+        "be the host"
+      ]
+    },
+    {
+      "word": "hover",
+      "word_type": "verb",
+      "definitions": [
+        "levitate"
+      ]
+    },
+    {
+      "word": "hurt",
+      "word_type": "verb",
+      "definitions": [
+        "wound",
+        " hurt"
+      ]
+    },
+    {
+      "word": "hurt",
+      "word_type": "verb",
+      "definitions": [
+        "ache",
+        " be the source of pain"
+      ]
+    },
+    {
+      "word": "hypnotize",
+      "word_type": "verb",
+      "definitions": [
+        "mesmerize"
+      ]
+    },
+    {
+      "word": "identify",
+      "word_type": "verb",
+      "definitions": [
+        "name"
+      ]
+    },
+    {
+      "word": "ignore",
+      "word_type": "verb",
+      "definitions": [
+        "neglect",
+        " disregard"
+      ]
+    },
+    {
+      "word": "ignore",
+      "word_type": "verb",
+      "definitions": [
+        "disregard",
+        " brush aside",
+        " brush off",
+        " discount"
+      ]
+    },
+    {
+      "word": "illustrate",
+      "word_type": "verb",
+      "definitions": [
+        "exemplify"
+      ]
+    },
+    {
+      "word": "imagine",
+      "word_type": "verb",
+      "definitions": [
+        "conceive of",
+        " ideate",
+        " envisage"
+      ]
+    },
+    {
+      "word": "import",
+      "word_type": "verb",
+      "definitions": [
+        "bring in from abroad"
+      ]
+    },
+    {
+      "word": "impress",
+      "word_type": "verb",
+      "definitions": [
+        "make a good impression"
+      ]
+    },
+    {
+      "word": "improve",
+      "word_type": "verb",
+      "definitions": [
+        "better",
+        " amend",
+        " ameliorate"
+      ]
+    },
+    {
+      "word": "include",
+      "word_type": "verb",
+      "definitions": [
+        "admit",
+        " let in"
+      ]
+    },
+    {
+      "word": "include",
+      "word_type": "verb",
+      "definitions": [
+        "have as a part"
+      ]
+    },
+    {
+      "word": "increase",
+      "word_type": "verb",
+      "definitions": [
+        "become bigger or greater"
+      ]
+    },
+    {
+      "word": "indulge",
+      "word_type": "verb",
+      "definitions": [
+        "enjoy to excess"
+      ]
+    },
+    {
+      "word": "infect",
+      "word_type": "verb",
+      "definitions": [
+        "communicate a disease"
+      ]
+    },
+    {
+      "word": "inflate",
+      "word_type": "verb",
+      "definitions": [
+        "blow up",
+        " fill with air"
+      ]
+    },
+    {
+      "word": "inherit",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "inject",
+      "word_type": "verb",
+      "definitions": [
+        "take by injection"
+      ]
+    },
+    {
+      "word": "injure",
+      "word_type": "verb",
+      "definitions": [
+        "wound",
+        " hurt"
+      ]
+    },
+    {
+      "word": "insert",
+      "word_type": "verb",
+      "definitions": [
+        "place inside"
+      ]
+    },
+    {
+      "word": "insist",
+      "word_type": "verb",
+      "definitions": [
+        "take a firm stand"
+      ]
+    },
+    {
+      "word": "inspire",
+      "word_type": "verb",
+      "definitions": [
+        "supply the inspiration for"
+      ]
+    },
+    {
+      "word": "instal",
+      "word_type": "verb",
+      "definitions": [
+        "put in",
+        " set up for use"
+      ]
+    },
+    {
+      "word": "install",
+      "word_type": "verb",
+      "definitions": [
+        "put into an office or a position"
+      ]
+    },
+    {
+      "word": "insure",
+      "word_type": "verb",
+      "definitions": [
+        "take out insurance"
+      ]
+    },
+    {
+      "word": "intensify",
+      "word_type": "verb",
+      "definitions": [
+        "escalate",
+        " step up"
+      ]
+    },
+    {
+      "word": "interpret",
+      "word_type": "verb",
+      "definitions": [
+        "interpret in another language"
+      ]
+    },
+    {
+      "word": "interrupt",
+      "word_type": "verb",
+      "definitions": [
+        "disrupt"
+      ]
+    },
+    {
+      "word": "introduce",
+      "word_type": "verb",
+      "definitions": [
+        "inaugurate",
+        " usher in"
+      ]
+    },
+    {
+      "word": "introduce",
+      "word_type": "verb",
+      "definitions": [
+        "present",
+        " acquaint"
+      ]
+    },
+    {
+      "word": "introduce",
+      "word_type": "verb",
+      "definitions": [
+        "bring in"
+      ]
+    },
+    {
+      "word": "invite",
+      "word_type": "verb",
+      "definitions": [
+        "ask over",
+        " invite to one's house"
+      ]
+    },
+    {
+      "word": "jail",
+      "word_type": "verb",
+      "definitions": [
+        "imprison",
+        " incarcerate"
+      ]
+    },
+    {
+      "word": "jerk",
+      "word_type": "verb",
+      "definitions": [
+        "jerk"
+      ]
+    },
+    {
+      "word": "jest",
+      "word_type": "verb",
+      "definitions": [
+        "act or speak playfully"
+      ]
+    },
+    {
+      "word": "jump",
+      "word_type": "verb",
+      "definitions": [
+        "pass over",
+        " skip over"
+      ]
+    },
+    {
+      "word": "jump",
+      "word_type": "verb",
+      "definitions": [
+        "leap",
+        " bound"
+      ]
+    },
+    {
+      "word": "jump",
+      "word_type": "verb",
+      "definitions": [
+        "jump from an airplane"
+      ]
+    },
+    {
+      "word": "justify",
+      "word_type": "verb",
+      "definitions": [
+        "excuse",
+        " rationalize"
+      ]
+    },
+    {
+      "word": "keep",
+      "word_type": "verb",
+      "definitions": [
+        "preserve"
+      ]
+    },
+    {
+      "word": "keep",
+      "word_type": "verb",
+      "definitions": [
+        "maintain"
+      ]
+    },
+    {
+      "word": "keep",
+      "word_type": "verb",
+      "definitions": [
+        "hold on",
+        " retain possession of"
+      ]
+    },
+    {
+      "word": "keep",
+      "word_type": "verb",
+      "definitions": [
+        "observe",
+        " celebrate holidays or rites"
+      ]
+    },
+    {
+      "word": "kick",
+      "word_type": "verb",
+      "definitions": [
+        "strike with the foot"
+      ]
+    },
+    {
+      "word": "kill",
+      "word_type": "verb",
+      "definitions": [
+        "cause to die",
+        " put to death"
+      ]
+    },
+    {
+      "word": "kiss",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "knead",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "kneel",
+      "word_type": "verb",
+      "definitions": [
+        "rest one's weight on one's knees"
+      ]
+    },
+    {
+      "word": "knit",
+      "word_type": "verb",
+      "definitions": [
+        "make textiles by knitting"
+      ]
+    },
+    {
+      "word": "knock",
+      "word_type": "verb",
+      "definitions": [
+        "rap",
+        " strike with the knuckles"
+      ]
+    },
+    {
+      "word": "know",
+      "word_type": "verb",
+      "definitions": [
+        "be familiar or acquainted with a person or an object"
+      ]
+    },
+    {
+      "word": "know",
+      "word_type": "verb",
+      "definitions": [
+        "be aware of the truth of something"
+      ]
+    },
+    {
+      "word": "know",
+      "word_type": "verb",
+      "definitions": [
+        "know how to do or perform something"
+      ]
+    },
+    {
+      "word": "land",
+      "word_type": "verb",
+      "definitions": [
+        "come down on the ground"
+      ]
+    },
+    {
+      "word": "last",
+      "word_type": "verb",
+      "definitions": [
+        "last",
+        " persist"
+      ]
+    },
+    {
+      "word": "laugh",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "launch",
+      "word_type": "verb",
+      "definitions": [
+        "propel with force",
+        " set in motion"
+      ]
+    },
+    {
+      "word": "lay",
+      "word_type": "verb",
+      "definitions": [
+        "put down",
+        " lay down"
+      ]
+    },
+    {
+      "word": "lead",
+      "word_type": "verb",
+      "definitions": [
+        "head",
+        " travel in front of"
+      ]
+    },
+    {
+      "word": "lead",
+      "word_type": "verb",
+      "definitions": [
+        "be in charge"
+      ]
+    },
+    {
+      "word": "leak",
+      "word_type": "verb",
+      "definitions": [
+        "escape through an opening"
+      ]
+    },
+    {
+      "word": "lean",
+      "word_type": "verb",
+      "definitions": [
+        "tilt",
+        " tip",
+        " slant",
+        " angle",
+        " incline",
+        " bend"
+      ]
+    },
+    {
+      "word": "learn",
+      "word_type": "verb",
+      "definitions": [
+        "memorize"
+      ]
+    },
+    {
+      "word": "learn",
+      "word_type": "verb",
+      "definitions": [
+        "instruct"
+      ]
+    },
+    {
+      "word": "leave",
+      "word_type": "verb",
+      "definitions": [
+        "leave behind"
+      ]
+    },
+    {
+      "word": "leave",
+      "word_type": "verb",
+      "definitions": [
+        "exit",
+        " go out",
+        " get out"
+      ]
+    },
+    {
+      "word": "leave",
+      "word_type": "verb",
+      "definitions": [
+        "bequeath",
+        " will",
+        " pass on"
+      ]
+    },
+    {
+      "word": "lend",
+      "word_type": "verb",
+      "definitions": [
+        "loan"
+      ]
+    },
+    {
+      "word": "let",
+      "word_type": "verb",
+      "definitions": [
+        "rent",
+        " let"
+      ]
+    },
+    {
+      "word": "level",
+      "word_type": "verb",
+      "definitions": [
+        "raze",
+        " rase",
+        " dismantle",
+        " tear down"
+      ]
+    },
+    {
+      "word": "license",
+      "word_type": "verb",
+      "definitions": [
+        "certify"
+      ]
+    },
+    {
+      "word": "lick",
+      "word_type": "verb",
+      "definitions": [
+        "lap",
+        " pass the tongue over"
+      ]
+    },
+    {
+      "word": "lie",
+      "word_type": "verb",
+      "definitions": [
+        "tell an untruth"
+      ]
+    },
+    {
+      "word": "lie",
+      "word_type": "verb",
+      "definitions": [
+        "lie down"
+      ]
+    },
+    {
+      "word": "lift",
+      "word_type": "verb",
+      "definitions": [
+        "lift",
+        " annul",
+        " reverse",
+        " repeal",
+        " overturn",
+        " rescind"
+      ]
+    },
+    {
+      "word": "lift",
+      "word_type": "verb",
+      "definitions": [
+        "steal intellectual property"
+      ]
+    },
+    {
+      "word": "light",
+      "word_type": "verb",
+      "definitions": [
+        "light up",
+        " illuminate",
+        " make light"
+      ]
+    },
+    {
+      "word": "light",
+      "word_type": "verb",
+      "definitions": [
+        "light",
+        " light up"
+      ]
+    },
+    {
+      "word": "like",
+      "word_type": "verb",
+      "definitions": [
+        "be fond of"
+      ]
+    },
+    {
+      "word": "limit",
+      "word_type": "verb",
+      "definitions": [
+        "limit",
+        " restrain"
+      ]
+    },
+    {
+      "word": "linger",
+      "word_type": "verb",
+      "definitions": [
+        "loiter"
+      ]
+    },
+    {
+      "word": "link",
+      "word_type": "verb",
+      "definitions": [
+        "connect",
+        " tie",
+        " fasten together"
+      ]
+    },
+    {
+      "word": "list",
+      "word_type": "verb",
+      "definitions": [
+        "include in a list"
+      ]
+    },
+    {
+      "word": "listen",
+      "word_type": "verb",
+      "definitions": [
+        "hear"
+      ]
+    },
+    {
+      "word": "load",
+      "word_type": "verb",
+      "definitions": [
+        "place on a surface or a conveyance"
+      ]
+    },
+    {
+      "word": "locate",
+      "word_type": "verb",
+      "definitions": [
+        "situate",
+        " determine the location"
+      ]
+    },
+    {
+      "word": "lock",
+      "word_type": "verb",
+      "definitions": [
+        "fasten with a lock"
+      ]
+    },
+    {
+      "word": "lodge",
+      "word_type": "verb",
+      "definitions": [
+        "stay temporarily"
+      ]
+    },
+    {
+      "word": "long",
+      "word_type": "verb",
+      "definitions": [
+        "hanker",
+        " long"
+      ]
+    },
+    {
+      "word": "look",
+      "word_type": "verb",
+      "definitions": [
+        "appear",
+        " seem"
+      ]
+    },
+    {
+      "word": "look",
+      "word_type": "verb",
+      "definitions": [
+        "search"
+      ]
+    },
+    {
+      "word": "lose",
+      "word_type": "verb",
+      "definitions": [
+        "fail to win"
+      ]
+    },
+    {
+      "word": "lose",
+      "word_type": "verb",
+      "definitions": [
+        "lose"
+      ]
+    },
+    {
+      "word": "love",
+      "word_type": "verb",
+      "definitions": [
+        "be in love with"
+      ]
+    },
+    {
+      "word": "love",
+      "word_type": "verb",
+      "definitions": [
+        "enjoy doing",
+        " love to do"
+      ]
+    },
+    {
+      "word": "lower",
+      "word_type": "verb",
+      "definitions": [
+        "glower",
+        " look angry or sullen"
+      ]
+    },
+    {
+      "word": "make",
+      "word_type": "verb",
+      "definitions": [
+        "produce",
+        " create"
+      ]
+    },
+    {
+      "word": "make",
+      "word_type": "verb",
+      "definitions": [
+        "fix",
+        " ready",
+        " prepare"
+      ]
+    },
+    {
+      "word": "make",
+      "word_type": "verb",
+      "definitions": [
+        "gain",
+        " take in",
+        " clear",
+        " earn"
+      ]
+    },
+    {
+      "word": "manage",
+      "word_type": "verb",
+      "definitions": [
+        "oversee",
+        " supervise"
+      ]
+    },
+    {
+      "word": "manage",
+      "word_type": "verb",
+      "definitions": [
+        "pull off",
+        " bring off",
+        " carry off"
+      ]
+    },
+    {
+      "word": "manufacture",
+      "word_type": "verb",
+      "definitions": [
+        "cook up",
+        " make up",
+        " invent"
+      ]
+    },
+    {
+      "word": "march",
+      "word_type": "verb",
+      "definitions": [
+        "walk"
+      ]
+    },
+    {
+      "word": "market",
+      "word_type": "verb",
+      "definitions": [
+        "commercialize"
+      ]
+    },
+    {
+      "word": "master",
+      "word_type": "verb",
+      "definitions": [
+        "get the hang of"
+      ]
+    },
+    {
+      "word": "match",
+      "word_type": "verb",
+      "definitions": [
+        "be equal or harmonize"
+      ]
+    },
+    {
+      "word": "matter",
+      "word_type": "verb",
+      "definitions": [
+        "count",
+        " weigh",
+        " carry weight"
+      ]
+    },
+    {
+      "word": "mean",
+      "word_type": "verb",
+      "definitions": [
+        "intend",
+        " signify",
+        " stand for"
+      ]
+    },
+    {
+      "word": "measure",
+      "word_type": "verb",
+      "definitions": [
+        "quantify",
+        " express as a number or quantity"
+      ]
+    },
+    {
+      "word": "measure",
+      "word_type": "verb",
+      "definitions": [
+        "valuate",
+        " assess",
+        " appraise",
+        " value"
+      ]
+    },
+    {
+      "word": "meet",
+      "word_type": "verb",
+      "definitions": [
+        "gather",
+        " assemble"
+      ]
+    },
+    {
+      "word": "meet",
+      "word_type": "verb",
+      "definitions": [
+        "get to know"
+      ]
+    },
+    {
+      "word": "mention",
+      "word_type": "verb",
+      "definitions": [
+        "note",
+        " observe",
+        " remark"
+      ]
+    },
+    {
+      "word": "mind",
+      "word_type": "verb",
+      "definitions": [
+        "be offended or bothered by"
+      ]
+    },
+    {
+      "word": "minimise",
+      "word_type": "verb",
+      "definitions": [
+        "understate",
+        " downplay"
+      ]
+    },
+    {
+      "word": "mislead",
+      "word_type": "verb",
+      "definitions": [
+        "misinform",
+        " give false information"
+      ]
+    },
+    {
+      "word": "miss",
+      "word_type": "verb",
+      "definitions": [
+        "feel or suffer from the lack of"
+      ]
+    },
+    {
+      "word": "miss",
+      "word_type": "verb",
+      "definitions": [
+        "fail to reach or get to"
+      ]
+    },
+    {
+      "word": "miss",
+      "word_type": "verb",
+      "definitions": [
+        "be without"
+      ]
+    },
+    {
+      "word": "miss",
+      "word_type": "verb",
+      "definitions": [
+        "fail to attend an event or activity"
+      ]
+    },
+    {
+      "word": "mix",
+      "word_type": "verb",
+      "definitions": [
+        "shuffle",
+        " randomize"
+      ]
+    },
+    {
+      "word": "model",
+      "word_type": "verb",
+      "definitions": [
+        "simulate"
+      ]
+    },
+    {
+      "word": "move",
+      "word_type": "verb",
+      "definitions": [
+        "be active"
+      ]
+    },
+    {
+      "word": "move",
+      "word_type": "verb",
+      "definitions": [
+        "arouse sympathy or compassion"
+      ]
+    },
+    {
+      "word": "move",
+      "word_type": "verb",
+      "definitions": [
+        "change position"
+      ]
+    },
+    {
+      "word": "move",
+      "word_type": "verb",
+      "definitions": [
+        "change residence",
+        " affiliation",
+        " or employment"
+      ]
+    },
+    {
+      "word": "multiply",
+      "word_type": "verb",
+      "definitions": [
+        "calculate"
+      ]
+    },
+    {
+      "word": "mutter",
+      "word_type": "verb",
+      "definitions": [
+        "mumble",
+        " murmur"
+      ]
+    },
+    {
+      "word": "nap",
+      "word_type": "verb",
+      "definitions": [
+        "catnap",
+        " take a nap"
+      ]
+    },
+    {
+      "word": "need",
+      "word_type": "verb",
+      "definitions": [
+        "require"
+      ]
+    },
+    {
+      "word": "nod",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "nominate",
+      "word_type": "verb",
+      "definitions": [
+        "put up",
+        " put forward",
+        " propose"
+      ]
+    },
+    {
+      "word": "notice",
+      "word_type": "verb",
+      "definitions": [
+        "note",
+        " perceive"
+      ]
+    },
+    {
+      "word": "obey",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "object",
+      "word_type": "verb",
+      "definitions": [
+        "raise an objection"
+      ]
+    },
+    {
+      "word": "obscure",
+      "word_type": "verb",
+      "definitions": [
+        "make less visible"
+      ]
+    },
+    {
+      "word": "obtain",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "occupy",
+      "word_type": "verb",
+      "definitions": [
+        "fill",
+        " occupy the whole space of"
+      ]
+    },
+    {
+      "word": "offend",
+      "word_type": "verb",
+      "definitions": [
+        "cause to feel resentment"
+      ]
+    },
+    {
+      "word": "offer",
+      "word_type": "verb",
+      "definitions": [
+        "bid",
+        " propose to pay"
+      ]
+    },
+    {
+      "word": "offer",
+      "word_type": "verb",
+      "definitions": [
+        "volunteer to do"
+      ]
+    },
+    {
+      "word": "offset",
+      "word_type": "verb",
+      "definitions": [
+        "countervail",
+        " compensate",
+        " counterbalance",
+        " make up for"
+      ]
+    },
+    {
+      "word": "open",
+      "word_type": "verb",
+      "definitions": [
+        "open up"
+      ]
+    },
+    {
+      "word": "oppose",
+      "word_type": "verb",
+      "definitions": [
+        "be against"
+      ]
+    },
+    {
+      "word": "organise",
+      "word_type": "verb",
+      "definitions": [
+        "bring order and organization to"
+      ]
+    },
+    {
+      "word": "organise",
+      "word_type": "verb",
+      "definitions": [
+        "engineer",
+        " direct",
+        " orchestrate",
+        " organize"
+      ]
+    },
+    {
+      "word": "overlook",
+      "word_type": "verb",
+      "definitions": [
+        "fail to notice"
+      ]
+    },
+    {
+      "word": "overwhelm",
+      "word_type": "verb",
+      "definitions": [
+        "overpower"
+      ]
+    },
+    {
+      "word": "owe",
+      "word_type": "verb",
+      "definitions": [
+        "be obliged to pay"
+      ]
+    },
+    {
+      "word": "pack",
+      "word_type": "verb",
+      "definitions": [
+        "arrange in a container"
+      ]
+    },
+    {
+      "word": "paint",
+      "word_type": "verb",
+      "definitions": [
+        "apply paint to",
+        " coat with paint"
+      ]
+    },
+    {
+      "word": "paint",
+      "word_type": "verb",
+      "definitions": [
+        "make a painting"
+      ]
+    },
+    {
+      "word": "park",
+      "word_type": "verb",
+      "definitions": [
+        "maneuver a vehicle into a parking space"
+      ]
+    },
+    {
+      "word": "participate",
+      "word_type": "verb",
+      "definitions": [
+        "take part"
+      ]
+    },
+    {
+      "word": "pass",
+      "word_type": "verb",
+      "definitions": [
+        "go through",
+        " go across"
+      ]
+    },
+    {
+      "word": "pass",
+      "word_type": "verb",
+      "definitions": [
+        "overtake",
+        " travel past"
+      ]
+    },
+    {
+      "word": "pass",
+      "word_type": "verb",
+      "definitions": [
+        "pass by",
+        " go by"
+      ]
+    },
+    {
+      "word": "pass",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "pass",
+      "word_type": "verb",
+      "definitions": [
+        "make it",
+        " be successful"
+      ]
+    },
+    {
+      "word": "pass",
+      "word_type": "verb",
+      "definitions": [
+        "pass",
+        " go past",
+        " top"
+      ]
+    },
+    {
+      "word": "pat",
+      "word_type": "verb",
+      "definitions": [
+        "dab",
+        " hit lightly"
+      ]
+    },
+    {
+      "word": "pay",
+      "word_type": "verb",
+      "definitions": [
+        "give money in exchange for goods or services"
+      ]
+    },
+    {
+      "word": "penetrate",
+      "word_type": "verb",
+      "definitions": [
+        "enter into"
+      ]
+    },
+    {
+      "word": "perceive",
+      "word_type": "verb",
+      "definitions": [
+        "sense"
+      ]
+    },
+    {
+      "word": "perforate",
+      "word_type": "verb",
+      "definitions": [
+        "pass in or through"
+      ]
+    },
+    {
+      "word": "perform",
+      "word_type": "verb",
+      "definitions": [
+        "give a performance"
+      ]
+    },
+    {
+      "word": "persist",
+      "word_type": "verb",
+      "definitions": [
+        "persevere"
+      ]
+    },
+    {
+      "word": "persuade",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "photocopy",
+      "word_type": "verb",
+      "definitions": [
+        "xerox",
+        " run off"
+      ]
+    },
+    {
+      "word": "pick",
+      "word_type": "verb",
+      "definitions": [
+        "select carefully"
+      ]
+    },
+    {
+      "word": "pick",
+      "word_type": "verb",
+      "definitions": [
+        "pick",
+        " cull"
+      ]
+    },
+    {
+      "word": "pile",
+      "word_type": "verb",
+      "definitions": [
+        "stack",
+        " heap"
+      ]
+    },
+    {
+      "word": "place",
+      "word_type": "verb",
+      "definitions": [
+        "rate",
+        " place",
+        " range",
+        " order",
+        " grade"
+      ]
+    },
+    {
+      "word": "plan",
+      "word_type": "verb",
+      "definitions": [
+        "make plans"
+      ]
+    },
+    {
+      "word": "plan",
+      "word_type": "verb",
+      "definitions": [
+        "conceive"
+      ]
+    },
+    {
+      "word": "play",
+      "word_type": "verb",
+      "definitions": [
+        "participate in games or sport"
+      ]
+    },
+    {
+      "word": "play",
+      "word_type": "verb",
+      "definitions": [
+        "wager",
+        " stake"
+      ]
+    },
+    {
+      "word": "play",
+      "word_type": "verb",
+      "definitions": [
+        "act",
+        " roleplay",
+        " playact"
+      ]
+    },
+    {
+      "word": "play",
+      "word_type": "verb",
+      "definitions": [
+        "play on an instrument"
+      ]
+    },
+    {
+      "word": "play",
+      "word_type": "verb",
+      "definitions": [
+        "engage in playful activity"
+      ]
+    },
+    {
+      "word": "plead",
+      "word_type": "verb",
+      "definitions": [
+        "enter a plea in courts of law"
+      ]
+    },
+    {
+      "word": "please",
+      "word_type": "verb",
+      "definitions": [
+        "delight",
+        " give pleasure"
+      ]
+    },
+    {
+      "word": "pledge",
+      "word_type": "verb",
+      "definitions": [
+        "promise solemnly"
+      ]
+    },
+    {
+      "word": "plot",
+      "word_type": "verb",
+      "definitions": [
+        "plan secretly"
+      ]
+    },
+    {
+      "word": "plot",
+      "word_type": "verb",
+      "definitions": [
+        "diagram"
+      ]
+    },
+    {
+      "word": "plug",
+      "word_type": "verb",
+      "definitions": [
+        "stop up"
+      ]
+    },
+    {
+      "word": "poison",
+      "word_type": "verb",
+      "definitions": [
+        "administer poison to"
+      ]
+    },
+    {
+      "word": "polish",
+      "word_type": "verb",
+      "definitions": [
+        "refine"
+      ]
+    },
+    {
+      "word": "pop",
+      "word_type": "verb",
+      "definitions": [
+        "burst open with a sharp",
+        " explosive sound"
+      ]
+    },
+    {
+      "word": "post",
+      "word_type": "verb",
+      "definitions": [
+        "publicize with",
+        " or as if with",
+        " a poster"
+      ]
+    },
+    {
+      "word": "postpone",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "pour",
+      "word_type": "verb",
+      "definitions": [
+        "pour",
+        " teem",
+        " move in large numbers"
+      ]
+    },
+    {
+      "word": "pour",
+      "word_type": "verb",
+      "definitions": [
+        "cause to flow"
+      ]
+    },
+    {
+      "word": "pray",
+      "word_type": "verb",
+      "definitions": [
+        "say a prayer"
+      ]
+    },
+    {
+      "word": "pray",
+      "word_type": "verb",
+      "definitions": [
+        "implore",
+        " entreat"
+      ]
+    },
+    {
+      "word": "preach",
+      "word_type": "verb",
+      "definitions": [
+        "deliver a sermon"
+      ]
+    },
+    {
+      "word": "precede",
+      "word_type": "verb",
+      "definitions": [
+        "predate",
+        " antecede",
+        " antedate"
+      ]
+    },
+    {
+      "word": "prefer",
+      "word_type": "verb",
+      "definitions": [
+        "favor"
+      ]
+    },
+    {
+      "word": "present",
+      "word_type": "verb",
+      "definitions": [
+        "submit",
+        " hand over formally"
+      ]
+    },
+    {
+      "word": "press",
+      "word_type": "verb",
+      "definitions": [
+        "urge on"
+      ]
+    },
+    {
+      "word": "press",
+      "word_type": "verb",
+      "definitions": [
+        "exert pressure or force on"
+      ]
+    },
+    {
+      "word": "press",
+      "word_type": "verb",
+      "definitions": [
+        "compress",
+        " constrict",
+        " press",
+        " compact"
+      ]
+    },
+    {
+      "word": "prevent",
+      "word_type": "verb",
+      "definitions": [
+        "forestall",
+        " keep from happening"
+      ]
+    },
+    {
+      "word": "print",
+      "word_type": "verb",
+      "definitions": [
+        "reproduce by printing"
+      ]
+    },
+    {
+      "word": "proclaim",
+      "word_type": "verb",
+      "definitions": [
+        "exclaim",
+        " promulgate",
+        " state",
+        " announce"
+      ]
+    },
+    {
+      "word": "produce",
+      "word_type": "verb",
+      "definitions": [
+        "grow",
+        " raise",
+        " farm",
+        " cultivate"
+      ]
+    },
+    {
+      "word": "profit",
+      "word_type": "verb",
+      "definitions": [
+        "turn a profit"
+      ]
+    },
+    {
+      "word": "prosecute",
+      "word_type": "verb",
+      "definitions": [
+        "bring a criminal action against"
+      ]
+    },
+    {
+      "word": "protect",
+      "word_type": "verb",
+      "definitions": [
+        "shield from danger"
+      ]
+    },
+    {
+      "word": "prove",
+      "word_type": "verb",
+      "definitions": [
+        "show",
+        " demonstrate",
+        " establish"
+      ]
+    },
+    {
+      "word": "provide",
+      "word_type": "verb",
+      "definitions": [
+        "supply",
+        " render",
+        " furnish"
+      ]
+    },
+    {
+      "word": "provoke",
+      "word_type": "verb",
+      "definitions": [
+        "arouse",
+        " evoke an emotion or response"
+      ]
+    },
+    {
+      "word": "provoke",
+      "word_type": "verb",
+      "definitions": [
+        "hassle",
+        " plague",
+        " molest"
+      ]
+    },
+    {
+      "word": "publish",
+      "word_type": "verb",
+      "definitions": [
+        "bring out",
+        " put out",
+        " issue",
+        " release"
+      ]
+    },
+    {
+      "word": "pull",
+      "word_type": "verb",
+      "definitions": [
+        "pull",
+        " pull out",
+        " pull up",
+        " take out"
+      ]
+    },
+    {
+      "word": "pump",
+      "word_type": "verb",
+      "definitions": [
+        "raise fluid with a pump"
+      ]
+    },
+    {
+      "word": "punch",
+      "word_type": "verb",
+      "definitions": [
+        "hit with the fist"
+      ]
+    },
+    {
+      "word": "punch",
+      "word_type": "verb",
+      "definitions": [
+        "make a hole in"
+      ]
+    },
+    {
+      "word": "punish",
+      "word_type": "verb",
+      "definitions": [
+        "penalize"
+      ]
+    },
+    {
+      "word": "push",
+      "word_type": "verb",
+      "definitions": [
+        "push",
+        " promote"
+      ]
+    },
+    {
+      "word": "push",
+      "word_type": "verb",
+      "definitions": [
+        "press"
+      ]
+    },
+    {
+      "word": "put",
+      "word_type": "verb",
+      "definitions": [
+        "place",
+        " set",
+        " pose",
+        " lay",
+        " position"
+      ]
+    },
+    {
+      "word": "qualify",
+      "word_type": "verb",
+      "definitions": [
+        "modify"
+      ]
+    },
+    {
+      "word": "qualify",
+      "word_type": "verb",
+      "definitions": [
+        "measure up",
+        " prove capable",
+        " meet requirements"
+      ]
+    },
+    {
+      "word": "question",
+      "word_type": "verb",
+      "definitions": [
+        "interrogate"
+      ]
+    },
+    {
+      "word": "quit",
+      "word_type": "verb",
+      "definitions": [
+        "drop out",
+        " give up",
+        " throw in the towel"
+      ]
+    },
+    {
+      "word": "quote",
+      "word_type": "verb",
+      "definitions": [
+        "cite"
+      ]
+    },
+    {
+      "word": "race",
+      "word_type": "verb",
+      "definitions": [
+        "rush",
+        " hasten",
+        " speed",
+        " hurry"
+      ]
+    },
+    {
+      "word": "raise",
+      "word_type": "verb",
+      "definitions": [
+        "raise",
+        " put up",
+        " construct",
+        " raise"
+      ]
+    },
+    {
+      "word": "raise",
+      "word_type": "verb",
+      "definitions": [
+        "raise",
+        " elevate",
+        " move up"
+      ]
+    },
+    {
+      "word": "raise",
+      "word_type": "verb",
+      "definitions": [
+        "collect funds"
+      ]
+    },
+    {
+      "word": "raise",
+      "word_type": "verb",
+      "definitions": [
+        "rear",
+        " bring up",
+        " nurture",
+        " parent"
+      ]
+    },
+    {
+      "word": "raise",
+      "word_type": "verb",
+      "definitions": [
+        "upgrade",
+        " advance",
+        " kick upstairs"
+      ]
+    },
+    {
+      "word": "rape",
+      "word_type": "verb",
+      "definitions": [
+        "ravish",
+        " violate",
+        " assault"
+      ]
+    },
+    {
+      "word": "reach",
+      "word_type": "verb",
+      "definitions": [
+        "accomplish",
+        " attain",
+        " gain with effort"
+      ]
+    },
+    {
+      "word": "reach",
+      "word_type": "verb",
+      "definitions": [
+        "extend to",
+        " touch"
+      ]
+    },
+    {
+      "word": "read",
+      "word_type": "verb",
+      "definitions": [
+        "interpret something that is written or printed"
+      ]
+    },
+    {
+      "word": "realise",
+      "word_type": "verb",
+      "definitions": [
+        "recognize",
+        " be fully aware of"
+      ]
+    },
+    {
+      "word": "rear",
+      "word_type": "verb",
+      "definitions": [
+        "rise up"
+      ]
+    },
+    {
+      "word": "recognise",
+      "word_type": "verb",
+      "definitions": [
+        "perceive to be the same"
+      ]
+    },
+    {
+      "word": "recognise",
+      "word_type": "verb",
+      "definitions": [
+        "accredit",
+        " grant credentials"
+      ]
+    },
+    {
+      "word": "recommend",
+      "word_type": "verb",
+      "definitions": [
+        "commend"
+      ]
+    },
+    {
+      "word": "record",
+      "word_type": "verb",
+      "definitions": [
+        "tape",
+        " register electronically"
+      ]
+    },
+    {
+      "word": "recover",
+      "word_type": "verb",
+      "definitions": [
+        "recuperate",
+        " convalesce"
+      ]
+    },
+    {
+      "word": "recruit",
+      "word_type": "verb",
+      "definitions": [
+        "seek to employ"
+      ]
+    },
+    {
+      "word": "recycle",
+      "word_type": "verb",
+      "definitions": [
+        "reprocess",
+        " reuse"
+      ]
+    },
+    {
+      "word": "redeem",
+      "word_type": "verb",
+      "definitions": [
+        "exchange for ransom under threat"
+      ]
+    },
+    {
+      "word": "refer",
+      "word_type": "verb",
+      "definitions": [
+        "mention",
+        " advert",
+        " bring up",
+        " cite",
+        " name"
+      ]
+    },
+    {
+      "word": "reflect",
+      "word_type": "verb",
+      "definitions": [
+        "think over",
+        " meditate",
+        " ponder",
+        " contemplate"
+      ]
+    },
+    {
+      "word": "reflect",
+      "word_type": "verb",
+      "definitions": [
+        "shine"
+      ]
+    },
+    {
+      "word": "reform",
+      "word_type": "verb",
+      "definitions": [
+        "improve by alteration or correction"
+      ]
+    },
+    {
+      "word": "refuse",
+      "word_type": "verb",
+      "definitions": [
+        "decline to do"
+      ]
+    },
+    {
+      "word": "refuse",
+      "word_type": "verb",
+      "definitions": [
+        "pass up",
+        " turn down",
+        " refuse",
+        " decline"
+      ]
+    },
+    {
+      "word": "refuse",
+      "word_type": "verb",
+      "definitions": [
+        "refuse to let have"
+      ]
+    },
+    {
+      "word": "register",
+      "word_type": "verb",
+      "definitions": [
+        "enroll to vote"
+      ]
+    },
+    {
+      "word": "regret",
+      "word_type": "verb",
+      "definitions": [
+        "repent",
+        " rue",
+        " feel remorse"
+      ]
+    },
+    {
+      "word": "reinforce",
+      "word_type": "verb",
+      "definitions": [
+        "reward",
+        " support with rewards"
+      ]
+    },
+    {
+      "word": "reject",
+      "word_type": "verb",
+      "definitions": [
+        "rule out",
+        " eliminate"
+      ]
+    },
+    {
+      "word": "relate",
+      "word_type": "verb",
+      "definitions": [
+        "tie in",
+        " link",
+        " connect logically or causally"
+      ]
+    },
+    {
+      "word": "relax",
+      "word_type": "verb",
+      "definitions": [
+        "loosen up",
+        " unwind"
+      ]
+    },
+    {
+      "word": "release",
+      "word_type": "verb",
+      "definitions": [
+        "free",
+        " liberate"
+      ]
+    },
+    {
+      "word": "relieve",
+      "word_type": "verb",
+      "definitions": [
+        "free from a burden or distress"
+      ]
+    },
+    {
+      "word": "relinquish",
+      "word_type": "verb",
+      "definitions": [
+        "renounce",
+        " give up",
+        " foreswear"
+      ]
+    },
+    {
+      "word": "rely",
+      "word_type": "verb",
+      "definitions": [
+        "rely on",
+        " have confidence in"
+      ]
+    },
+    {
+      "word": "remain",
+      "word_type": "verb",
+      "definitions": [
+        "persist",
+        " stay behind"
+      ]
+    },
+    {
+      "word": "remember",
+      "word_type": "verb",
+      "definitions": [
+        "remember"
+      ]
+    },
+    {
+      "word": "remind",
+      "word_type": "verb",
+      "definitions": [
+        "prompt",
+        " cue"
+      ]
+    },
+    {
+      "word": "repeat",
+      "word_type": "verb",
+      "definitions": [
+        "duplicate",
+        " reduplicate",
+        " double",
+        " replicate"
+      ]
+    },
+    {
+      "word": "replace",
+      "word_type": "verb",
+      "definitions": [
+        "substitute for a defective or inadequate one"
+      ]
+    },
+    {
+      "word": "represent",
+      "word_type": "verb",
+      "definitions": [
+        "be a delegate or spokesperson"
+      ]
+    },
+    {
+      "word": "represent",
+      "word_type": "verb",
+      "definitions": [
+        "stand for",
+        " correspond to"
+      ]
+    },
+    {
+      "word": "reproduce",
+      "word_type": "verb",
+      "definitions": [
+        "make a copy"
+      ]
+    },
+    {
+      "word": "request",
+      "word_type": "verb",
+      "definitions": [
+        "call for"
+      ]
+    },
+    {
+      "word": "require",
+      "word_type": "verb",
+      "definitions": [
+        "compel"
+      ]
+    },
+    {
+      "word": "rescue",
+      "word_type": "verb",
+      "definitions": [
+        "free from harm or evil"
+      ]
+    },
+    {
+      "word": "resemble",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "resent",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "reserve",
+      "word_type": "verb",
+      "definitions": [
+        "obtain or arrange in advance"
+      ]
+    },
+    {
+      "word": "resign",
+      "word_type": "verb",
+      "definitions": [
+        "leave office",
+        " quit",
+        " step down"
+      ]
+    },
+    {
+      "word": "resist",
+      "word_type": "verb",
+      "definitions": [
+        "withstand",
+        " hold up against"
+      ]
+    },
+    {
+      "word": "resist",
+      "word_type": "verb",
+      "definitions": [
+        "baulk",
+        " refuse to comply"
+      ]
+    },
+    {
+      "word": "respect",
+      "word_type": "verb",
+      "definitions": [
+        "esteem",
+        " value"
+      ]
+    },
+    {
+      "word": "rest",
+      "word_type": "verb",
+      "definitions": [
+        "breathe",
+        " catch one's breath",
+        " take a breather"
+      ]
+    },
+    {
+      "word": "restrain",
+      "word_type": "verb",
+      "definitions": [
+        "encumber",
+        " constrain",
+        " hold back"
+      ]
+    },
+    {
+      "word": "retain",
+      "word_type": "verb",
+      "definitions": [
+        "remember",
+        " keep in one's mind"
+      ]
+    },
+    {
+      "word": "retire",
+      "word_type": "verb",
+      "definitions": [
+        "go to bed",
+        " turn in"
+      ]
+    },
+    {
+      "word": "retire",
+      "word_type": "verb",
+      "definitions": [
+        "go into retirement"
+      ]
+    },
+    {
+      "word": "retreat",
+      "word_type": "verb",
+      "definitions": [
+        "move away"
+      ]
+    },
+    {
+      "word": "return",
+      "word_type": "verb",
+      "definitions": [
+        "go back"
+      ]
+    },
+    {
+      "word": "return",
+      "word_type": "verb",
+      "definitions": [
+        "bring back",
+        " take back"
+      ]
+    },
+    {
+      "word": "return",
+      "word_type": "verb",
+      "definitions": [
+        "repay",
+        " pay back"
+      ]
+    },
+    {
+      "word": "reveal",
+      "word_type": "verb",
+      "definitions": [
+        "uncover",
+        " bring out",
+        " make visible"
+      ]
+    },
+    {
+      "word": "reverse",
+      "word_type": "verb",
+      "definitions": [
+        "invert",
+        " turn inside out or upside down"
+      ]
+    },
+    {
+      "word": "review",
+      "word_type": "verb",
+      "definitions": [
+        "look back",
+        " retrospect"
+      ]
+    },
+    {
+      "word": "revise",
+      "word_type": "verb",
+      "definitions": [
+        "make revisions to"
+      ]
+    },
+    {
+      "word": "revive",
+      "word_type": "verb",
+      "definitions": [
+        "resuscitate"
+      ]
+    },
+    {
+      "word": "reward",
+      "word_type": "verb",
+      "definitions": [
+        "repay",
+        " pay back"
+      ]
+    },
+    {
+      "word": "ride",
+      "word_type": "verb",
+      "definitions": [
+        "rag",
+        " taunt"
+      ]
+    },
+    {
+      "word": "ride",
+      "word_type": "verb",
+      "definitions": [
+        "be carried or travel in or on a vehicle"
+      ]
+    },
+    {
+      "word": "ring",
+      "word_type": "verb",
+      "definitions": [
+        "peal"
+      ]
+    },
+    {
+      "word": "rise",
+      "word_type": "verb",
+      "definitions": [
+        "get up",
+        " get out of bed"
+      ]
+    },
+    {
+      "word": "rise",
+      "word_type": "verb",
+      "definitions": [
+        "increase",
+        " go up",
+        " climb",
+        " increase in value or level"
+      ]
+    },
+    {
+      "word": "rise",
+      "word_type": "verb",
+      "definitions": [
+        "move upward"
+      ]
+    },
+    {
+      "word": "rise",
+      "word_type": "verb",
+      "definitions": [
+        "arise",
+        " get up",
+        " stand up",
+        " rise to one's feet"
+      ]
+    },
+    {
+      "word": "rise",
+      "word_type": "verb",
+      "definitions": [
+        "come up",
+        " ascend in the sky"
+      ]
+    },
+    {
+      "word": "risk",
+      "word_type": "verb",
+      "definitions": [
+        "gamble",
+        " chance",
+        " hazard",
+        " take chances"
+      ]
+    },
+    {
+      "word": "roar",
+      "word_type": "verb",
+      "definitions": [
+        "bellow",
+        " make a loud noise"
+      ]
+    },
+    {
+      "word": "rob",
+      "word_type": "verb",
+      "definitions": [
+        "deprive somebody of something"
+      ]
+    },
+    {
+      "word": "rock",
+      "word_type": "verb",
+      "definitions": [
+        "sway",
+        " move back and forth"
+      ]
+    },
+    {
+      "word": "roll",
+      "word_type": "verb",
+      "definitions": [
+        "turn over",
+        " turn over or rotate"
+      ]
+    },
+    {
+      "word": "roll",
+      "word_type": "verb",
+      "definitions": [
+        "stray",
+        " tramp",
+        " roam",
+        " ramble",
+        " rove",
+        " range",
+        " drift"
+      ]
+    },
+    {
+      "word": "row",
+      "word_type": "verb",
+      "definitions": [
+        "propel with oars"
+      ]
+    },
+    {
+      "word": "rub",
+      "word_type": "verb",
+      "definitions": [
+        "apply friction"
+      ]
+    },
+    {
+      "word": "rub",
+      "word_type": "verb",
+      "definitions": [
+        "scrape or rub to relieve itching"
+      ]
+    },
+    {
+      "word": "rule",
+      "word_type": "verb",
+      "definitions": [
+        "govern"
+      ]
+    },
+    {
+      "word": "run",
+      "word_type": "verb",
+      "definitions": [
+        "campaign for office"
+      ]
+    },
+    {
+      "word": "run",
+      "word_type": "verb",
+      "definitions": [
+        "be operating or functioning"
+      ]
+    },
+    {
+      "word": "run",
+      "word_type": "verb",
+      "definitions": [
+        "move fast on one's feet"
+      ]
+    },
+    {
+      "word": "run",
+      "word_type": "verb",
+      "definitions": [
+        "run"
+      ]
+    },
+    {
+      "word": "run",
+      "word_type": "verb",
+      "definitions": [
+        "run",
+        " run away",
+        " flee"
+      ]
+    },
+    {
+      "word": "sail",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "save",
+      "word_type": "verb",
+      "definitions": [
+        "lay aside",
+        " save up"
+      ]
+    },
+    {
+      "word": "save",
+      "word_type": "verb",
+      "definitions": [
+        "spare"
+      ]
+    },
+    {
+      "word": "say",
+      "word_type": "verb",
+      "definitions": [
+        "state",
+        " tell"
+      ]
+    },
+    {
+      "word": "scan",
+      "word_type": "verb",
+      "definitions": [
+        "skim",
+        " examine hastily"
+      ]
+    },
+    {
+      "word": "scatter",
+      "word_type": "verb",
+      "definitions": [
+        "sprinkle",
+        " dot",
+        " dust",
+        " disperse"
+      ]
+    },
+    {
+      "word": "scramble",
+      "word_type": "verb",
+      "definitions": [
+        "jumble"
+      ]
+    },
+    {
+      "word": "scrape",
+      "word_type": "verb",
+      "definitions": [
+        "grate",
+        " scratch"
+      ]
+    },
+    {
+      "word": "scratch",
+      "word_type": "verb",
+      "definitions": [
+        "scrape"
+      ]
+    },
+    {
+      "word": "scream",
+      "word_type": "verb",
+      "definitions": [
+        "yell",
+        " shriek"
+      ]
+    },
+    {
+      "word": "screen",
+      "word_type": "verb",
+      "definitions": [
+        "examine methodically"
+      ]
+    },
+    {
+      "word": "screen",
+      "word_type": "verb",
+      "definitions": [
+        "screen out",
+        " sieve out"
+      ]
+    },
+    {
+      "word": "screw",
+      "word_type": "verb",
+      "definitions": [
+        "fool",
+        " swindle"
+      ]
+    },
+    {
+      "word": "screw",
+      "word_type": "verb",
+      "definitions": [
+        "tighten",
+        " fasten"
+      ]
+    },
+    {
+      "word": "seal",
+      "word_type": "verb",
+      "definitions": [
+        "seal off",
+        " make tight",
+        " secure against leakage"
+      ]
+    },
+    {
+      "word": "secure",
+      "word_type": "verb",
+      "definitions": [
+        "fasten",
+        " fix",
+        " cause to be firmly attached"
+      ]
+    },
+    {
+      "word": "see",
+      "word_type": "verb",
+      "definitions": [
+        "understand",
+        " realize"
+      ]
+    },
+    {
+      "word": "see",
+      "word_type": "verb",
+      "definitions": [
+        "meet",
+        " ran into",
+        " encounter",
+        " run across",
+        " come across"
+      ]
+    },
+    {
+      "word": "see",
+      "word_type": "verb",
+      "definitions": [
+        "perceive by sight"
+      ]
+    },
+    {
+      "word": "seek",
+      "word_type": "verb",
+      "definitions": [
+        "search",
+        " look for"
+      ]
+    },
+    {
+      "word": "seem",
+      "word_type": "verb",
+      "definitions": [
+        "appear"
+      ]
+    },
+    {
+      "word": "seize",
+      "word_type": "verb",
+      "definitions": [
+        "clutch",
+        " take hold of",
+        " grab",
+        " grasp"
+      ]
+    },
+    {
+      "word": "sell",
+      "word_type": "verb",
+      "definitions": [
+        "exchange for money"
+      ]
+    },
+    {
+      "word": "sell",
+      "word_type": "verb",
+      "definitions": [
+        "sell out"
+      ]
+    },
+    {
+      "word": "send",
+      "word_type": "verb",
+      "definitions": [
+        "send",
+        " post"
+      ]
+    },
+    {
+      "word": "send",
+      "word_type": "verb",
+      "definitions": [
+        "air",
+        " send"
+      ]
+    },
+    {
+      "word": "separate",
+      "word_type": "verb",
+      "definitions": [
+        "fork",
+        " divide into branches"
+      ]
+    },
+    {
+      "word": "separate",
+      "word_type": "verb",
+      "definitions": [
+        "split up",
+        " split",
+        " part company"
+      ]
+    },
+    {
+      "word": "separate",
+      "word_type": "verb",
+      "definitions": [
+        "separate",
+        " single out",
+        " treat differently"
+      ]
+    },
+    {
+      "word": "serve",
+      "word_type": "verb",
+      "definitions": [
+        "serve up",
+        " dish out"
+      ]
+    },
+    {
+      "word": "serve",
+      "word_type": "verb",
+      "definitions": [
+        "attend to",
+        " wait on",
+        " attend",
+        " assist"
+      ]
+    },
+    {
+      "word": "set",
+      "word_type": "verb",
+      "definitions": [
+        "adjust",
+        " correct",
+        " regulate"
+      ]
+    },
+    {
+      "word": "set",
+      "word_type": "verb",
+      "definitions": [
+        "put or set into the ground"
+      ]
+    },
+    {
+      "word": "set",
+      "word_type": "verb",
+      "definitions": [
+        "go down",
+        " go below the horizon"
+      ]
+    },
+    {
+      "word": "settle",
+      "word_type": "verb",
+      "definitions": [
+        "establish a residence"
+      ]
+    },
+    {
+      "word": "settle",
+      "word_type": "verb",
+      "definitions": [
+        "end a legal dispute"
+      ]
+    },
+    {
+      "word": "settle",
+      "word_type": "verb",
+      "definitions": [
+        "make up"
+      ]
+    },
+    {
+      "word": "settle",
+      "word_type": "verb",
+      "definitions": [
+        "go down",
+        " go under"
+      ]
+    },
+    {
+      "word": "shake",
+      "word_type": "verb",
+      "definitions": [
+        "agitate",
+        " move back and forth"
+      ]
+    },
+    {
+      "word": "shake",
+      "word_type": "verb",
+      "definitions": [
+        "sway"
+      ]
+    },
+    {
+      "word": "shape",
+      "word_type": "verb",
+      "definitions": [
+        "form",
+        " work",
+        " mold",
+        " forge"
+      ]
+    },
+    {
+      "word": "share",
+      "word_type": "verb",
+      "definitions": [
+        "use jointly or in common"
+      ]
+    },
+    {
+      "word": "shatter",
+      "word_type": "verb",
+      "definitions": [
+        "break"
+      ]
+    },
+    {
+      "word": "shave",
+      "word_type": "verb",
+      "definitions": [
+        "remove body hair"
+      ]
+    },
+    {
+      "word": "shed",
+      "word_type": "verb",
+      "definitions": [
+        "spill",
+        " disgorge"
+      ]
+    },
+    {
+      "word": "shift",
+      "word_type": "verb",
+      "definitions": [
+        "shift",
+        " stir"
+      ]
+    },
+    {
+      "word": "shine",
+      "word_type": "verb",
+      "definitions": [
+        "shine"
+      ]
+    },
+    {
+      "word": "shine",
+      "word_type": "verb",
+      "definitions": [
+        "glitter",
+        " glisten",
+        " glint",
+        " gleam"
+      ]
+    },
+    {
+      "word": "shiver",
+      "word_type": "verb",
+      "definitions": [
+        "shudder"
+      ]
+    },
+    {
+      "word": "shock",
+      "word_type": "verb",
+      "definitions": [
+        "floor",
+        " surprise greatly"
+      ]
+    },
+    {
+      "word": "shock",
+      "word_type": "verb",
+      "definitions": [
+        "offend",
+        " scandalize",
+        " outrage"
+      ]
+    },
+    {
+      "word": "shoot",
+      "word_type": "verb",
+      "definitions": [
+        "spud",
+        " germinate",
+        " sprout"
+      ]
+    },
+    {
+      "word": "shoot",
+      "word_type": "verb",
+      "definitions": [
+        "fire a shot"
+      ]
+    },
+    {
+      "word": "shout",
+      "word_type": "verb",
+      "definitions": [
+        "speak loudly"
+      ]
+    },
+    {
+      "word": "shout",
+      "word_type": "verb",
+      "definitions": [
+        "shout at",
+        " abuse verbally"
+      ]
+    },
+    {
+      "word": "show",
+      "word_type": "verb",
+      "definitions": [
+        "indicate",
+        " point"
+      ]
+    },
+    {
+      "word": "show",
+      "word_type": "verb",
+      "definitions": [
+        "exhibit",
+        " present",
+        " demonstrate"
+      ]
+    },
+    {
+      "word": "show",
+      "word_type": "verb",
+      "definitions": [
+        "reveal",
+        " display"
+      ]
+    },
+    {
+      "word": "shrink",
+      "word_type": "verb",
+      "definitions": [
+        "shrivel"
+      ]
+    },
+    {
+      "word": "shrug",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "sigh",
+      "word_type": "verb",
+      "definitions": [
+        "utter a sigh"
+      ]
+    },
+    {
+      "word": "sightsee",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "sign",
+      "word_type": "verb",
+      "definitions": [
+        "mark with one's signature"
+      ]
+    },
+    {
+      "word": "sing",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "sip",
+      "word_type": "verb",
+      "definitions": [
+        "drink"
+      ]
+    },
+    {
+      "word": "sit",
+      "word_type": "verb",
+      "definitions": [
+        "sit down",
+        " be seated"
+      ]
+    },
+    {
+      "word": "skate",
+      "word_type": "verb",
+      "definitions": [
+        "move on skates"
+      ]
+    },
+    {
+      "word": "slam",
+      "word_type": "verb",
+      "definitions": [
+        "bang",
+        " close violently"
+      ]
+    },
+    {
+      "word": "slap",
+      "word_type": "verb",
+      "definitions": [
+        "hit with a flat surface"
+      ]
+    },
+    {
+      "word": "slide",
+      "word_type": "verb",
+      "definitions": [
+        "slither",
+        " pass or move unobtrusively or smoothly"
+      ]
+    },
+    {
+      "word": "slip",
+      "word_type": "verb",
+      "definitions": [
+        "skid",
+        " slide"
+      ]
+    },
+    {
+      "word": "slump",
+      "word_type": "verb",
+      "definitions": [
+        "slouch"
+      ]
+    },
+    {
+      "word": "smash",
+      "word_type": "verb",
+      "definitions": [
+        "break into pieces"
+      ]
+    },
+    {
+      "word": "smell",
+      "word_type": "verb",
+      "definitions": [
+        "emit an odor"
+      ]
+    },
+    {
+      "word": "smell",
+      "word_type": "verb",
+      "definitions": [
+        "perceive by the olfactory sense"
+      ]
+    },
+    {
+      "word": "smile",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "smoke",
+      "word_type": "verb",
+      "definitions": [
+        "inhale a plant derivative"
+      ]
+    },
+    {
+      "word": "snap",
+      "word_type": "verb",
+      "definitions": [
+        "crack",
+        " break suddenly",
+        " rupture"
+      ]
+    },
+    {
+      "word": "snap",
+      "word_type": "verb",
+      "definitions": [
+        "speak sharply",
+        " snap"
+      ]
+    },
+    {
+      "word": "snap",
+      "word_type": "verb",
+      "definitions": [
+        "snatch up",
+        " snap up"
+      ]
+    },
+    {
+      "word": "snap",
+      "word_type": "verb",
+      "definitions": [
+        "click",
+        " flick",
+        " make a snapping sound"
+      ]
+    },
+    {
+      "word": "snatch",
+      "word_type": "verb",
+      "definitions": [
+        "snatch",
+        " abduct"
+      ]
+    },
+    {
+      "word": "sniff",
+      "word_type": "verb",
+      "definitions": [
+        "whiff",
+        " inhale"
+      ]
+    },
+    {
+      "word": "snuggle",
+      "word_type": "verb",
+      "definitions": [
+        "cuddle",
+        " nestle",
+        " draw close"
+      ]
+    },
+    {
+      "word": "soak",
+      "word_type": "verb",
+      "definitions": [
+        "submerge in liquid"
+      ]
+    },
+    {
+      "word": "soak",
+      "word_type": "verb",
+      "definitions": [
+        "surcharge",
+        " fleece",
+        " rip off"
+      ]
+    },
+    {
+      "word": "soak",
+      "word_type": "verb",
+      "definitions": [
+        "hock"
+      ]
+    },
+    {
+      "word": "soar",
+      "word_type": "verb",
+      "definitions": [
+        "fly upwards"
+      ]
+    },
+    {
+      "word": "solve",
+      "word_type": "verb",
+      "definitions": [
+        "work out",
+        " figure out",
+        " puzzle out"
+      ]
+    },
+    {
+      "word": "sow",
+      "word_type": "verb",
+      "definitions": [
+        "place seeds into the ground"
+      ]
+    },
+    {
+      "word": "spare",
+      "word_type": "verb",
+      "definitions": [
+        "give up",
+        " part with"
+      ]
+    },
+    {
+      "word": "spare",
+      "word_type": "verb",
+      "definitions": [
+        "save from an unpleasant experience"
+      ]
+    },
+    {
+      "word": "speculate",
+      "word_type": "verb",
+      "definitions": [
+        "invest at a risk"
+      ]
+    },
+    {
+      "word": "speed",
+      "word_type": "verb",
+      "definitions": [
+        "travel at an excessive or illegal velocity"
+      ]
+    },
+    {
+      "word": "spend",
+      "word_type": "verb",
+      "definitions": [
+        "expend"
+      ]
+    },
+    {
+      "word": "spill",
+      "word_type": "verb",
+      "definitions": [
+        "flow out"
+      ]
+    },
+    {
+      "word": "spin",
+      "word_type": "verb",
+      "definitions": [
+        "twist and turn so as to give an intended interpretation"
+      ]
+    },
+    {
+      "word": "spin",
+      "word_type": "verb",
+      "definitions": [
+        "form a web"
+      ]
+    },
+    {
+      "word": "spin",
+      "word_type": "verb",
+      "definitions": [
+        "spin around",
+        " whirl",
+        " reel",
+        " gyrate",
+        " revolve"
+      ]
+    },
+    {
+      "word": "spit",
+      "word_type": "verb",
+      "definitions": [
+        "spew"
+      ]
+    },
+    {
+      "word": "split",
+      "word_type": "verb",
+      "definitions": [
+        "burst",
+        " break open"
+      ]
+    },
+    {
+      "word": "spoil",
+      "word_type": "verb",
+      "definitions": [
+        "rot",
+        " go bad",
+        " become unfit for consumption"
+      ]
+    },
+    {
+      "word": "spoil",
+      "word_type": "verb",
+      "definitions": [
+        "impair",
+        " make imperfect"
+      ]
+    },
+    {
+      "word": "spoil",
+      "word_type": "verb",
+      "definitions": [
+        "pamper",
+        " coddle",
+        " mollycoddle",
+        " indulge"
+      ]
+    },
+    {
+      "word": "spray",
+      "word_type": "verb",
+      "definitions": [
+        "scatter"
+      ]
+    },
+    {
+      "word": "spread",
+      "word_type": "verb",
+      "definitions": [
+        "distribute",
+        " disseminate",
+        " propagate",
+        " broadcast",
+        " diffuse",
+        " disperse",
+        " spread",
+        " cause to become widely known"
+      ]
+    },
+    {
+      "word": "spread",
+      "word_type": "verb",
+      "definitions": [
+        "distribute over a surface"
+      ]
+    },
+    {
+      "word": "square",
+      "word_type": "verb",
+      "definitions": [
+        "raise to the second power"
+      ]
+    },
+    {
+      "word": "squeeze",
+      "word_type": "verb",
+      "definitions": [
+        "pinch"
+      ]
+    },
+    {
+      "word": "squeeze",
+      "word_type": "verb",
+      "definitions": [
+        "hug"
+      ]
+    },
+    {
+      "word": "squeeze",
+      "word_type": "verb",
+      "definitions": [
+        "crush",
+        " mash"
+      ]
+    },
+    {
+      "word": "squeeze",
+      "word_type": "verb",
+      "definitions": [
+        "gouge"
+      ]
+    },
+    {
+      "word": "stab",
+      "word_type": "verb",
+      "definitions": [
+        "knife"
+      ]
+    },
+    {
+      "word": "stain",
+      "word_type": "verb",
+      "definitions": [
+        "spot",
+        " produce stains"
+      ]
+    },
+    {
+      "word": "stamp",
+      "word_type": "verb",
+      "definitions": [
+        "pigeonhole"
+      ]
+    },
+    {
+      "word": "stamp",
+      "word_type": "verb",
+      "definitions": [
+        "stomp",
+        " walk heavily"
+      ]
+    },
+    {
+      "word": "stand",
+      "word_type": "verb",
+      "definitions": [
+        "bear",
+        " endure",
+        " stomach",
+        " bear",
+        " put up with"
+      ]
+    },
+    {
+      "word": "stand",
+      "word_type": "verb",
+      "definitions": [
+        "stand up"
+      ]
+    },
+    {
+      "word": "start",
+      "word_type": "verb",
+      "definitions": [
+        "leave",
+        " start out",
+        " set forth",
+        " set off",
+        " set out",
+        " take off"
+      ]
+    },
+    {
+      "word": "stay",
+      "word_type": "verb",
+      "definitions": [
+        "stick around",
+        " stay put"
+      ]
+    },
+    {
+      "word": "step",
+      "word_type": "verb",
+      "definitions": [
+        "tread"
+      ]
+    },
+    {
+      "word": "step",
+      "word_type": "verb",
+      "definitions": [
+        "maltreat",
+        " abuse"
+      ]
+    },
+    {
+      "word": "stick",
+      "word_type": "verb",
+      "definitions": [
+        "adhere",
+        " hold fast",
+        " bond",
+        " bind",
+        " stick to"
+      ]
+    },
+    {
+      "word": "stick",
+      "word_type": "verb",
+      "definitions": [
+        "stick",
+        " puncture"
+      ]
+    },
+    {
+      "word": "sting",
+      "word_type": "verb",
+      "definitions": [
+        "bite",
+        " deliver an animal sting"
+      ]
+    },
+    {
+      "word": "stir",
+      "word_type": "verb",
+      "definitions": [
+        "move an implement with a circular motion"
+      ]
+    },
+    {
+      "word": "stop",
+      "word_type": "verb",
+      "definitions": [
+        "halt",
+        " come to a halt",
+        " stop moving"
+      ]
+    },
+    {
+      "word": "stop",
+      "word_type": "verb",
+      "definitions": [
+        "discontinue",
+        " cease doing"
+      ]
+    },
+    {
+      "word": "store",
+      "word_type": "verb",
+      "definitions": [
+        "lay in",
+        " put in",
+        " salt away",
+        " stack away",
+        " stash away"
+      ]
+    },
+    {
+      "word": "storm",
+      "word_type": "verb",
+      "definitions": [
+        "rain",
+        " hail",
+        " or snow hard"
+      ]
+    },
+    {
+      "word": "straighten",
+      "word_type": "verb",
+      "definitions": [
+        "straighten out",
+        " make straight"
+      ]
+    },
+    {
+      "word": "strain",
+      "word_type": "verb",
+      "definitions": [
+        "tense",
+        " tense up"
+      ]
+    },
+    {
+      "word": "stress",
+      "word_type": "verb",
+      "definitions": [
+        "emphasize",
+        " underline"
+      ]
+    },
+    {
+      "word": "stretch",
+      "word_type": "verb",
+      "definitions": [
+        "stretch out",
+        " extend one's limbs"
+      ]
+    },
+    {
+      "word": "stride",
+      "word_type": "verb",
+      "definitions": [
+        "walk with long steps"
+      ]
+    },
+    {
+      "word": "strike",
+      "word_type": "verb",
+      "definitions": [
+        "scratch",
+        " expunge",
+        " excise",
+        " remove by erasing"
+      ]
+    },
+    {
+      "word": "strike",
+      "word_type": "verb",
+      "definitions": [
+        "walk out",
+        " walk off a job"
+      ]
+    },
+    {
+      "word": "strip",
+      "word_type": "verb",
+      "definitions": [
+        "disrobe"
+      ]
+    },
+    {
+      "word": "stroke",
+      "word_type": "verb",
+      "definitions": [
+        "fondle",
+        " caress"
+      ]
+    },
+    {
+      "word": "stroll",
+      "word_type": "verb",
+      "definitions": [
+        "saunter"
+      ]
+    },
+    {
+      "word": "study",
+      "word_type": "verb",
+      "definitions": [
+        "hit the books"
+      ]
+    },
+    {
+      "word": "stuff",
+      "word_type": "verb",
+      "definitions": [
+        "fill tightly"
+      ]
+    },
+    {
+      "word": "stuff",
+      "word_type": "verb",
+      "definitions": [
+        "gorge"
+      ]
+    },
+    {
+      "word": "stumble",
+      "word_type": "verb",
+      "definitions": [
+        "slip up",
+        " trip up",
+        " make an error"
+      ]
+    },
+    {
+      "word": "submit",
+      "word_type": "verb",
+      "definitions": [
+        "reconcile oneself",
+        " accept as inevitable"
+      ]
+    },
+    {
+      "word": "substitute",
+      "word_type": "verb",
+      "definitions": [
+        "replace",
+        " put in the place of another"
+      ]
+    },
+    {
+      "word": "suffer",
+      "word_type": "verb",
+      "definitions": [
+        "hurt",
+        " ache"
+      ]
+    },
+    {
+      "word": "suggest",
+      "word_type": "verb",
+      "definitions": [
+        "propose",
+        " advise"
+      ]
+    },
+    {
+      "word": "suggest",
+      "word_type": "verb",
+      "definitions": [
+        "suggest"
+      ]
+    },
+    {
+      "word": "suit",
+      "word_type": "verb",
+      "definitions": [
+        "be agreeable or acceptable"
+      ]
+    },
+    {
+      "word": "support",
+      "word_type": "verb",
+      "definitions": [
+        "confirm",
+        " corroborate",
+        " substantiate"
+      ]
+    },
+    {
+      "word": "suppose",
+      "word_type": "verb",
+      "definitions": [
+        "speculate",
+        " theorize",
+        " conjecture"
+      ]
+    },
+    {
+      "word": "suppress",
+      "word_type": "verb",
+      "definitions": [
+        "curb",
+        " inhibit"
+      ]
+    },
+    {
+      "word": "surround",
+      "word_type": "verb",
+      "definitions": [
+        "encircle",
+        " circle",
+        " round"
+      ]
+    },
+    {
+      "word": "sustain",
+      "word_type": "verb",
+      "definitions": [
+        "prolong",
+        " keep up"
+      ]
+    },
+    {
+      "word": "swallow",
+      "word_type": "verb",
+      "definitions": [
+        "believe or accept without questioning"
+      ]
+    },
+    {
+      "word": "swallow",
+      "word_type": "verb",
+      "definitions": [
+        "pass through the esophagus"
+      ]
+    },
+    {
+      "word": "swear",
+      "word_type": "verb",
+      "definitions": [
+        "declare under oath"
+      ]
+    },
+    {
+      "word": "swear",
+      "word_type": "verb",
+      "definitions": [
+        "curse",
+        " cuss",
+        " blaspheme"
+      ]
+    },
+    {
+      "word": "sweep",
+      "word_type": "verb",
+      "definitions": [
+        "use a broom"
+      ]
+    },
+    {
+      "word": "swell",
+      "word_type": "verb",
+      "definitions": [
+        "swell up"
+      ]
+    },
+    {
+      "word": "swim",
+      "word_type": "verb",
+      "definitions": [
+        "travel through water"
+      ]
+    },
+    {
+      "word": "swim",
+      "word_type": "verb",
+      "definitions": [
+        "be afloat",
+        " fail to sink"
+      ]
+    },
+    {
+      "word": "swing",
+      "word_type": "verb",
+      "definitions": [
+        "move with a swaying motion"
+      ]
+    },
+    {
+      "word": "swipe",
+      "word_type": "verb",
+      "definitions": [
+        "move something with a swiping motion"
+      ]
+    },
+    {
+      "word": "switch",
+      "word_type": "verb",
+      "definitions": [
+        "switch",
+        " trade",
+        " swap",
+        " exchange"
+      ]
+    },
+    {
+      "word": "take",
+      "word_type": "verb",
+      "definitions": [
+        "choose",
+        " select",
+        " pick out"
+      ]
+    },
+    {
+      "word": "take",
+      "word_type": "verb",
+      "definitions": [
+        "bring",
+        " convey"
+      ]
+    },
+    {
+      "word": "talk",
+      "word_type": "verb",
+      "definitions": [
+        "speak",
+        " use language"
+      ]
+    },
+    {
+      "word": "tap",
+      "word_type": "verb",
+      "definitions": [
+        "draw from"
+      ]
+    },
+    {
+      "word": "tap",
+      "word_type": "verb",
+      "definitions": [
+        "strike lightly"
+      ]
+    },
+    {
+      "word": "taste",
+      "word_type": "verb",
+      "definitions": [
+        "perceive by the sense of taste"
+      ]
+    },
+    {
+      "word": "tease",
+      "word_type": "verb",
+      "definitions": [
+        "mock",
+        " make fun of"
+      ]
+    },
+    {
+      "word": "tease",
+      "word_type": "verb",
+      "definitions": [
+        "arouse hope or desire without satisfying them"
+      ]
+    },
+    {
+      "word": "tell",
+      "word_type": "verb",
+      "definitions": [
+        "narrate",
+        " recount",
+        " recite"
+      ]
+    },
+    {
+      "word": "tempt",
+      "word_type": "verb",
+      "definitions": [
+        "entice",
+        " lure"
+      ]
+    },
+    {
+      "word": "terrify",
+      "word_type": "verb",
+      "definitions": [
+        "frighten greatly"
+      ]
+    },
+    {
+      "word": "testify",
+      "word_type": "verb",
+      "definitions": [
+        "bear witness"
+      ]
+    },
+    {
+      "word": "thank",
+      "word_type": "verb",
+      "definitions": [
+        "give thanks"
+      ]
+    },
+    {
+      "word": "think",
+      "word_type": "verb",
+      "definitions": [
+        "cogitate",
+        " cerebrate"
+      ]
+    },
+    {
+      "word": "think",
+      "word_type": "verb",
+      "definitions": [
+        "believe",
+        " accept as true"
+      ]
+    },
+    {
+      "word": "think",
+      "word_type": "verb",
+      "definitions": [
+        "retrieve",
+        " recall"
+      ]
+    },
+    {
+      "word": "threaten",
+      "word_type": "verb",
+      "definitions": [
+        "utter intentions of injury or punishment"
+      ]
+    },
+    {
+      "word": "throw",
+      "word_type": "verb",
+      "definitions": [
+        "throw",
+        " befuddle",
+        " confound"
+      ]
+    },
+    {
+      "word": "throw",
+      "word_type": "verb",
+      "definitions": [
+        "project through the air"
+      ]
+    },
+    {
+      "word": "thrust",
+      "word_type": "verb",
+      "definitions": [
+        "lunge",
+        " hurl",
+        " hurtle"
+      ]
+    },
+    {
+      "word": "tick",
+      "word_type": "verb",
+      "definitions": [
+        "click"
+      ]
+    },
+    {
+      "word": "tie",
+      "word_type": "verb",
+      "definitions": [
+        "form a knot or bow in"
+      ]
+    },
+    {
+      "word": "time",
+      "word_type": "verb",
+      "definitions": [
+        "clock",
+        " measure the time or duration of an event"
+      ]
+    },
+    {
+      "word": "tip",
+      "word_type": "verb",
+      "definitions": [
+        "tippytoe"
+      ]
+    },
+    {
+      "word": "tip",
+      "word_type": "verb",
+      "definitions": [
+        "tip",
+        " cause to fall over"
+      ]
+    },
+    {
+      "word": "tolerate",
+      "word_type": "verb",
+      "definitions": [
+        "recognize",
+        " respect others' rights"
+      ]
+    },
+    {
+      "word": "toss",
+      "word_type": "verb",
+      "definitions": [
+        "flip",
+        " pitch",
+        " throw"
+      ]
+    },
+    {
+      "word": "total",
+      "word_type": "verb",
+      "definitions": [
+        "damage beyond the point of repair"
+      ]
+    },
+    {
+      "word": "touch",
+      "word_type": "verb",
+      "definitions": [
+        "make physical contact with"
+      ]
+    },
+    {
+      "word": "train",
+      "word_type": "verb",
+      "definitions": [
+        "coach"
+      ]
+    },
+    {
+      "word": "transfer",
+      "word_type": "verb",
+      "definitions": [
+        "transmit",
+        " transport",
+        " channel"
+      ]
+    },
+    {
+      "word": "transform",
+      "word_type": "verb",
+      "definitions": [
+        "transmute",
+        " metamorphose"
+      ]
+    },
+    {
+      "word": "tread",
+      "word_type": "verb",
+      "definitions": [
+        "trample"
+      ]
+    },
+    {
+      "word": "treat",
+      "word_type": "verb",
+      "definitions": [
+        "care for",
+        " provide treatment for",
+        " treat medically"
+      ]
+    },
+    {
+      "word": "treat",
+      "word_type": "verb",
+      "definitions": [
+        "handle"
+      ]
+    },
+    {
+      "word": "tremble",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "trip",
+      "word_type": "verb",
+      "definitions": [
+        "stumble"
+      ]
+    },
+    {
+      "word": "trouble",
+      "word_type": "verb",
+      "definitions": [
+        "perturb",
+        " distract",
+        " make uneasy"
+      ]
+    },
+    {
+      "word": "try",
+      "word_type": "verb",
+      "definitions": [
+        "sample",
+        " try out",
+        " taste"
+      ]
+    },
+    {
+      "word": "try",
+      "word_type": "verb",
+      "definitions": [
+        "seek",
+        " attempt",
+        " essay"
+      ]
+    },
+    {
+      "word": "try",
+      "word_type": "verb",
+      "definitions": [
+        "judge",
+        " adjudicate"
+      ]
+    },
+    {
+      "word": "tumble",
+      "word_type": "verb",
+      "definitions": [
+        "topple",
+        " fall down"
+      ]
+    },
+    {
+      "word": "tune",
+      "word_type": "verb",
+      "definitions": [
+        "tune up",
+        " adjust for (better) functioning"
+      ]
+    },
+    {
+      "word": "turn",
+      "word_type": "verb",
+      "definitions": [
+        "flex",
+        " turn",
+        " deform",
+        " twist"
+      ]
+    },
+    {
+      "word": "turn",
+      "word_type": "verb",
+      "definitions": [
+        "turn around",
+        " change orientation"
+      ]
+    },
+    {
+      "word": "turn",
+      "word_type": "verb",
+      "definitions": [
+        "turn"
+      ]
+    },
+    {
+      "word": "twist",
+      "word_type": "verb",
+      "definitions": [
+        "entwine",
+        " form into a spiral"
+      ]
+    },
+    {
+      "word": "twist",
+      "word_type": "verb",
+      "definitions": [
+        "writhe",
+        " worm",
+        " squirm"
+      ]
+    },
+    {
+      "word": "underline",
+      "word_type": "verb",
+      "definitions": [
+        "underscore",
+        " draw a line"
+      ]
+    },
+    {
+      "word": "undermine",
+      "word_type": "verb",
+      "definitions": [
+        "sabotage",
+        " countermine",
+        " counteract"
+      ]
+    },
+    {
+      "word": "understand",
+      "word_type": "verb",
+      "definitions": [
+        "comprehend"
+      ]
+    },
+    {
+      "word": "understand",
+      "word_type": "verb",
+      "definitions": [
+        "sympathize",
+        " empathize"
+      ]
+    },
+    {
+      "word": "undertake",
+      "word_type": "verb",
+      "definitions": [
+        "tackle",
+        " take on"
+      ]
+    },
+    {
+      "word": "update",
+      "word_type": "verb",
+      "definitions": [
+        "bring up to date"
+      ]
+    },
+    {
+      "word": "upset",
+      "word_type": "verb",
+      "definitions": [
+        "disturb",
+        " trouble",
+        " move deeply"
+      ]
+    },
+    {
+      "word": "upset",
+      "word_type": "verb",
+      "definitions": [
+        "overturn",
+        " tip over",
+        " turn over",
+        " knock over"
+      ]
+    },
+    {
+      "word": "urge",
+      "word_type": "verb",
+      "definitions": [
+        "cheer",
+        " inspire",
+        " urge on"
+      ]
+    },
+    {
+      "word": "use",
+      "word_type": "verb",
+      "definitions": [
+        "practice",
+        " apply"
+      ]
+    },
+    {
+      "word": "utter",
+      "word_type": "verb",
+      "definitions": [
+        "emit"
+      ]
+    },
+    {
+      "word": "visit",
+      "word_type": "verb",
+      "definitions": [
+        "travel to"
+      ]
+    },
+    {
+      "word": "vote",
+      "word_type": "verb",
+      "definitions": [
+        "cast a vote in an election"
+      ]
+    },
+    {
+      "word": "wait",
+      "word_type": "verb",
+      "definitions": [
+        "stay in one place and anticipate something"
+      ]
+    },
+    {
+      "word": "wake",
+      "word_type": "verb",
+      "definitions": [
+        "wake up",
+        " stop sleeping"
+      ]
+    },
+    {
+      "word": "walk",
+      "word_type": "verb",
+      "definitions": [
+        "use one's feet to advance"
+      ]
+    },
+    {
+      "word": "wander",
+      "word_type": "verb",
+      "definitions": [
+        "wander",
+        " stray"
+      ]
+    },
+    {
+      "word": "want",
+      "word_type": "verb",
+      "definitions": [
+        "desire"
+      ]
+    },
+    {
+      "word": "warn",
+      "word_type": "verb",
+      "definitions": [
+        "notify of danger",
+        " potential harm",
+        " or risk"
+      ]
+    },
+    {
+      "word": "wash",
+      "word_type": "verb",
+      "definitions": [
+        "bathe",
+        " cleanse one's body"
+      ]
+    },
+    {
+      "word": "wash",
+      "word_type": "verb",
+      "definitions": [
+        "launder"
+      ]
+    },
+    {
+      "word": "waste",
+      "word_type": "verb",
+      "definitions": [
+        "squander",
+        " spend extravagantly"
+      ]
+    },
+    {
+      "word": "watch",
+      "word_type": "verb",
+      "definitions": [
+        "look on",
+        " observe"
+      ]
+    },
+    {
+      "word": "wave",
+      "word_type": "verb",
+      "definitions": [
+        "beckon",
+        " signal with the hands"
+      ]
+    },
+    {
+      "word": "wear",
+      "word_type": "verb",
+      "definitions": [
+        "have on clothes"
+      ]
+    },
+    {
+      "word": "weave",
+      "word_type": "verb",
+      "definitions": [
+        "make cloth"
+      ]
+    },
+    {
+      "word": "weigh",
+      "word_type": "verb",
+      "definitions": [
+        "determine the weight of"
+      ]
+    },
+    {
+      "word": "weigh",
+      "word_type": "verb",
+      "definitions": [
+        "have a certain weight"
+      ]
+    },
+    {
+      "word": "whip",
+      "word_type": "verb",
+      "definitions": [
+        "lash"
+      ]
+    },
+    {
+      "word": "whisper",
+      "word_type": "verb",
+      "definitions": [
+        "speak softly"
+      ]
+    },
+    {
+      "word": "widen",
+      "word_type": "verb",
+      "definitions": [
+        "make wider"
+      ]
+    },
+    {
+      "word": "win",
+      "word_type": "verb",
+      "definitions": [
+        "be victorious"
+      ]
+    },
+    {
+      "word": "wind",
+      "word_type": "verb",
+      "definitions": [
+        "wind up",
+        " coil the spring of a mechanism"
+      ]
+    },
+    {
+      "word": "wipe",
+      "word_type": "verb",
+      "definitions": []
+    },
+    {
+      "word": "withdraw",
+      "word_type": "verb",
+      "definitions": [
+        "retreat",
+        " pull out"
+      ]
+    },
+    {
+      "word": "wonder",
+      "word_type": "verb",
+      "definitions": [
+        "question",
+        " want to know"
+      ]
+    },
+    {
+      "word": "work",
+      "word_type": "verb",
+      "definitions": [
+        "do work"
+      ]
+    },
+    {
+      "word": "work_out",
+      "word_type": "verb",
+      "definitions": [
+        "exercise"
+      ]
+    },
+    {
+      "word": "worry",
+      "word_type": "verb",
+      "definitions": [
+        "be worried"
+      ]
+    },
+    {
+      "word": "wrap",
+      "word_type": "verb",
+      "definitions": [
+        "enfold in a tissue"
+      ]
+    },
+    {
+      "word": "wrestle",
+      "word_type": "verb",
+      "definitions": [
+        "engage in a wrestling match"
+      ]
+    },
+    {
+      "word": "write",
+      "word_type": "verb",
+      "definitions": [
+        "communicate or express by writing"
+      ]
+    },
+    {
+      "word": "write",
+      "word_type": "verb",
+      "definitions": [
+        "publish"
+      ]
+    },
+    {
+      "word": "write",
+      "word_type": "verb",
+      "definitions": [
+        "write"
+      ]
+    },
+    {
+      "word": "write",
+      "word_type": "verb",
+      "definitions": [
+        "write music"
+      ]
+    }
+  ]
+}
