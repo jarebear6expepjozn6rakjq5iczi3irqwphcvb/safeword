@@ -4,26 +4,51 @@ namespace safeword;
 
 class Species
 {
-    public static function pool(
-        bool $default_common_name = false,
+    public array $species_pool = ["this"];
+
+    function __construct(
+        bool $require_common_name = false,
         bool $require_synonym = false,
-        array $include_kingdoms = ["eukaryota", "bacteria", "viruses"]): array
+        array $included_kingdoms = ["eukaryota", "bacteria", "viruses"])
     {
-        return array_map(
+        // build array of requested data
+        array_map(
             function ($i): array
             {
-                return match ($i) {
-                    "bacteria" => (array)json_decode(file_get_contents(
-                        __DIR__ . "/raw_data/species/bacteria.json"
-                    ), true)["bacteria"],
-                    "eukaryota" => (array)json_decode(file_get_contents(
-                        __DIR__ . "/raw_data/species/eukaryota.json"
-                    ), true)["eukaryota"],
-                    "viruses" => (array)json_decode(file_get_contents(
-                        __DIR__ . "/raw_data/species/viruses.json"
-                    ), true)["viruses"],
-                    default => (array)["no data available"],
-                };
-            }, $include_kingdoms);
+                switch ($i) {
+                    case "bacteria":
+                        $this->species_pool = array_merge($this->species_pool, json_decode(file_get_contents(
+                            __DIR__ . "/raw_data/species/bacteria.json"
+                        ), true)["bacteria"]);
+                        break;
+                    case "eukaryota":
+                        $this->species_pool = array_merge($this->species_pool, json_decode(file_get_contents(
+                            __DIR__ . "/raw_data/species/eukaryota.json"
+                        ), true)["eukaryota"]);
+                        break;
+                    case "viruses":
+                        $this->species_pool = array_merge($this->species_pool, json_decode(file_get_contents(
+                            __DIR__ . "/raw_data/species/viruses.json"
+                        ), true)["viruses"]);
+                        break;
+                }
+                print_r($this->species_pool);
+                return ["no data available"];
+            }, $included_kingdoms
+        );
+
+        if ($require_common_name)
+        {
+            $this->species_pool = array_filter(
+                $this->species_pool,
+            function ($i): bool
+            {
+                if($i["common_name"])
+            }
+
+            )
+        }
     }
 }
+
+$a = new Species();

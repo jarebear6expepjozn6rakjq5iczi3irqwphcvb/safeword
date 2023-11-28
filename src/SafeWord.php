@@ -24,7 +24,7 @@ class SafeWord
         }
 
         if ($build_species) {
-            $this->species_pool = Species::pool(false, false, ["eukaryota"]);
+            $this->species_pool = Species::pool();
         }
     }
 
